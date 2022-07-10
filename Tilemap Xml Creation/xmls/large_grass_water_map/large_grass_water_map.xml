@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <struct name="large_grass_water_map">
     <layer name="1">
+        <Tile name="grass_tile_set{X:448 Y:128}">
+            <tileSet>grass_tile_set</tileSet>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
+            <tileMapCoordinate>{X:0 Y:0}</tileMapCoordinate>
+            <positionBox>{X:0 Y:64 Width:64 Height:64}</positionBox>
+        </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
             <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>

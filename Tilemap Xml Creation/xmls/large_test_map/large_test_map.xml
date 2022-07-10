@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <struct name="large_test_map">
     <layer name="1">
+        <Tile name="woodfloor_tile_set{X:0 Y:64}">
+            <tileSet>woodfloor_tile_set</tileSet>
+            <tileSetCoordinate>X:0 Y:64}</tileSetCoordinate>
+            <tileMapCoordinate>{X:0 Y:0}</tileMapCoordinate>
+            <positionBox>{X:0 Y:64 Width:64 Height:64}</positionBox>
+        </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>X:64 Y:64}</tileSetCoordinate>

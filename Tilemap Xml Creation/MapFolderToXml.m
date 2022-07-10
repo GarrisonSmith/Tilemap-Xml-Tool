@@ -49,12 +49,12 @@ function foo = get_layer_xml(layerString, animatedConfig, hitboxConfig)
     row = 0;
     column = 0;
     
-    startDex = 1;
+    startDex = 0;
     tileNum = 1;
     atileNum = 1;
     for i=1:length(layerChar)
         if layerChar(i) == '|' || layerChar(i) == ';'
-            if(startDex > 1)
+            if(startDex ~= i)
                 tileString = layerChar(startDex+1:i-1);
                 if tileString ~= ""
                     if(tile_has_animation(tileString, animatedConfig))
