@@ -74,6 +74,7 @@ function foo = get_layer_xml(layerString, animatedConfig, hitboxConfig)
             end
             if layerChar(i) == ';'
                 row = row+1;
+                column = 0;
             end
         end
     end
@@ -83,13 +84,14 @@ end
 %creates the xml node for the provided tile string.
 function foo = create_tile_xml(tileString, animatedConfig, hitboxConfig, row, column)
      xPos = column * 64;
-     yPos = row * 64;
+     yPos = (row+1) * 64;
      
      nameArr = split(tileString, '{');
      
      Tile.tileSet = nameArr(1);
      Tile.nameAttribute = tileString;
      Tile.tileSetCoordiante = nameArr(end);
+     Tile.tileMapCoordinate = "{X:"+string(column)+" Y:"+string(row)+"}";
      Tile.positionBox = "{X:"+string(xPos)+" Y:"+string(yPos)+" Width:64 Height:64}";
      
      if(tile_has_hitbox(tileString, hitboxConfig))
