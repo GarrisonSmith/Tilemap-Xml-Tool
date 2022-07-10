@@ -90,7 +90,7 @@ function foo = create_tile_xml(tileString, animatedConfig, hitboxConfig, row, co
      
      Tile.tileSet = nameArr(1);
      Tile.nameAttribute = tileString;
-     Tile.tileSetCoordiante = nameArr(end);
+     Tile.tileSetCoordinate = nameArr(end);
      Tile.tileMapCoordinate = "{X:"+string(column)+" Y:"+string(row)+"}";
      Tile.positionBox = "{X:"+string(xPos)+" Y:"+string(yPos)+" Width:64 Height:64}";
      

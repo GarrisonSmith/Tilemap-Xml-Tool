@@ -3,1771 +3,1771 @@
     <layer name="1">
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:0}</tileMapCoordinate>
             <positionBox>{X:64 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:0}</tileMapCoordinate>
             <positionBox>{X:128 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:0}</tileMapCoordinate>
             <positionBox>{X:192 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:0}</tileMapCoordinate>
             <positionBox>{X:256 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:0}</tileMapCoordinate>
             <positionBox>{X:320 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:0}</tileMapCoordinate>
             <positionBox>{X:384 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:0}</tileMapCoordinate>
             <positionBox>{X:448 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:0}</tileMapCoordinate>
             <positionBox>{X:512 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:0}</tileMapCoordinate>
             <positionBox>{X:576 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:0}</tileMapCoordinate>
             <positionBox>{X:640 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:0}</tileMapCoordinate>
             <positionBox>{X:704 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:0}</tileMapCoordinate>
             <positionBox>{X:768 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:0}</tileMapCoordinate>
             <positionBox>{X:832 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:0}</tileMapCoordinate>
             <positionBox>{X:896 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:0}</tileMapCoordinate>
             <positionBox>{X:960 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:0}</tileMapCoordinate>
             <positionBox>{X:1024 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:0}</tileMapCoordinate>
             <positionBox>{X:1088 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:0}</tileMapCoordinate>
             <positionBox>{X:1152 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:0}</tileMapCoordinate>
             <positionBox>{X:1216 Y:64 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:1}</tileMapCoordinate>
             <positionBox>{X:0 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:1}</tileMapCoordinate>
             <positionBox>{X:64 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:1}</tileMapCoordinate>
             <positionBox>{X:128 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:1}</tileMapCoordinate>
             <positionBox>{X:192 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:1}</tileMapCoordinate>
             <positionBox>{X:256 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:1}</tileMapCoordinate>
             <positionBox>{X:320 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:1}</tileMapCoordinate>
             <positionBox>{X:384 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:1}</tileMapCoordinate>
             <positionBox>{X:448 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:1}</tileMapCoordinate>
             <positionBox>{X:512 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:1}</tileMapCoordinate>
             <positionBox>{X:576 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:1}</tileMapCoordinate>
             <positionBox>{X:640 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:1}</tileMapCoordinate>
             <positionBox>{X:704 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:1}</tileMapCoordinate>
             <positionBox>{X:768 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:1}</tileMapCoordinate>
             <positionBox>{X:832 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:1}</tileMapCoordinate>
             <positionBox>{X:896 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:1}</tileMapCoordinate>
             <positionBox>{X:960 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:1}</tileMapCoordinate>
             <positionBox>{X:1024 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:1}</tileMapCoordinate>
             <positionBox>{X:1088 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:1}</tileMapCoordinate>
             <positionBox>{X:1152 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:1}</tileMapCoordinate>
             <positionBox>{X:1216 Y:128 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:2}</tileMapCoordinate>
             <positionBox>{X:0 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:2}</tileMapCoordinate>
             <positionBox>{X:64 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:2}</tileMapCoordinate>
             <positionBox>{X:128 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:2}</tileMapCoordinate>
             <positionBox>{X:192 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:2}</tileMapCoordinate>
             <positionBox>{X:256 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:2}</tileMapCoordinate>
             <positionBox>{X:320 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:2}</tileMapCoordinate>
             <positionBox>{X:384 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:2}</tileMapCoordinate>
             <positionBox>{X:448 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:2}</tileMapCoordinate>
             <positionBox>{X:512 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:2}</tileMapCoordinate>
             <positionBox>{X:576 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:2}</tileMapCoordinate>
             <positionBox>{X:640 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:2}</tileMapCoordinate>
             <positionBox>{X:704 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:2}</tileMapCoordinate>
             <positionBox>{X:768 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:2}</tileMapCoordinate>
             <positionBox>{X:832 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:2}</tileMapCoordinate>
             <positionBox>{X:896 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:2}</tileMapCoordinate>
             <positionBox>{X:960 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:2}</tileMapCoordinate>
             <positionBox>{X:1024 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:2}</tileMapCoordinate>
             <positionBox>{X:1088 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:2}</tileMapCoordinate>
             <positionBox>{X:1152 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:2}</tileMapCoordinate>
             <positionBox>{X:1216 Y:192 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:3}</tileMapCoordinate>
             <positionBox>{X:0 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:3}</tileMapCoordinate>
             <positionBox>{X:64 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:3}</tileMapCoordinate>
             <positionBox>{X:128 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:3}</tileMapCoordinate>
             <positionBox>{X:192 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:3}</tileMapCoordinate>
             <positionBox>{X:256 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:3}</tileMapCoordinate>
             <positionBox>{X:320 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:3}</tileMapCoordinate>
             <positionBox>{X:384 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:3}</tileMapCoordinate>
             <positionBox>{X:448 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:3}</tileMapCoordinate>
             <positionBox>{X:512 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:3}</tileMapCoordinate>
             <positionBox>{X:576 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:3}</tileMapCoordinate>
             <positionBox>{X:640 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:320 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:320 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:320 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:3}</tileMapCoordinate>
             <positionBox>{X:704 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:192}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:3}</tileMapCoordinate>
             <positionBox>{X:768 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:192}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:3}</tileMapCoordinate>
             <positionBox>{X:832 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:192}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:3}</tileMapCoordinate>
             <positionBox>{X:896 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:192}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:3}</tileMapCoordinate>
             <positionBox>{X:960 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:192}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:3}</tileMapCoordinate>
             <positionBox>{X:1024 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:192}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:3}</tileMapCoordinate>
             <positionBox>{X:1088 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:384 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:3}</tileMapCoordinate>
             <positionBox>{X:1152 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:3}</tileMapCoordinate>
             <positionBox>{X:1216 Y:256 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:4}</tileMapCoordinate>
             <positionBox>{X:0 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:4}</tileMapCoordinate>
             <positionBox>{X:64 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:4}</tileMapCoordinate>
             <positionBox>{X:128 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:4}</tileMapCoordinate>
             <positionBox>{X:192 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:4}</tileMapCoordinate>
             <positionBox>{X:256 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:4}</tileMapCoordinate>
             <positionBox>{X:320 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:4}</tileMapCoordinate>
             <positionBox>{X:384 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:4}</tileMapCoordinate>
             <positionBox>{X:448 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:4}</tileMapCoordinate>
             <positionBox>{X:512 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:4}</tileMapCoordinate>
             <positionBox>{X:576 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:4}</tileMapCoordinate>
             <positionBox>{X:640 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:320 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:320 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:320 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:4}</tileMapCoordinate>
             <positionBox>{X:704 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:4}</tileMapCoordinate>
             <positionBox>{X:768 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:4}</tileMapCoordinate>
             <positionBox>{X:832 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:4}</tileMapCoordinate>
             <positionBox>{X:896 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:4}</tileMapCoordinate>
             <positionBox>{X:960 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:4}</tileMapCoordinate>
             <positionBox>{X:1024 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:4}</tileMapCoordinate>
             <positionBox>{X:1088 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:384 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:4}</tileMapCoordinate>
             <positionBox>{X:1152 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:4}</tileMapCoordinate>
             <positionBox>{X:1216 Y:320 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:5}</tileMapCoordinate>
             <positionBox>{X:0 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:5}</tileMapCoordinate>
             <positionBox>{X:64 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:5}</tileMapCoordinate>
             <positionBox>{X:128 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:5}</tileMapCoordinate>
             <positionBox>{X:192 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:5}</tileMapCoordinate>
             <positionBox>{X:256 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:5}</tileMapCoordinate>
             <positionBox>{X:320 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:5}</tileMapCoordinate>
             <positionBox>{X:384 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:5}</tileMapCoordinate>
             <positionBox>{X:448 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:5}</tileMapCoordinate>
             <positionBox>{X:512 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:5}</tileMapCoordinate>
             <positionBox>{X:576 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:5}</tileMapCoordinate>
             <positionBox>{X:640 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:320 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:320 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:320 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:5}</tileMapCoordinate>
             <positionBox>{X:704 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:5}</tileMapCoordinate>
             <positionBox>{X:768 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:5}</tileMapCoordinate>
             <positionBox>{X:832 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:5}</tileMapCoordinate>
             <positionBox>{X:896 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:5}</tileMapCoordinate>
             <positionBox>{X:960 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:5}</tileMapCoordinate>
             <positionBox>{X:1024 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:192 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:192 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:192 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:5}</tileMapCoordinate>
             <positionBox>{X:1088 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:384 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:5}</tileMapCoordinate>
             <positionBox>{X:1152 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:5}</tileMapCoordinate>
             <positionBox>{X:1216 Y:384 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:6}</tileMapCoordinate>
             <positionBox>{X:0 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:6}</tileMapCoordinate>
             <positionBox>{X:64 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:6}</tileMapCoordinate>
             <positionBox>{X:128 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:6}</tileMapCoordinate>
             <positionBox>{X:192 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:6}</tileMapCoordinate>
             <positionBox>{X:256 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:6}</tileMapCoordinate>
             <positionBox>{X:320 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:6}</tileMapCoordinate>
             <positionBox>{X:384 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:6}</tileMapCoordinate>
             <positionBox>{X:448 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:6}</tileMapCoordinate>
             <positionBox>{X:512 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:6}</tileMapCoordinate>
             <positionBox>{X:576 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:6}</tileMapCoordinate>
             <positionBox>{X:640 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:320 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:320 Y:192}</tileSetCoordiante>
+            <tileSetCoordinate>X:320 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:6}</tileMapCoordinate>
             <positionBox>{X:704 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:6}</tileMapCoordinate>
             <positionBox>{X:768 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:6}</tileMapCoordinate>
             <positionBox>{X:832 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:6}</tileMapCoordinate>
             <positionBox>{X:896 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:64 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:6}</tileMapCoordinate>
             <positionBox>{X:960 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:6}</tileMapCoordinate>
             <positionBox>{X:1024 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:192 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:192 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:192 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:6}</tileMapCoordinate>
             <positionBox>{X:1088 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="brickwall_tile_set{X:384 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:192}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:6}</tileMapCoordinate>
             <positionBox>{X:1152 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:6}</tileMapCoordinate>
             <positionBox>{X:1216 Y:448 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:7}</tileMapCoordinate>
             <positionBox>{X:0 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:7}</tileMapCoordinate>
             <positionBox>{X:64 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:7}</tileMapCoordinate>
             <positionBox>{X:128 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:7}</tileMapCoordinate>
             <positionBox>{X:192 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:7}</tileMapCoordinate>
             <positionBox>{X:256 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:7}</tileMapCoordinate>
             <positionBox>{X:320 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:7}</tileMapCoordinate>
             <positionBox>{X:384 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:7}</tileMapCoordinate>
             <positionBox>{X:448 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:7}</tileMapCoordinate>
             <positionBox>{X:512 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:7}</tileMapCoordinate>
             <positionBox>{X:576 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:7}</tileMapCoordinate>
             <positionBox>{X:640 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:7}</tileMapCoordinate>
             <positionBox>{X:704 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:7}</tileMapCoordinate>
             <positionBox>{X:768 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:7}</tileMapCoordinate>
             <positionBox>{X:832 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:7}</tileMapCoordinate>
             <positionBox>{X:896 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:7}</tileMapCoordinate>
             <positionBox>{X:960 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:7}</tileMapCoordinate>
             <positionBox>{X:1024 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:7}</tileMapCoordinate>
             <positionBox>{X:1088 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:7}</tileMapCoordinate>
             <positionBox>{X:1152 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:7}</tileMapCoordinate>
             <positionBox>{X:1216 Y:512 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:8}</tileMapCoordinate>
             <positionBox>{X:0 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:8}</tileMapCoordinate>
             <positionBox>{X:64 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:8}</tileMapCoordinate>
             <positionBox>{X:128 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:8}</tileMapCoordinate>
             <positionBox>{X:192 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:8}</tileMapCoordinate>
             <positionBox>{X:256 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:8}</tileMapCoordinate>
             <positionBox>{X:320 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:8}</tileMapCoordinate>
             <positionBox>{X:384 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:8}</tileMapCoordinate>
             <positionBox>{X:448 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:8}</tileMapCoordinate>
             <positionBox>{X:512 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:8}</tileMapCoordinate>
             <positionBox>{X:576 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:8}</tileMapCoordinate>
             <positionBox>{X:640 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:8}</tileMapCoordinate>
             <positionBox>{X:704 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:8}</tileMapCoordinate>
             <positionBox>{X:768 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:8}</tileMapCoordinate>
             <positionBox>{X:832 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:8}</tileMapCoordinate>
             <positionBox>{X:896 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:8}</tileMapCoordinate>
             <positionBox>{X:960 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:8}</tileMapCoordinate>
             <positionBox>{X:1024 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:8}</tileMapCoordinate>
             <positionBox>{X:1088 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:8}</tileMapCoordinate>
             <positionBox>{X:1152 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:8}</tileMapCoordinate>
             <positionBox>{X:1216 Y:576 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:9}</tileMapCoordinate>
             <positionBox>{X:0 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:9}</tileMapCoordinate>
             <positionBox>{X:64 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:9}</tileMapCoordinate>
             <positionBox>{X:128 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:9}</tileMapCoordinate>
             <positionBox>{X:192 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:9}</tileMapCoordinate>
             <positionBox>{X:256 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:9}</tileMapCoordinate>
             <positionBox>{X:320 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:9}</tileMapCoordinate>
             <positionBox>{X:384 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:9}</tileMapCoordinate>
             <positionBox>{X:448 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:9}</tileMapCoordinate>
             <positionBox>{X:512 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:9}</tileMapCoordinate>
             <positionBox>{X:576 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:9}</tileMapCoordinate>
             <positionBox>{X:640 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:9}</tileMapCoordinate>
             <positionBox>{X:704 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:9}</tileMapCoordinate>
             <positionBox>{X:768 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:9}</tileMapCoordinate>
             <positionBox>{X:832 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:9}</tileMapCoordinate>
             <positionBox>{X:896 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:9}</tileMapCoordinate>
             <positionBox>{X:960 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:9}</tileMapCoordinate>
             <positionBox>{X:1024 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:9}</tileMapCoordinate>
             <positionBox>{X:1088 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:9}</tileMapCoordinate>
             <positionBox>{X:1152 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:9}</tileMapCoordinate>
             <positionBox>{X:1216 Y:640 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:10}</tileMapCoordinate>
             <positionBox>{X:0 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:10}</tileMapCoordinate>
             <positionBox>{X:64 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:10}</tileMapCoordinate>
             <positionBox>{X:128 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:10}</tileMapCoordinate>
             <positionBox>{X:192 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:10}</tileMapCoordinate>
             <positionBox>{X:256 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:10}</tileMapCoordinate>
             <positionBox>{X:320 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:10}</tileMapCoordinate>
             <positionBox>{X:384 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:10}</tileMapCoordinate>
             <positionBox>{X:448 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:10}</tileMapCoordinate>
             <positionBox>{X:512 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:10}</tileMapCoordinate>
             <positionBox>{X:576 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:10}</tileMapCoordinate>
             <positionBox>{X:640 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:10}</tileMapCoordinate>
             <positionBox>{X:704 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:10}</tileMapCoordinate>
             <positionBox>{X:768 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:10}</tileMapCoordinate>
             <positionBox>{X:832 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:10}</tileMapCoordinate>
             <positionBox>{X:896 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:10}</tileMapCoordinate>
             <positionBox>{X:960 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:10}</tileMapCoordinate>
             <positionBox>{X:1024 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:10}</tileMapCoordinate>
             <positionBox>{X:1088 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:10}</tileMapCoordinate>
             <positionBox>{X:1152 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:10}</tileMapCoordinate>
             <positionBox>{X:1216 Y:704 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:11}</tileMapCoordinate>
             <positionBox>{X:0 Y:768 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:11}</tileMapCoordinate>
             <positionBox>{X:832 Y:768 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:11}</tileMapCoordinate>
             <positionBox>{X:896 Y:768 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:11}</tileMapCoordinate>
             <positionBox>{X:960 Y:768 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:11}</tileMapCoordinate>
             <positionBox>{X:1024 Y:768 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:11}</tileMapCoordinate>
             <positionBox>{X:1088 Y:768 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:11}</tileMapCoordinate>
             <positionBox>{X:1152 Y:768 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:11}</tileMapCoordinate>
             <positionBox>{X:1216 Y:768 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:12}</tileMapCoordinate>
             <positionBox>{X:0 Y:832 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:320 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:320 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:320 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:12}</tileMapCoordinate>
             <positionBox>{X:768 Y:832 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:12}</tileMapCoordinate>
             <positionBox>{X:832 Y:832 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:12}</tileMapCoordinate>
             <positionBox>{X:896 Y:832 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:12}</tileMapCoordinate>
             <positionBox>{X:960 Y:832 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:12}</tileMapCoordinate>
             <positionBox>{X:1024 Y:832 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:12}</tileMapCoordinate>
             <positionBox>{X:1088 Y:832 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:12}</tileMapCoordinate>
             <positionBox>{X:1152 Y:832 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:12}</tileMapCoordinate>
             <positionBox>{X:1216 Y:832 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:13}</tileMapCoordinate>
             <positionBox>{X:0 Y:896 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:320 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:320 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:320 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:13}</tileMapCoordinate>
             <positionBox>{X:768 Y:896 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:13}</tileMapCoordinate>
             <positionBox>{X:832 Y:896 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:13}</tileMapCoordinate>
             <positionBox>{X:896 Y:896 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:13}</tileMapCoordinate>
             <positionBox>{X:960 Y:896 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:13}</tileMapCoordinate>
             <positionBox>{X:1024 Y:896 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:13}</tileMapCoordinate>
             <positionBox>{X:1088 Y:896 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:13}</tileMapCoordinate>
             <positionBox>{X:1152 Y:896 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:13}</tileMapCoordinate>
             <positionBox>{X:1216 Y:896 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:14}</tileMapCoordinate>
             <positionBox>{X:0 Y:960 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:320 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:320 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:320 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:14}</tileMapCoordinate>
             <positionBox>{X:768 Y:960 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:14}</tileMapCoordinate>
             <positionBox>{X:832 Y:960 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:14}</tileMapCoordinate>
             <positionBox>{X:896 Y:960 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:14}</tileMapCoordinate>
             <positionBox>{X:960 Y:960 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:14}</tileMapCoordinate>
             <positionBox>{X:1024 Y:960 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:14}</tileMapCoordinate>
             <positionBox>{X:1088 Y:960 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:14}</tileMapCoordinate>
             <positionBox>{X:1152 Y:960 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:14}</tileMapCoordinate>
             <positionBox>{X:1216 Y:960 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:15}</tileMapCoordinate>
             <positionBox>{X:0 Y:1024 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:15}</tileMapCoordinate>
             <positionBox>{X:832 Y:1024 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:15}</tileMapCoordinate>
             <positionBox>{X:896 Y:1024 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:15}</tileMapCoordinate>
             <positionBox>{X:960 Y:1024 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:15}</tileMapCoordinate>
             <positionBox>{X:1024 Y:1024 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:15}</tileMapCoordinate>
             <positionBox>{X:1088 Y:1024 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:15}</tileMapCoordinate>
             <positionBox>{X:1152 Y:1024 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:15}</tileMapCoordinate>
             <positionBox>{X:1216 Y:1024 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:16}</tileMapCoordinate>
             <positionBox>{X:0 Y:1088 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:16}</tileMapCoordinate>
             <positionBox>{X:832 Y:1088 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:16}</tileMapCoordinate>
             <positionBox>{X:896 Y:1088 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:16}</tileMapCoordinate>
             <positionBox>{X:960 Y:1088 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:16}</tileMapCoordinate>
             <positionBox>{X:1024 Y:1088 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:16}</tileMapCoordinate>
             <positionBox>{X:1088 Y:1088 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:16}</tileMapCoordinate>
             <positionBox>{X:1152 Y:1088 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:16}</tileMapCoordinate>
             <positionBox>{X:1216 Y:1088 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:17}</tileMapCoordinate>
             <positionBox>{X:0 Y:1152 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:17}</tileMapCoordinate>
             <positionBox>{X:832 Y:1152 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:17}</tileMapCoordinate>
             <positionBox>{X:896 Y:1152 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:17}</tileMapCoordinate>
             <positionBox>{X:960 Y:1152 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:17}</tileMapCoordinate>
             <positionBox>{X:1024 Y:1152 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:17}</tileMapCoordinate>
             <positionBox>{X:1088 Y:1152 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:17}</tileMapCoordinate>
             <positionBox>{X:1152 Y:1152 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:17}</tileMapCoordinate>
             <positionBox>{X:1216 Y:1152 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:18}</tileMapCoordinate>
             <positionBox>{X:0 Y:1216 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:18}</tileMapCoordinate>
             <positionBox>{X:832 Y:1216 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:18}</tileMapCoordinate>
             <positionBox>{X:896 Y:1216 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:18}</tileMapCoordinate>
             <positionBox>{X:960 Y:1216 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:18}</tileMapCoordinate>
             <positionBox>{X:1024 Y:1216 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:18}</tileMapCoordinate>
             <positionBox>{X:1088 Y:1216 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:18}</tileMapCoordinate>
             <positionBox>{X:1152 Y:1216 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:18}</tileMapCoordinate>
             <positionBox>{X:1216 Y:1216 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:0 Y:19}</tileMapCoordinate>
             <positionBox>{X:0 Y:1280 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:19}</tileMapCoordinate>
             <positionBox>{X:832 Y:1280 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:19}</tileMapCoordinate>
             <positionBox>{X:896 Y:1280 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:384 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:384 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:19}</tileMapCoordinate>
             <positionBox>{X:960 Y:1280 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:448 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:448 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:448 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:19}</tileMapCoordinate>
             <positionBox>{X:1024 Y:1280 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:19}</tileMapCoordinate>
             <positionBox>{X:1088 Y:1280 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:128}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:128}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:19}</tileMapCoordinate>
             <positionBox>{X:1152 Y:1280 Width:64 Height:64}</positionBox>
         </Tile>
         <Tile name="grass_tile_set{X:512 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:512 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:512 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:19 Y:19}</tileMapCoordinate>
             <positionBox>{X:1216 Y:1280 Width:64 Height:64}</positionBox>
         </Tile>
         <AnimatedTile name="grass_tile_set{X:0 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:0 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:0 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:11}</tileMapCoordinate>
             <positionBox>{X:64 Y:768 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -1800,7 +1800,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:11}</tileMapCoordinate>
             <positionBox>{X:128 Y:768 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -1826,7 +1826,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:11}</tileMapCoordinate>
             <positionBox>{X:192 Y:768 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -1852,7 +1852,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:11}</tileMapCoordinate>
             <positionBox>{X:256 Y:768 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -1878,7 +1878,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:11}</tileMapCoordinate>
             <positionBox>{X:320 Y:768 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -1904,7 +1904,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:11}</tileMapCoordinate>
             <positionBox>{X:384 Y:768 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -1930,7 +1930,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:11}</tileMapCoordinate>
             <positionBox>{X:448 Y:768 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -1956,7 +1956,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:11}</tileMapCoordinate>
             <positionBox>{X:512 Y:768 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -1982,7 +1982,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:11}</tileMapCoordinate>
             <positionBox>{X:576 Y:768 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2008,7 +2008,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:11}</tileMapCoordinate>
             <positionBox>{X:640 Y:768 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2034,7 +2034,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:11}</tileMapCoordinate>
             <positionBox>{X:704 Y:768 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2060,7 +2060,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:256 Y:0}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:256 Y:0}</tileSetCoordiante>
+            <tileSetCoordinate>X:256 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:11}</tileMapCoordinate>
             <positionBox>{X:768 Y:768 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2086,7 +2086,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:0 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:0 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:0 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:12}</tileMapCoordinate>
             <positionBox>{X:64 Y:832 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2112,7 +2112,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:12}</tileMapCoordinate>
             <positionBox>{X:128 Y:832 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2138,7 +2138,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:12}</tileMapCoordinate>
             <positionBox>{X:192 Y:832 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2164,7 +2164,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:12}</tileMapCoordinate>
             <positionBox>{X:256 Y:832 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2190,7 +2190,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:12}</tileMapCoordinate>
             <positionBox>{X:320 Y:832 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2216,7 +2216,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:12}</tileMapCoordinate>
             <positionBox>{X:384 Y:832 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2242,7 +2242,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:12}</tileMapCoordinate>
             <positionBox>{X:448 Y:832 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2268,7 +2268,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:12}</tileMapCoordinate>
             <positionBox>{X:512 Y:832 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2294,7 +2294,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:12}</tileMapCoordinate>
             <positionBox>{X:576 Y:832 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2320,7 +2320,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:12}</tileMapCoordinate>
             <positionBox>{X:640 Y:832 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2346,7 +2346,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:12}</tileMapCoordinate>
             <positionBox>{X:704 Y:832 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2372,7 +2372,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:0 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:0 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:0 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:13}</tileMapCoordinate>
             <positionBox>{X:64 Y:896 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2398,7 +2398,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:13}</tileMapCoordinate>
             <positionBox>{X:128 Y:896 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2424,7 +2424,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:13}</tileMapCoordinate>
             <positionBox>{X:192 Y:896 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2450,7 +2450,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:13}</tileMapCoordinate>
             <positionBox>{X:256 Y:896 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2476,7 +2476,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:13}</tileMapCoordinate>
             <positionBox>{X:320 Y:896 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2502,7 +2502,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:13}</tileMapCoordinate>
             <positionBox>{X:384 Y:896 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2528,7 +2528,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:13}</tileMapCoordinate>
             <positionBox>{X:448 Y:896 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2554,7 +2554,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:13}</tileMapCoordinate>
             <positionBox>{X:512 Y:896 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2580,7 +2580,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:13}</tileMapCoordinate>
             <positionBox>{X:576 Y:896 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2606,7 +2606,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:13}</tileMapCoordinate>
             <positionBox>{X:640 Y:896 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2632,7 +2632,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:13}</tileMapCoordinate>
             <positionBox>{X:704 Y:896 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2658,7 +2658,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:0 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:0 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:0 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:14}</tileMapCoordinate>
             <positionBox>{X:64 Y:960 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2684,7 +2684,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:14}</tileMapCoordinate>
             <positionBox>{X:128 Y:960 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2710,7 +2710,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:14}</tileMapCoordinate>
             <positionBox>{X:192 Y:960 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2736,7 +2736,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:14}</tileMapCoordinate>
             <positionBox>{X:256 Y:960 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2762,7 +2762,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:14}</tileMapCoordinate>
             <positionBox>{X:320 Y:960 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2788,7 +2788,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:14}</tileMapCoordinate>
             <positionBox>{X:384 Y:960 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2814,7 +2814,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:14}</tileMapCoordinate>
             <positionBox>{X:448 Y:960 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2840,7 +2840,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:14}</tileMapCoordinate>
             <positionBox>{X:512 Y:960 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2866,7 +2866,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:14}</tileMapCoordinate>
             <positionBox>{X:576 Y:960 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2892,7 +2892,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:14}</tileMapCoordinate>
             <positionBox>{X:640 Y:960 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2918,7 +2918,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:14}</tileMapCoordinate>
             <positionBox>{X:704 Y:960 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2944,7 +2944,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:0 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:0 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:0 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:15}</tileMapCoordinate>
             <positionBox>{X:64 Y:1024 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2970,7 +2970,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:15}</tileMapCoordinate>
             <positionBox>{X:128 Y:1024 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -2996,7 +2996,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:15}</tileMapCoordinate>
             <positionBox>{X:192 Y:1024 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3022,7 +3022,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:15}</tileMapCoordinate>
             <positionBox>{X:256 Y:1024 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3048,7 +3048,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:15}</tileMapCoordinate>
             <positionBox>{X:320 Y:1024 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3074,7 +3074,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:15}</tileMapCoordinate>
             <positionBox>{X:384 Y:1024 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3100,7 +3100,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:15}</tileMapCoordinate>
             <positionBox>{X:448 Y:1024 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3126,7 +3126,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:15}</tileMapCoordinate>
             <positionBox>{X:512 Y:1024 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3152,7 +3152,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:15}</tileMapCoordinate>
             <positionBox>{X:576 Y:1024 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3178,7 +3178,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:15}</tileMapCoordinate>
             <positionBox>{X:640 Y:1024 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3204,7 +3204,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:15}</tileMapCoordinate>
             <positionBox>{X:704 Y:1024 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3230,7 +3230,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:256 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:256 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:256 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:15}</tileMapCoordinate>
             <positionBox>{X:768 Y:1024 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3256,7 +3256,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:0 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:0 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:0 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:16}</tileMapCoordinate>
             <positionBox>{X:64 Y:1088 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3282,7 +3282,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:16}</tileMapCoordinate>
             <positionBox>{X:128 Y:1088 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3308,7 +3308,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:16}</tileMapCoordinate>
             <positionBox>{X:192 Y:1088 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3334,7 +3334,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:16}</tileMapCoordinate>
             <positionBox>{X:256 Y:1088 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3360,7 +3360,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:16}</tileMapCoordinate>
             <positionBox>{X:320 Y:1088 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3386,7 +3386,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:16}</tileMapCoordinate>
             <positionBox>{X:384 Y:1088 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3412,7 +3412,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:16}</tileMapCoordinate>
             <positionBox>{X:448 Y:1088 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3438,7 +3438,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:16}</tileMapCoordinate>
             <positionBox>{X:512 Y:1088 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3464,7 +3464,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:16}</tileMapCoordinate>
             <positionBox>{X:576 Y:1088 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3490,7 +3490,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:16}</tileMapCoordinate>
             <positionBox>{X:640 Y:1088 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3516,7 +3516,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:16}</tileMapCoordinate>
             <positionBox>{X:704 Y:1088 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3542,7 +3542,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:256 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:256 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:256 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:16}</tileMapCoordinate>
             <positionBox>{X:768 Y:1088 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3568,7 +3568,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:0 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:0 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:0 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:17}</tileMapCoordinate>
             <positionBox>{X:64 Y:1152 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3594,7 +3594,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:17}</tileMapCoordinate>
             <positionBox>{X:128 Y:1152 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3620,7 +3620,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:17}</tileMapCoordinate>
             <positionBox>{X:192 Y:1152 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3646,7 +3646,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:17}</tileMapCoordinate>
             <positionBox>{X:256 Y:1152 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3672,7 +3672,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:17}</tileMapCoordinate>
             <positionBox>{X:320 Y:1152 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3698,7 +3698,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:17}</tileMapCoordinate>
             <positionBox>{X:384 Y:1152 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3724,7 +3724,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:17}</tileMapCoordinate>
             <positionBox>{X:448 Y:1152 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3750,7 +3750,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:17}</tileMapCoordinate>
             <positionBox>{X:512 Y:1152 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3776,7 +3776,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:17}</tileMapCoordinate>
             <positionBox>{X:576 Y:1152 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3802,7 +3802,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:17}</tileMapCoordinate>
             <positionBox>{X:640 Y:1152 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3828,7 +3828,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:17}</tileMapCoordinate>
             <positionBox>{X:704 Y:1152 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3854,7 +3854,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:256 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:256 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:256 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:17}</tileMapCoordinate>
             <positionBox>{X:768 Y:1152 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3880,7 +3880,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:0 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:0 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:0 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:18}</tileMapCoordinate>
             <positionBox>{X:64 Y:1216 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3906,7 +3906,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:18}</tileMapCoordinate>
             <positionBox>{X:128 Y:1216 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3932,7 +3932,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:18}</tileMapCoordinate>
             <positionBox>{X:192 Y:1216 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3958,7 +3958,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:18}</tileMapCoordinate>
             <positionBox>{X:256 Y:1216 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -3984,7 +3984,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:18}</tileMapCoordinate>
             <positionBox>{X:320 Y:1216 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4010,7 +4010,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:18}</tileMapCoordinate>
             <positionBox>{X:384 Y:1216 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4036,7 +4036,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:18}</tileMapCoordinate>
             <positionBox>{X:448 Y:1216 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4062,7 +4062,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:18}</tileMapCoordinate>
             <positionBox>{X:512 Y:1216 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4088,7 +4088,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:18}</tileMapCoordinate>
             <positionBox>{X:576 Y:1216 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4114,7 +4114,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:18}</tileMapCoordinate>
             <positionBox>{X:640 Y:1216 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4140,7 +4140,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:18}</tileMapCoordinate>
             <positionBox>{X:704 Y:1216 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4166,7 +4166,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:256 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:256 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:256 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:18}</tileMapCoordinate>
             <positionBox>{X:768 Y:1216 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4192,7 +4192,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:0 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:0 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:0 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:19}</tileMapCoordinate>
             <positionBox>{X:64 Y:1280 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4218,7 +4218,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:19}</tileMapCoordinate>
             <positionBox>{X:128 Y:1280 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4244,7 +4244,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:19}</tileMapCoordinate>
             <positionBox>{X:192 Y:1280 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4270,7 +4270,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:19}</tileMapCoordinate>
             <positionBox>{X:256 Y:1280 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4296,7 +4296,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:19}</tileMapCoordinate>
             <positionBox>{X:320 Y:1280 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4322,7 +4322,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:19}</tileMapCoordinate>
             <positionBox>{X:384 Y:1280 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4348,7 +4348,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:19}</tileMapCoordinate>
             <positionBox>{X:448 Y:1280 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4374,7 +4374,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:19}</tileMapCoordinate>
             <positionBox>{X:512 Y:1280 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4400,7 +4400,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:19}</tileMapCoordinate>
             <positionBox>{X:576 Y:1280 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4426,7 +4426,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:19}</tileMapCoordinate>
             <positionBox>{X:640 Y:1280 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4452,7 +4452,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:128 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:19}</tileMapCoordinate>
             <positionBox>{X:704 Y:1280 Width:64 Height:64}</positionBox>
             <hitboxes>
@@ -4478,7 +4478,7 @@
         </AnimatedTile>
         <AnimatedTile name="grass_tile_set{X:256 Y:64}">
             <tileSet>grass_tile_set</tileSet>
-            <tileSetCoordiante>X:256 Y:64}</tileSetCoordiante>
+            <tileSetCoordinate>X:256 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:19}</tileMapCoordinate>
             <positionBox>{X:768 Y:1280 Width:64 Height:64}</positionBox>
             <hitboxes>
