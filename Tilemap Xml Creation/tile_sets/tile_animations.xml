@@ -5,6 +5,7 @@
 	<tileSet name = "grass_tile_set">
 		<tile name = "{X:0 Y:0}">
 			<animation>
+				<graphic>grass_tile_set</graphic>
 				<minFrameDuration>400</minFrameDuration>
 				<maxFrameDuration>1400</maxFrameDuration>
 				<startingFrame>0</startingFrame>
@@ -19,6 +20,7 @@
 		
 		<tile name = "{X:0 Y:64}">
 			<animation>
+				<graphic>grass_tile_set</graphic>
 				<minFrameDuration>400</minFrameDuration>
 				<maxFrameDuration>1400</maxFrameDuration>
 				<startingFrame>0</startingFrame>
@@ -33,6 +35,7 @@
 		
 		<tile name = "{X:0 Y:128}">
 			<animation>
+				<graphic>grass_tile_set</graphic>
 				<minFrameDuration>400</minFrameDuration>
 				<maxFrameDuration>1400</maxFrameDuration>
 				<startingFrame>0</startingFrame>
@@ -47,6 +50,7 @@
 		
 		<tile name = "{X:128 Y:0}">
 			<animation>
+				<graphic>grass_tile_set</graphic>
 				<minFrameDuration>400</minFrameDuration>
 				<maxFrameDuration>1400</maxFrameDuration>
 				<startingFrame>0</startingFrame>
@@ -61,6 +65,7 @@
 		
 		<tile name = "{X:128 Y:64}">
 			<animation>
+				<graphic>grass_tile_set</graphic>
 				<minFrameDuration>400</minFrameDuration>
 				<maxFrameDuration>1400</maxFrameDuration>
 				<startingFrame>0</startingFrame>
@@ -75,6 +80,7 @@
 		
 		<tile name = "{X:128 Y:128}">
 			<animation>
+				<graphic>grass_tile_set</graphic>
 				<minFrameDuration>400</minFrameDuration>
 				<maxFrameDuration>1400</maxFrameDuration>
 				<startingFrame>0</startingFrame>
@@ -89,6 +95,7 @@
 		
 		<tile name = "{X:256 Y:0}">
 			<animation>
+				<graphic>grass_tile_set</graphic>
 				<minFrameDuration>400</minFrameDuration>
 				<maxFrameDuration>1400</maxFrameDuration>
 				<startingFrame>0</startingFrame>
@@ -103,6 +110,7 @@
 		
 		<tile name = "{X:256 Y:64}">
 			<animation>
+				<graphic>grass_tile_set</graphic>
 				<minFrameDuration>400</minFrameDuration>
 				<maxFrameDuration>1400</maxFrameDuration>
 				<startingFrame>0</startingFrame>
@@ -117,6 +125,7 @@
 		
 		<tile name = "{X:256 Y:128}">
 			<animation>
+				<graphic>grass_tile_set</graphic>
 				<minFrameDuration>400</minFrameDuration>
 				<maxFrameDuration>1400</maxFrameDuration>
 				<startingFrame>0</startingFrame>

@@ -1787,6 +1787,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -1813,6 +1814,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -1839,6 +1841,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -1865,6 +1868,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -1891,6 +1895,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -1917,6 +1922,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -1943,6 +1949,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -1969,6 +1976,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -1995,6 +2003,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2021,6 +2030,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2047,6 +2057,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2073,6 +2084,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2099,6 +2111,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2125,6 +2138,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2151,6 +2165,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2177,6 +2192,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2203,6 +2219,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2229,6 +2246,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2255,6 +2273,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2281,6 +2300,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2307,6 +2327,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2333,6 +2354,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2359,6 +2381,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2385,6 +2408,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2411,6 +2435,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2437,6 +2462,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2463,6 +2489,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2489,6 +2516,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2515,6 +2543,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2541,6 +2570,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2567,6 +2597,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2593,6 +2624,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2619,6 +2651,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2645,6 +2678,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2671,6 +2705,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2697,6 +2732,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2723,6 +2759,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2749,6 +2786,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2775,6 +2813,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2801,6 +2840,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2827,6 +2867,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2853,6 +2894,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2879,6 +2921,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2905,6 +2948,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2931,6 +2975,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2957,6 +3002,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -2983,6 +3029,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3009,6 +3056,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3035,6 +3083,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3061,6 +3110,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3087,6 +3137,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3113,6 +3164,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3139,6 +3191,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3165,6 +3218,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3191,6 +3245,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3217,6 +3272,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3243,6 +3299,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3269,6 +3326,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3295,6 +3353,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3321,6 +3380,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3347,6 +3407,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3373,6 +3434,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3399,6 +3461,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3425,6 +3488,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3451,6 +3515,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3477,6 +3542,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3503,6 +3569,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3529,6 +3596,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3555,6 +3623,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3581,6 +3650,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3607,6 +3677,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3633,6 +3704,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3659,6 +3731,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3685,6 +3758,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3711,6 +3785,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3737,6 +3812,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3763,6 +3839,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3789,6 +3866,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3815,6 +3893,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3841,6 +3920,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3867,6 +3947,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3893,6 +3974,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3919,6 +4001,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3945,6 +4028,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3971,6 +4055,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -3997,6 +4082,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4023,6 +4109,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4049,6 +4136,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4075,6 +4163,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4101,6 +4190,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4127,6 +4217,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4153,6 +4244,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4179,6 +4271,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4205,6 +4298,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4231,6 +4325,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4257,6 +4352,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4283,6 +4379,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4309,6 +4406,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4335,6 +4433,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4361,6 +4460,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4387,6 +4487,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4413,6 +4514,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4439,6 +4541,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4465,6 +4568,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
@@ -4491,6 +4595,7 @@
                 </tileBox>
             </hitboxes>
             <animation>
+                <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
                 <maxFrameDuration>1400</maxFrameDuration>
                 <startingFrame>0</startingFrame>
