@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hitboxes>
+	<tileSet name = "poopoopeepee">
+	</tileSet>
+	<tileSet name = "grass_tile_set">
+		<tile name = "{X:0 Y:0}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:32}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:-32 Width:64 Height:32}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:0 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:0 Y:128}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:128 Y:0}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:128 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:128 Y:128}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:256 Y:0}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:256 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:256 Y:128}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+		</tile>
+	</tileSet>
+</Hitboxes>

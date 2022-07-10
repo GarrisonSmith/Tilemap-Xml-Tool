@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct name="new_test_map">
+    <layer name="1">
+        <Tile name="brickwall_tile_set{X:0 Y:0}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:0 Y:0}</tileSetCoordiante>
+            <positionBox>{X:128 Y:64 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:64 Y:0}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:64 Y:0}</tileSetCoordiante>
+            <positionBox>{X:256 Y:64 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:128 Y:0}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:128 Y:0}</tileSetCoordiante>
+            <positionBox>{X:384 Y:64 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:256 Y:0}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:256 Y:0}</tileSetCoordiante>
+            <positionBox>{X:640 Y:64 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:320 Y:0}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:320 Y:0}</tileSetCoordiante>
+            <positionBox>{X:768 Y:64 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:384 Y:0}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:384 Y:0}</tileSetCoordiante>
+            <positionBox>{X:896 Y:64 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:0 Y:64}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:0 Y:64}</tileSetCoordiante>
+            <positionBox>{X:1088 Y:192 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:64 Y:64}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:64 Y:64}</tileSetCoordiante>
+            <positionBox>{X:1216 Y:192 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:128 Y:64}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <positionBox>{X:1344 Y:192 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:192 Y:64}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:192 Y:64}</tileSetCoordiante>
+            <positionBox>{X:1472 Y:192 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:256 Y:64}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:256 Y:64}</tileSetCoordiante>
+            <positionBox>{X:1600 Y:192 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:320 Y:64}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:320 Y:64}</tileSetCoordiante>
+            <positionBox>{X:1728 Y:192 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:384 Y:64}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:384 Y:64}</tileSetCoordiante>
+            <positionBox>{X:1856 Y:192 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:0 Y:192}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:0 Y:192}</tileSetCoordiante>
+            <positionBox>{X:2048 Y:320 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:64 Y:192}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:64 Y:192}</tileSetCoordiante>
+            <positionBox>{X:2176 Y:320 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:256 Y:192}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:256 Y:192}</tileSetCoordiante>
+            <positionBox>{X:2560 Y:320 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:320 Y:128}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:320 Y:128}</tileSetCoordiante>
+            <positionBox>{X:2688 Y:320 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:384 Y:128}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:384 Y:128}</tileSetCoordiante>
+            <positionBox>{X:2816 Y:320 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="woodfloor_tile_set{X:0 Y:0}">
+            <tileSet>woodfloor_tile_set</tileSet>
+            <tileSetCoordiante>X:0 Y:0}</tileSetCoordiante>
+            <positionBox>{X:3008 Y:448 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:320 Y:192}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:320 Y:192}</tileSetCoordiante>
+            <positionBox>{X:3648 Y:448 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="brickwall_tile_set{X:384 Y:192}">
+            <tileSet>brickwall_tile_set</tileSet>
+            <tileSetCoordiante>X:384 Y:192}</tileSetCoordiante>
+            <positionBox>{X:3776 Y:448 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="woodfloor_tile_set{X:0 Y:64}">
+            <tileSet>woodfloor_tile_set</tileSet>
+            <tileSetCoordiante>X:0 Y:64}</tileSetCoordiante>
+            <positionBox>{X:3968 Y:576 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="woodfloor_tile_set{X:64 Y:64}">
+            <tileSet>woodfloor_tile_set</tileSet>
+            <tileSetCoordiante>X:64 Y:64}</tileSetCoordiante>
+            <positionBox>{X:4096 Y:576 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="woodfloor_tile_set{X:128 Y:64}">
+            <tileSet>woodfloor_tile_set</tileSet>
+            <tileSetCoordiante>X:128 Y:64}</tileSetCoordiante>
+            <positionBox>{X:4224 Y:576 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="woodfloor_tile_set{X:0 Y:128}">
+            <tileSet>woodfloor_tile_set</tileSet>
+            <tileSetCoordiante>X:0 Y:128}</tileSetCoordiante>
+            <positionBox>{X:4416 Y:704 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="woodfloor_tile_set{X:64 Y:128}">
+            <tileSet>woodfloor_tile_set</tileSet>
+            <tileSetCoordiante>X:64 Y:128}</tileSetCoordiante>
+            <positionBox>{X:4544 Y:704 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="woodfloor_tile_set{X:128 Y:128}">
+            <tileSet>woodfloor_tile_set</tileSet>
+            <tileSetCoordiante>X:128 Y:128}</tileSetCoordiante>
+            <positionBox>{X:4672 Y:704 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="woodfloor_tile_set{X:0 Y:192}">
+            <tileSet>woodfloor_tile_set</tileSet>
+            <tileSetCoordiante>X:0 Y:192}</tileSetCoordiante>
+            <positionBox>{X:4864 Y:832 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="woodfloor_tile_set{X:64 Y:192}">
+            <tileSet>woodfloor_tile_set</tileSet>
+            <tileSetCoordiante>X:64 Y:192}</tileSetCoordiante>
+            <positionBox>{X:4992 Y:832 Width:64 Height:64}</positionBox>
+        </Tile>
+        <Tile name="woodfloor_tile_set{X:128 Y:192}">
+            <tileSet>woodfloor_tile_set</tileSet>
+            <tileSetCoordiante>X:128 Y:192}</tileSetCoordiante>
+            <positionBox>{X:5120 Y:832 Width:64 Height:64}</positionBox>
+        </Tile>
+    </layer>
+</struct>

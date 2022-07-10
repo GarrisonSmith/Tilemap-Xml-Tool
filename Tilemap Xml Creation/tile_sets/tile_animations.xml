@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Animations>
+	<tileSet name = "poopoopeepee">
+	</tileSet>
+	<tileSet name = "grass_tile_set">
+		<tile name = "{X:0 Y:0}">
+			<animation>
+				<minFrameDuration>400</minFrameDuration>
+				<maxFrameDuration>1400</maxFrameDuration>
+				<startingFrame>0</startingFrame>
+				<maxFrame>2</maxFrame>
+				<columnReference>0</columnReference>
+				<rowReference>0</rowReference>
+				<sourceWidth>64</sourceWidth>
+				<sourceHeight>64</sourceHeight>
+				<animationState>cycling</animationState>
+			</animation>
+		</tile>
+		
+		<tile name = "{X:0 Y:64}">
+			<animation>
+				<minFrameDuration>400</minFrameDuration>
+				<maxFrameDuration>1400</maxFrameDuration>
+				<startingFrame>0</startingFrame>
+				<maxFrame>2</maxFrame>
+				<columnReference>0</columnReference>
+				<rowReference>1</rowReference>
+				<sourceWidth>64</sourceWidth>
+				<sourceHeight>64</sourceHeight>
+				<animationState>cycling</animationState>
+			</animation>
+		</tile>
+		
+		<tile name = "{X:0 Y:128}">
+			<animation>
+				<minFrameDuration>400</minFrameDuration>
+				<maxFrameDuration>1400</maxFrameDuration>
+				<startingFrame>0</startingFrame>
+				<maxFrame>2</maxFrame>
+				<columnReference>0</columnReference>
+				<rowReference>2</rowReference>
+				<sourceWidth>64</sourceWidth>
+				<sourceHeight>64</sourceHeight>
+				<animationState>cycling</animationState>
+			</animation>
+		</tile>
+		
+		<tile name = "{X:128 Y:0}">
+			<animation>
+				<minFrameDuration>400</minFrameDuration>
+				<maxFrameDuration>1400</maxFrameDuration>
+				<startingFrame>0</startingFrame>
+				<maxFrame>2</maxFrame>
+				<columnReference>2</columnReference>
+				<rowReference>0</rowReference>
+				<sourceWidth>64</sourceWidth>
+				<sourceHeight>64</sourceHeight>
+				<animationState>cycling</animationState>
+			</animation>
+		</tile>
+		
+		<tile name = "{X:128 Y:64}">
+			<animation>
+				<minFrameDuration>400</minFrameDuration>
+				<maxFrameDuration>1400</maxFrameDuration>
+				<startingFrame>0</startingFrame>
+				<maxFrame>2</maxFrame>
+				<columnReference>2</columnReference>
+				<rowReference>1</rowReference>
+				<sourceWidth>64</sourceWidth>
+				<sourceHeight>64</sourceHeight>
+				<animationState>cycling</animationState>
+			</animation>
+		</tile>
+		
+		<tile name = "{X:128 Y:128}">
+			<animation>
+				<minFrameDuration>400</minFrameDuration>
+				<maxFrameDuration>1400</maxFrameDuration>
+				<startingFrame>0</startingFrame>
+				<maxFrame>2</maxFrame>
+				<columnReference>2</columnReference>
+				<rowReference>2</rowReference>
+				<sourceWidth>64</sourceWidth>
+				<sourceHeight>64</sourceHeight>
+				<animationState>cycling</animationState>
+			</animation>
+		</tile>
+		
+		<tile name = "{X:256 Y:0}">
+			<animation>
+				<minFrameDuration>400</minFrameDuration>
+				<maxFrameDuration>1400</maxFrameDuration>
+				<startingFrame>0</startingFrame>
+				<maxFrame>2</maxFrame>
+				<columnReference>4</columnReference>
+				<rowReference>0</rowReference>
+				<sourceWidth>64</sourceWidth>
+				<sourceHeight>64</sourceHeight>
+				<animationState>cycling</animationState>
+			</animation>
+		</tile>
+		
+		<tile name = "{X:256 Y:64}">
+			<animation>
+				<minFrameDuration>400</minFrameDuration>
+				<maxFrameDuration>1400</maxFrameDuration>
+				<startingFrame>0</startingFrame>
+				<maxFrame>2</maxFrame>
+				<columnReference>4</columnReference>
+				<rowReference>1</rowReference>
+				<sourceWidth>64</sourceWidth>
+				<sourceHeight>64</sourceHeight>
+				<animationState>cycling</animationState>
+			</animation>
+		</tile>
+		
+		<tile name = "{X:256 Y:128}">
+			<animation>
+				<minFrameDuration>400</minFrameDuration>
+				<maxFrameDuration>1400</maxFrameDuration>
+				<startingFrame>0</startingFrame>
+				<maxFrame>2</maxFrame>
+				<columnReference>4</columnReference>
+				<rowReference>2</rowReference>
+				<sourceWidth>64</sourceWidth>
+				<sourceHeight>64</sourceHeight>
+				<animationState>cycling</animationState>
+			</animation>
+		</tile>
+	</tileSet>
+</Animations>
