@@ -46,8 +46,8 @@ function foo = get_layer_xml(layerString, animatedConfig, hitboxConfig)
     layerStruct.nameAttribute = layerName(1);
     layerChar = char(layerName(2));
     
-    row = 0;
-    column = 0;
+    row = get_number_of_rows(layerString)-1;
+    column = 1;
     
     startDex = 0;
     tileNum = 1;
@@ -73,8 +73,8 @@ function foo = get_layer_xml(layerString, animatedConfig, hitboxConfig)
                 column = column+1;
             end
             if layerChar(i) == ';'
-                row = row+1;
-                column = 0;
+                row = row-1;
+                column = 1;
             end
         end
     end
@@ -90,7 +90,7 @@ function foo = create_tile_xml(tileString, animatedConfig, hitboxConfig, row, co
      
      Tile.tileSet = nameArr(1);
      Tile.nameAttribute = tileString;
-     Tile.tileSetCoordinate = nameArr(end);
+     Tile.tileSetCoordinate = "{"+nameArr(end);
      Tile.tileMapCoordinate = "{X:"+string(column)+" Y:"+string(row)+"}";
      Tile.positionBox = "{X:"+string(xPos)+" Y:"+string(yPos)+" Width:64 Height:64}";
      
@@ -199,4 +199,8 @@ function foo = add_eventBoxes(mapXml, eventStruct)
         end
     end
     foo = mapXml;
+end
+
+function foo = get_number_of_rows(layerString)
+    foo = length(split(layerString, ';'));
 end
