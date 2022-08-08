@@ -15,7 +15,7 @@
 				</transitionScene>
 			</sceneEvent>
 			<position>
-				{X:960 Y:768}
+				{X:960 Y:704}
 			</position>
 			<boundings>
 				<RECTANGLE>{X:32 Y:0 Width:64 Height:128}</RECTANGLE>
@@ -37,10 +37,10 @@
 				</transitionScene>
 			</sceneEvent>
 			<position>
-				{X:1000 Y:1000}
+				{X:0 Y:0}
 			</position>
 			<boundings>
-				<RECTANGLE>{X:32 Y:0 Width:64 Height:128}</RECTANGLE>
+				<RECTANGLE>{X:0 Y:0 Width:64 Height:128}</RECTANGLE>
 			</boundings>
 		</eventBox>
 	</layer>

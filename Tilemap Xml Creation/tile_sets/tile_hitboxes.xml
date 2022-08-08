@@ -7,13 +7,14 @@
 			<hitboxes>
 				<tileBox>
 					<movementInclusion>
-						water
+						land
 					</movementInclusion>
 					<position>
 						{X:null Y:null}
 					</position>
 					<boundings>
-						<RECTANGLE>{X:0 Y:0 Width:64 Height:32}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:16}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:-16 Width:16 Height:48}</RECTANGLE>
 					</boundings>
 				</tileBox>
 				<tileBox>
@@ -24,7 +25,7 @@
 						{X:null Y:null}
 					</position>
 					<boundings>
-						<RECTANGLE>{X:0 Y:-32 Width:64 Height:32}</RECTANGLE>
+						<RECTANGLE>{X:16 Y:-16 Width:48 Height:48}</RECTANGLE>
 					</boundings>
 				</tileBox>
 			</hitboxes>
@@ -34,13 +35,24 @@
 			<hitboxes>
 				<tileBox>
 					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:16 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
 						water
 					</movementInclusion>
 					<position>
 						{X:null Y:null}
 					</position>
 					<boundings>
-						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						<RECTANGLE>{X:16 Y:0 Width:48 Height:64}</RECTANGLE>
 					</boundings>
 				</tileBox>
 			</hitboxes>
@@ -50,13 +62,25 @@
 			<hitboxes>
 				<tileBox>
 					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:16 Height:48}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:-48 Width:64 Height:16}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
 						water
 					</movementInclusion>
 					<position>
 						{X:null Y:null}
 					</position>
 					<boundings>
-						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						<RECTANGLE>{X:16 Y:0 Width:48 Height:48}</RECTANGLE>
 					</boundings>
 				</tileBox>
 			</hitboxes>
@@ -66,13 +90,24 @@
 			<hitboxes>
 				<tileBox>
 					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:16}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
 						water
 					</movementInclusion>
 					<position>
 						{X:null Y:null}
 					</position>
 					<boundings>
-						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:-16 Width:64 Height:48}</RECTANGLE>
 					</boundings>
 				</tileBox>
 			</hitboxes>
@@ -88,7 +123,7 @@
 						{X:null Y:null}
 					</position>
 					<boundings>
-						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:0 Width:0 Height:0}</RECTANGLE>
 					</boundings>
 				</tileBox>
 			</hitboxes>
@@ -98,13 +133,24 @@
 			<hitboxes>
 				<tileBox>
 					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:-48 Width:64 Height:16}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
 						water
 					</movementInclusion>
 					<position>
 						{X:null Y:null}
 					</position>
 					<boundings>
-						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:48}</RECTANGLE>
 					</boundings>
 				</tileBox>
 			</hitboxes>
@@ -114,13 +160,25 @@
 			<hitboxes>
 				<tileBox>
 					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:16}</RECTANGLE>
+						<RECTANGLE>{X:48 Y:-16 Width:16 Height:48}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
 						water
 					</movementInclusion>
 					<position>
 						{X:null Y:null}
 					</position>
 					<boundings>
-						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:-16 Width:48 Height:48}</RECTANGLE>
 					</boundings>
 				</tileBox>
 			</hitboxes>
@@ -130,13 +188,24 @@
 			<hitboxes>
 				<tileBox>
 					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:48 Y:0 Width:16 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
 						water
 					</movementInclusion>
 					<position>
 						{X:null Y:null}
 					</position>
 					<boundings>
-						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:0 Width:48 Height:64}</RECTANGLE>
 					</boundings>
 				</tileBox>
 			</hitboxes>
@@ -146,13 +215,25 @@
 			<hitboxes>
 				<tileBox>
 					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:48 Y:0 Width:16 Height:48}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:-48 Width:64 Height:16}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
 						water
 					</movementInclusion>
 					<position>
 						{X:null Y:null}
 					</position>
 					<boundings>
-						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:0 Width:48 Height:48}</RECTANGLE>
 					</boundings>
 				</tileBox>
 			</hitboxes>
