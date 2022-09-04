@@ -15,7 +15,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, true, false},{false, true, true, false}}</lightphysics>
+                    <position>{X:64 Y:768}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -31,7 +39,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
+                    <position>{X:128 Y:768}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -46,17 +62,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
+                    <position>{X:192 Y:768}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -72,7 +87,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
+                    <position>{X:256 Y:768}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -88,7 +111,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, false, true, true},{false, false, true, true}}</lightphysics>
+                    <position>{X:320 Y:768}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:0 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -104,7 +135,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, false, true, false},{true, true, true, false}}</lightphysics>
+                    <position>{X:64 Y:704}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -119,17 +158,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:128 Y:704}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -144,17 +182,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:38 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:192 Y:704}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:192 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -170,7 +207,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:256 Y:704}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -186,7 +231,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, false, true, true}}</lightphysics>
+                    <position>{X:320 Y:704}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:0 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -202,7 +255,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, false, true, false},{true, true, true, false}}</lightphysics>
+                    <position>{X:64 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -217,17 +278,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:128 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -242,17 +302,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:38 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:192 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:192 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -268,7 +327,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:256 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -284,7 +351,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, false, true, true}}</lightphysics>
+                    <position>{X:320 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:0 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -300,7 +375,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, true, false},{false, true, true, false}}</lightphysics>
+                    <position>{X:384 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -316,7 +399,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
+                    <position>{X:448 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -331,17 +422,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
+                    <position>{X:512 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -357,7 +447,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
+                    <position>{X:576 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -373,7 +471,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, false, true, true},{false, false, true, true}}</lightphysics>
+                    <position>{X:640 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:0 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -389,31 +495,39 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, false, true, false},{true, true, true, false}}</lightphysics>
+                    <position>{X:64 Y:576}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:8}</tileMapCoordinate>
             <positionBox>{X:128 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:8}</tileMapCoordinate>
             <positionBox>{X:192 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:8}</tileMapCoordinate>
             <positionBox>{X:256 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -429,7 +543,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, false, true, true}}</lightphysics>
+                    <position>{X:320 Y:576}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:0 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -445,7 +567,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, false, true, false},{true, true, true, false}}</lightphysics>
+                    <position>{X:384 Y:576}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -460,17 +590,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:448 Y:576}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -485,17 +614,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:38 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:512 Y:576}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:192 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -511,7 +639,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:576 Y:576}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -527,7 +663,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, false, true, true}}</lightphysics>
+                    <position>{X:640 Y:576}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:0 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -543,31 +687,39 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, false, true, false},{true, true, true, false}}</lightphysics>
+                    <position>{X:64 Y:512}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:7}</tileMapCoordinate>
             <positionBox>{X:128 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:7}</tileMapCoordinate>
             <positionBox>{X:192 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:7}</tileMapCoordinate>
             <positionBox>{X:256 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:320 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -583,7 +735,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, false, false},{true, true, true, true}}</lightphysics>
+                    <position>{X:320 Y:512}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:384 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -599,7 +759,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:384 Y:512}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -614,17 +782,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:448 Y:512}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -639,17 +806,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:38 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:512 Y:512}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:192 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -665,7 +831,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:576 Y:512}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -681,7 +855,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, false, true, true}}</lightphysics>
+                    <position>{X:640 Y:512}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:0 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -697,31 +879,39 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, false, true, false},{true, true, true, false}}</lightphysics>
+                    <position>{X:64 Y:448}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:6}</tileMapCoordinate>
             <positionBox>{X:128 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:6}</tileMapCoordinate>
             <positionBox>{X:192 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:6}</tileMapCoordinate>
             <positionBox>{X:256 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:320 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -737,7 +927,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:320 Y:448}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:384 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -753,31 +951,39 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:384 Y:448}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:6}</tileMapCoordinate>
             <positionBox>{X:448 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:6}</tileMapCoordinate>
             <positionBox>{X:512 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:6}</tileMapCoordinate>
             <positionBox>{X:576 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -793,7 +999,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, false, true, true}}</lightphysics>
+                    <position>{X:640 Y:448}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:0 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -809,31 +1023,39 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, false, true, false},{true, true, true, false}}</lightphysics>
+                    <position>{X:64 Y:384}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:5}</tileMapCoordinate>
             <positionBox>{X:128 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:5}</tileMapCoordinate>
             <positionBox>{X:192 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:5}</tileMapCoordinate>
             <positionBox>{X:256 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:320 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -849,7 +1071,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:320 Y:384}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:384 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -865,31 +1095,39 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:384 Y:384}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:5}</tileMapCoordinate>
             <positionBox>{X:448 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:5}</tileMapCoordinate>
             <positionBox>{X:512 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:5}</tileMapCoordinate>
             <positionBox>{X:576 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -905,7 +1143,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, false, true, true}}</lightphysics>
+                    <position>{X:640 Y:384}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:0 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -921,71 +1167,79 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, false, true, false},{true, true, true, false}}</lightphysics>
+                    <position>{X:64 Y:320}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:4}</tileMapCoordinate>
             <positionBox>{X:128 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:4}</tileMapCoordinate>
             <positionBox>{X:192 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:4}</tileMapCoordinate>
             <positionBox>{X:256 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:4}</tileMapCoordinate>
             <positionBox>{X:320 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:4}</tileMapCoordinate>
             <positionBox>{X:384 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:4}</tileMapCoordinate>
             <positionBox>{X:448 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:4}</tileMapCoordinate>
             <positionBox>{X:512 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:4}</tileMapCoordinate>
             <positionBox>{X:576 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1001,7 +1255,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, false, true, true}}</lightphysics>
+                    <position>{X:640 Y:320}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:0 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1017,71 +1279,79 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, false, true, false},{true, true, true, false}}</lightphysics>
+                    <position>{X:64 Y:256}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:3}</tileMapCoordinate>
             <positionBox>{X:128 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:3}</tileMapCoordinate>
             <positionBox>{X:192 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:3}</tileMapCoordinate>
             <positionBox>{X:256 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:3}</tileMapCoordinate>
             <positionBox>{X:320 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:3}</tileMapCoordinate>
             <positionBox>{X:384 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:3}</tileMapCoordinate>
             <positionBox>{X:448 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:3}</tileMapCoordinate>
             <positionBox>{X:512 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:3}</tileMapCoordinate>
             <positionBox>{X:576 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1097,7 +1367,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, false, true, true}}</lightphysics>
+                    <position>{X:640 Y:256}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:0 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1113,71 +1391,79 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, false, true, false},{true, true, true, false}}</lightphysics>
+                    <position>{X:64 Y:192}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:2}</tileMapCoordinate>
             <positionBox>{X:128 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:2}</tileMapCoordinate>
             <positionBox>{X:192 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:2}</tileMapCoordinate>
             <positionBox>{X:256 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:2}</tileMapCoordinate>
             <positionBox>{X:320 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:2}</tileMapCoordinate>
             <positionBox>{X:384 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:2}</tileMapCoordinate>
             <positionBox>{X:448 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:2}</tileMapCoordinate>
             <positionBox>{X:512 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:2}</tileMapCoordinate>
             <positionBox>{X:576 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1193,7 +1479,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, false, true, true}}</lightphysics>
+                    <position>{X:640 Y:192}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:0 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1209,7 +1503,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, false, false},{true, true, false, false}}</lightphysics>
+                    <position>{X:64 Y:128}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1224,17 +1526,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:128 Y:128}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1249,17 +1550,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:192 Y:128}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1274,17 +1574,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:256 Y:128}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1299,17 +1598,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:320 Y:128}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1324,17 +1622,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:384 Y:128}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1349,17 +1646,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:448 Y:128}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1374,17 +1670,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:512 Y:128}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1399,17 +1694,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:576 Y:128}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:256 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -1425,7 +1719,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, false, true, false},{true, false, false, true}}</lightphysics>
+                    <position>{X:640 Y:128}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
     </layer>
     <layer name="2">
@@ -1434,8 +1736,8 @@
             <tileSetCoordinate>{X:0 Y:0}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:4}</tileMapCoordinate>
             <positionBox>{X:320 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
     </layer>
 </struct>

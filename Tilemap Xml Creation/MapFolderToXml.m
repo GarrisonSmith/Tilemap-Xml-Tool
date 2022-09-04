@@ -139,7 +139,7 @@ function foo = get_tile_animation(tileString, animatedConfig)
         end
     end
 
-    foo = false;
+    foo = '';
 end
 %gets the hitbox node for the provided tile.
 function foo = get_tile_hitbox(tileString, hitboxConfig, position)
@@ -162,7 +162,7 @@ function foo = get_tile_hitbox(tileString, hitboxConfig, position)
         end
     end
 
-    foo = false;
+    foo = '';
 end
 %gets the hitbox node for the provided tile.
 function foo = get_tile_lightbox(tileString, hitboxConfig, position)
@@ -174,8 +174,8 @@ function foo = get_tile_lightbox(tileString, hitboxConfig, position)
                 tileSetCoordinate = hitboxConfig.tileSet(i).tile(j).nameAttribute;
                 if tileString == tileSetName+tileSetCoordinate
                     foo = hitboxConfig.tileSet(i).tile(j).lightboxes;
-                    for k=1:length(foo.tileBox)
-                        foo.tileBox(k).position = position;
+                    for k=1:length(foo.lightBox)
+                        foo.lightBox(k).position = position;
                     end
                     return;
                 end
@@ -185,7 +185,7 @@ function foo = get_tile_lightbox(tileString, hitboxConfig, position)
         end
     end
 
-    foo = false;
+    foo = '';
 end
 %adds the eventboxes to the mapXml.
 function foo = add_eventBoxes(mapXml, eventStruct)

@@ -15,7 +15,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, false, true, false},{true, true, true, true}}</lightphysics>
+                    <position>{X:768 Y:832}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -30,17 +38,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:832 Y:832}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -55,17 +62,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:896 Y:832}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -80,17 +86,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:960 Y:832}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -105,17 +110,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:1024 Y:832}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -130,17 +134,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, false, true}}</lightphysics>
+                    <position>{X:1088 Y:832}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:384 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -156,95 +159,103 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, false, false},{true, true, true, true}}</lightphysics>
+                    <position>{X:1152 Y:832}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:11}</tileMapCoordinate>
             <positionBox>{X:64 Y:768 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:11}</tileMapCoordinate>
             <positionBox>{X:128 Y:768 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:11}</tileMapCoordinate>
             <positionBox>{X:192 Y:768 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:11}</tileMapCoordinate>
             <positionBox>{X:256 Y:768 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:11}</tileMapCoordinate>
             <positionBox>{X:320 Y:768 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:11}</tileMapCoordinate>
             <positionBox>{X:384 Y:768 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:11}</tileMapCoordinate>
             <positionBox>{X:448 Y:768 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:11}</tileMapCoordinate>
             <positionBox>{X:512 Y:768 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:11}</tileMapCoordinate>
             <positionBox>{X:576 Y:768 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:11}</tileMapCoordinate>
             <positionBox>{X:640 Y:768 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:11}</tileMapCoordinate>
             <positionBox>{X:704 Y:768 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:320 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -260,7 +271,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, false, false},{true, true, true, true}}</lightphysics>
+                    <position>{X:768 Y:768}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -276,7 +295,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
+                    <position>{X:832 Y:768}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -292,7 +319,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
+                    <position>{X:896 Y:768}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -307,17 +342,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
+                    <position>{X:960 Y:768}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -333,7 +367,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
+                    <position>{X:1024 Y:768}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:0}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -348,17 +390,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{false, true, true, true}}</lightphysics>
+                    <position>{X:1088 Y:768}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:384 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -374,95 +415,103 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{false, true, false, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:1152 Y:768}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:10}</tileMapCoordinate>
             <positionBox>{X:64 Y:704 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:10}</tileMapCoordinate>
             <positionBox>{X:128 Y:704 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:10}</tileMapCoordinate>
             <positionBox>{X:192 Y:704 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:10}</tileMapCoordinate>
             <positionBox>{X:256 Y:704 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:10}</tileMapCoordinate>
             <positionBox>{X:320 Y:704 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:10}</tileMapCoordinate>
             <positionBox>{X:384 Y:704 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:10}</tileMapCoordinate>
             <positionBox>{X:448 Y:704 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:10}</tileMapCoordinate>
             <positionBox>{X:512 Y:704 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:10}</tileMapCoordinate>
             <positionBox>{X:576 Y:704 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:10}</tileMapCoordinate>
             <positionBox>{X:640 Y:704 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:10}</tileMapCoordinate>
             <positionBox>{X:704 Y:704 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:320 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -478,7 +527,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:768 Y:704}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -493,17 +550,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:832 Y:704}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -518,17 +574,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:896 Y:704}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -543,17 +598,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:38 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:960 Y:704}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:192 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -569,7 +623,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:1024 Y:704}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -584,17 +646,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:1088 Y:704}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:384 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -610,47 +671,55 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:1152 Y:704}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:9}</tileMapCoordinate>
             <positionBox>{X:64 Y:640 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:9}</tileMapCoordinate>
             <positionBox>{X:128 Y:640 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:9}</tileMapCoordinate>
             <positionBox>{X:384 Y:640 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:9}</tileMapCoordinate>
             <positionBox>{X:640 Y:640 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:9}</tileMapCoordinate>
             <positionBox>{X:704 Y:640 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:320 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -666,7 +735,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:768 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -681,17 +758,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:832 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -706,17 +782,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:896 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:128 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -731,17 +806,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:38 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:960 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:192 Y:128}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -757,7 +831,15 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:1024 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:64 Y:64}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -772,17 +854,16 @@
                         <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
                     </boundings>
                 </tileBox>
-                <lightboxes>
-                    <lightbox>
-                        <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
-                        <position>{X:null Y:null}</position>
-                        <boundings>
-                            <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
-                        </boundings>
-                    </lightbox>
-                </lightboxes>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:1088 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="brickwall_tile_set{X:384 Y:192}">
             <tileSet>brickwall_tile_set</tileSet>
@@ -798,375 +879,383 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes>
+                <lightBox>
+                    <lightphysics>{{true, true, true, true},{true, true, true, true}}</lightphysics>
+                    <position>{X:1152 Y:640}</position>
+                    <boundings>
+                        <RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+                    </boundings>
+                </lightBox>
+            </lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:8}</tileMapCoordinate>
             <positionBox>{X:64 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:8}</tileMapCoordinate>
             <positionBox>{X:128 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:8}</tileMapCoordinate>
             <positionBox>{X:256 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:8}</tileMapCoordinate>
             <positionBox>{X:384 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:8}</tileMapCoordinate>
             <positionBox>{X:512 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:8}</tileMapCoordinate>
             <positionBox>{X:640 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:8}</tileMapCoordinate>
             <positionBox>{X:704 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:8}</tileMapCoordinate>
             <positionBox>{X:768 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:8}</tileMapCoordinate>
             <positionBox>{X:832 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:8}</tileMapCoordinate>
             <positionBox>{X:896 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:8}</tileMapCoordinate>
             <positionBox>{X:960 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:8}</tileMapCoordinate>
             <positionBox>{X:1024 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:8}</tileMapCoordinate>
             <positionBox>{X:1088 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:64}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:64}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:8}</tileMapCoordinate>
             <positionBox>{X:1152 Y:576 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:7}</tileMapCoordinate>
             <positionBox>{X:64 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:7}</tileMapCoordinate>
             <positionBox>{X:128 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:7}</tileMapCoordinate>
             <positionBox>{X:384 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:7}</tileMapCoordinate>
             <positionBox>{X:640 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:7}</tileMapCoordinate>
             <positionBox>{X:704 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:7}</tileMapCoordinate>
             <positionBox>{X:768 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:7}</tileMapCoordinate>
             <positionBox>{X:832 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:7}</tileMapCoordinate>
             <positionBox>{X:896 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:7}</tileMapCoordinate>
             <positionBox>{X:960 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:7}</tileMapCoordinate>
             <positionBox>{X:1024 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:7}</tileMapCoordinate>
             <positionBox>{X:1088 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:7}</tileMapCoordinate>
             <positionBox>{X:1152 Y:512 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:6}</tileMapCoordinate>
             <positionBox>{X:64 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:6}</tileMapCoordinate>
             <positionBox>{X:128 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:6}</tileMapCoordinate>
             <positionBox>{X:192 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:6}</tileMapCoordinate>
             <positionBox>{X:256 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:6}</tileMapCoordinate>
             <positionBox>{X:320 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:6}</tileMapCoordinate>
             <positionBox>{X:384 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:6}</tileMapCoordinate>
             <positionBox>{X:448 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:6}</tileMapCoordinate>
             <positionBox>{X:512 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:6}</tileMapCoordinate>
             <positionBox>{X:576 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:6}</tileMapCoordinate>
             <positionBox>{X:640 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:6}</tileMapCoordinate>
             <positionBox>{X:704 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:6}</tileMapCoordinate>
             <positionBox>{X:768 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:6}</tileMapCoordinate>
             <positionBox>{X:832 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:6}</tileMapCoordinate>
             <positionBox>{X:896 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:6}</tileMapCoordinate>
             <positionBox>{X:960 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:6}</tileMapCoordinate>
             <positionBox>{X:1024 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:6}</tileMapCoordinate>
             <positionBox>{X:1088 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:6}</tileMapCoordinate>
             <positionBox>{X:1152 Y:448 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:5}</tileMapCoordinate>
             <positionBox>{X:64 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:5}</tileMapCoordinate>
             <positionBox>{X:128 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="grass_tile_set{X:192 Y:0}">
             <tileSet>grass_tile_set</tileSet>
@@ -1189,7 +1278,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="grass_tile_set{X:192 Y:0}">
             <tileSet>grass_tile_set</tileSet>
@@ -1212,7 +1301,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="grass_tile_set{X:192 Y:0}">
             <tileSet>grass_tile_set</tileSet>
@@ -1235,7 +1324,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="grass_tile_set{X:192 Y:0}">
             <tileSet>grass_tile_set</tileSet>
@@ -1258,535 +1347,535 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:5}</tileMapCoordinate>
             <positionBox>{X:832 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:5}</tileMapCoordinate>
             <positionBox>{X:896 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:5}</tileMapCoordinate>
             <positionBox>{X:960 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:5}</tileMapCoordinate>
             <positionBox>{X:1024 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:5}</tileMapCoordinate>
             <positionBox>{X:1088 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:5}</tileMapCoordinate>
             <positionBox>{X:1152 Y:384 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:4}</tileMapCoordinate>
             <positionBox>{X:64 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:4}</tileMapCoordinate>
             <positionBox>{X:128 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:4}</tileMapCoordinate>
             <positionBox>{X:256 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:4}</tileMapCoordinate>
             <positionBox>{X:320 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:4}</tileMapCoordinate>
             <positionBox>{X:384 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:4}</tileMapCoordinate>
             <positionBox>{X:448 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:4}</tileMapCoordinate>
             <positionBox>{X:512 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:4}</tileMapCoordinate>
             <positionBox>{X:576 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:4}</tileMapCoordinate>
             <positionBox>{X:640 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:4}</tileMapCoordinate>
             <positionBox>{X:704 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:4}</tileMapCoordinate>
             <positionBox>{X:832 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:4}</tileMapCoordinate>
             <positionBox>{X:896 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:4}</tileMapCoordinate>
             <positionBox>{X:960 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:4}</tileMapCoordinate>
             <positionBox>{X:1024 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:4}</tileMapCoordinate>
             <positionBox>{X:1088 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:4}</tileMapCoordinate>
             <positionBox>{X:1152 Y:320 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:3}</tileMapCoordinate>
             <positionBox>{X:64 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:3}</tileMapCoordinate>
             <positionBox>{X:128 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:3}</tileMapCoordinate>
             <positionBox>{X:832 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:3}</tileMapCoordinate>
             <positionBox>{X:896 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:3}</tileMapCoordinate>
             <positionBox>{X:960 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:3}</tileMapCoordinate>
             <positionBox>{X:1024 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:3}</tileMapCoordinate>
             <positionBox>{X:1088 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:3}</tileMapCoordinate>
             <positionBox>{X:1152 Y:256 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:2}</tileMapCoordinate>
             <positionBox>{X:64 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:2}</tileMapCoordinate>
             <positionBox>{X:128 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:2}</tileMapCoordinate>
             <positionBox>{X:192 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:2}</tileMapCoordinate>
             <positionBox>{X:256 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:2}</tileMapCoordinate>
             <positionBox>{X:320 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:2}</tileMapCoordinate>
             <positionBox>{X:384 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:2}</tileMapCoordinate>
             <positionBox>{X:448 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:2}</tileMapCoordinate>
             <positionBox>{X:512 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:2}</tileMapCoordinate>
             <positionBox>{X:576 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:2}</tileMapCoordinate>
             <positionBox>{X:640 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:2}</tileMapCoordinate>
             <positionBox>{X:704 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:2}</tileMapCoordinate>
             <positionBox>{X:768 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:2}</tileMapCoordinate>
             <positionBox>{X:832 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:2}</tileMapCoordinate>
             <positionBox>{X:896 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:2}</tileMapCoordinate>
             <positionBox>{X:960 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:2}</tileMapCoordinate>
             <positionBox>{X:1024 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:2}</tileMapCoordinate>
             <positionBox>{X:1088 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:128}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:128}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:2}</tileMapCoordinate>
             <positionBox>{X:1152 Y:192 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:0 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:0 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:1 Y:1}</tileMapCoordinate>
             <positionBox>{X:64 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:2 Y:1}</tileMapCoordinate>
             <positionBox>{X:128 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:3 Y:1}</tileMapCoordinate>
             <positionBox>{X:192 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:4 Y:1}</tileMapCoordinate>
             <positionBox>{X:256 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:5 Y:1}</tileMapCoordinate>
             <positionBox>{X:320 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:6 Y:1}</tileMapCoordinate>
             <positionBox>{X:384 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:7 Y:1}</tileMapCoordinate>
             <positionBox>{X:448 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:8 Y:1}</tileMapCoordinate>
             <positionBox>{X:512 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:9 Y:1}</tileMapCoordinate>
             <positionBox>{X:576 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:10 Y:1}</tileMapCoordinate>
             <positionBox>{X:640 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:11 Y:1}</tileMapCoordinate>
             <positionBox>{X:704 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:12 Y:1}</tileMapCoordinate>
             <positionBox>{X:768 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:13 Y:1}</tileMapCoordinate>
             <positionBox>{X:832 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:14 Y:1}</tileMapCoordinate>
             <positionBox>{X:896 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:15 Y:1}</tileMapCoordinate>
             <positionBox>{X:960 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:16 Y:1}</tileMapCoordinate>
             <positionBox>{X:1024 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:64 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:64 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:17 Y:1}</tileMapCoordinate>
             <positionBox>{X:1088 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <Tile name="woodfloor_tile_set{X:128 Y:192}">
             <tileSet>woodfloor_tile_set</tileSet>
             <tileSetCoordinate>{X:128 Y:192}</tileSetCoordinate>
             <tileMapCoordinate>{X:18 Y:1}</tileMapCoordinate>
             <positionBox>{X:1152 Y:128 Width:64 Height:64}</positionBox>
-            <hitboxes>false</hitboxes>
-            <lightboxes>false</lightboxes>
+            <hitboxes></hitboxes>
+            <lightboxes></lightboxes>
         </Tile>
         <AnimatedTile name="grass_tile_set{X:0 Y:0}">
             <tileSet>grass_tile_set</tileSet>
@@ -1810,7 +1899,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -1845,7 +1934,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -1881,7 +1970,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -1917,7 +2006,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -1952,7 +2041,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -1988,7 +2077,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2023,7 +2112,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2058,7 +2147,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2093,7 +2182,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2128,7 +2217,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2164,7 +2253,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2199,7 +2288,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2235,7 +2324,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2271,7 +2360,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2306,7 +2395,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2342,7 +2431,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2378,7 +2467,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2413,7 +2502,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2448,7 +2537,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2483,7 +2572,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2518,7 +2607,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2554,7 +2643,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2589,7 +2678,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2624,7 +2713,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2660,7 +2749,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2695,7 +2784,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2730,7 +2819,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2765,7 +2854,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2800,7 +2889,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2835,7 +2924,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2870,7 +2959,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2905,7 +2994,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2940,7 +3029,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
@@ -2976,7 +3065,7 @@
                     </boundings>
                 </tileBox>
             </hitboxes>
-            <lightboxes>false</lightboxes>
+            <lightboxes></lightboxes>
             <animation>
                 <graphic>grass_tile_set</graphic>
                 <minFrameDuration>400</minFrameDuration>
