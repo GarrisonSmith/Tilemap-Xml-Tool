@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hitboxes>
-	<tileSet name = "poopoopeepee">
+	<tileSet name = "DEBUG">
+		<tile name = "{X:0 Y:0}">
+			<hitboxes>
+				null
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
 	</tileSet>
 	<tileSet name = "grass_tile_set">
 		<tile name = "{X:0 Y:0}">
@@ -29,6 +37,9 @@
 					</boundings>
 				</tileBox>
 			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
 		</tile>
 		
 		<tile name = "{X:0 Y:64}">
@@ -56,6 +67,9 @@
 					</boundings>
 				</tileBox>
 			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
 		</tile>
 		
 		<tile name = "{X:0 Y:128}">
@@ -84,6 +98,101 @@
 					</boundings>
 				</tileBox>
 			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:64 Y:0}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:16}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:-16 Width:16 Height:48}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:16 Y:-16 Width:48 Height:48}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:64 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:16 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:16 Y:0 Width:48 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:64 Y:128}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:16 Height:48}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:-48 Width:64 Height:16}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:16 Y:0 Width:48 Height:48}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
 		</tile>
 		
 		<tile name = "{X:128 Y:0}">
@@ -111,6 +220,9 @@
 					</boundings>
 				</tileBox>
 			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
 		</tile>
 		
 		<tile name = "{X:128 Y:64}">
@@ -127,6 +239,9 @@
 					</boundings>
 				</tileBox>
 			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
 		</tile>
 		
 		<tile name = "{X:128 Y:128}">
@@ -154,6 +269,88 @@
 					</boundings>
 				</tileBox>
 			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:192 Y:0}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:16}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:-16 Width:64 Height:48}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:192 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:0 Height:0}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:192 Y:128}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:-48 Width:64 Height:16}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:48}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
 		</tile>
 		
 		<tile name = "{X:256 Y:0}">
@@ -182,6 +379,9 @@
 					</boundings>
 				</tileBox>
 			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
 		</tile>
 		
 		<tile name = "{X:256 Y:64}">
@@ -209,6 +409,9 @@
 					</boundings>
 				</tileBox>
 			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
 		</tile>
 		
 		<tile name = "{X:256 Y:128}">
@@ -237,6 +440,960 @@
 					</boundings>
 				</tileBox>
 			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:320 Y:0}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:16}</RECTANGLE>
+						<RECTANGLE>{X:48 Y:-16 Width:16 Height:48}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:-16 Width:48 Height:48}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:320 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:48 Y:0 Width:16 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:48 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:320 Y:128}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						land
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:48 Y:0 Width:16 Height:48}</RECTANGLE>
+						<RECTANGLE>{X:0 Y:-48 Width:64 Height:16}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<tileBox>
+					<movementInclusion>
+						water
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:48 Height:48}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:384 Y:0}">
+			<hitboxes>
+				<tileBox>
+					null
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:384 Y:64}">
+			<hitboxes>
+				<tileBox>
+					null
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:384 Y:128}">
+			<hitboxes>
+				<tileBox>
+					null
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:448 Y:0}">
+			<hitboxes>
+				<tileBox>
+					null
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:448 Y:64}">
+			<hitboxes>
+				<tileBox>
+					null
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:448 Y:128}">
+			<hitboxes>
+				<tileBox>
+					null
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:512 Y:0}">
+			<hitboxes>
+				<tileBox>
+					null
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:512 Y:64}">
+			<hitboxes>
+				<tileBox>
+					null
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:512 Y:128}">
+			<hitboxes>
+				<tileBox>
+					null
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+	</tileSet>
+	<tileSet name = "brickwall_tile_set">
+		<tile name = "{X:0 Y:0}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				<lightbox>
+					<lightphysics>
+						{{false, true, true, false},{false, true, true, false}}
+					</lightphysics>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+							<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:0 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				<lightbox>
+					<lightphysics>
+						{{true, false, true, false},{true, true, true, false}}
+					</lightphysics>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+							<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:0 Y:192}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				<lightbox>
+					<lightphysics>
+						{{true, true, false, false},{true, true, false, false}}
+					</lightphysics>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+							<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:64 Y:0}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+				<lightbox>
+					<lightphysics>
+						{{false, true, false, true},{false, true, true, true}}
+					</lightphysics>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+							<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:64 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, true, true, true},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+				</lightboxes>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:64 Y:128}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, true, true, true},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+				</lightboxes>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:64 Y:192}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{false, true, false, true},{true, true, false, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+				</lightboxes>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:128 Y:0}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{false, true, false, true},{false, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+				</lightboxes>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:128 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:38 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, true, true, true},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+				</lightboxes>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:128 Y:128}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:38 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+				<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, true, true, true},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+				</lightboxes>
+			</hitboxes>
+		</tile>
+		
+		<tile name = "{X:192 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:26 Y:0 Width:38 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, true, true, true},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:192 Y:128}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:26 Y:0 Width:38 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, true, true, true},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:256 Y:0}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{false, false, true, true},{false, false, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:256 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{false, true, false, true},{true, false, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:256 Y:192}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, false, true, false},{true, false, false, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:320 Y:0}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, false, true, false},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:320 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, true, false, false},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:320 Y:128}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, true, true, true},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:320 Y:192}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, true, true, true},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:384 Y:0}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, true, false, false},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:384 Y:64}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{false, true, false, true},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:384 Y:128}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, true, true, true},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:384 Y:192}">
+			<hitboxes>
+				<tileBox>
+					<movementInclusion>
+						inassessible
+					</movementInclusion>
+					<position>
+						{X:null Y:null}
+					</position>
+					<boundings>
+						<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+					</boundings>
+				</tileBox>
+			</hitboxes>
+			<lightboxes>
+					<lightbox>
+						<lightphysics>
+							{{true, true, true, true},{true, true, true, true}}
+						</lightphysics>
+						<position>
+							{X:null Y:null}
+						</position>
+						<boundings>
+								<RECTANGLE>{X:0 Y:0 Width:64 Height:64}</RECTANGLE>
+						</boundings>
+					</lightbox>
+			</lightboxes>
+		</tile>
+		
+	</tileSet>
+	<tileSet name = "woodfloor_tile_set">
+		<tile name = "{X:0 Y:0}">
+			<hitboxes>
+				null
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:0 Y:64}">
+			<hitboxes>
+				null
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:0 Y:128}">
+			<hitboxes>
+				null
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:0 Y:192}">
+			<hitboxes>
+				null
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+	
+		<tile name = "{X:64 Y:64}">
+			<hitboxes>
+				null
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:64 Y:128}">
+			<hitboxes>
+				null
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:64 Y:192}">
+			<hitboxes>
+				null
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:128 Y:64}">
+			<hitboxes>
+				null
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:128 Y:128}">
+			<hitboxes>
+				null
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
+		</tile>
+		
+		<tile name = "{X:128 Y:192}">
+			<hitboxes>
+				null
+			</hitboxes>
+			<lightboxes>
+				null
+			</lightboxes>
 		</tile>
 	</tileSet>
 </Hitboxes>

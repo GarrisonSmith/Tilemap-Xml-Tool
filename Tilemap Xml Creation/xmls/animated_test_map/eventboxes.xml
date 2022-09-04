@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tileMaps>
+	<layer name = "1">
+		<eventBox>
+			<id>
+				eb1
+			</id>
+			<discription>
+				Transitions the scene from water_grass_map to large_grass_water_map.
+			</discription>
+			<sceneEvent>
+				<transitionScene>
+					<transitionTileMap>large_grass_water_map</transitionTileMap>
+					<transitionStartLocation>{X:1120 Y:1024}</transitionStartLocation>
+				</transitionScene>
+			</sceneEvent>
+			<position>
+				{X:960 Y:704}
+			</position>
+			<boundings>
+				<RECTANGLE>{X:32 Y:0 Width:64 Height:128}</RECTANGLE>
+			</boundings>
+		</eventBox>
+	</layer>
+	<layer name = "2">
+		<eventBox>
+			<id>
+				eb2
+			</id>
+			<discription>
+				Transitions the scene from water_grass_map to large_grass_water_map.
+			</discription>
+			<sceneEvent>
+				<transitionScene>
+					<transitionTileMap>large_grass_water_map</transitionTileMap>
+					<transitionStartLocation>{X:1120 Y:1024}</transitionStartLocation>
+				</transitionScene>
+			</sceneEvent>
+			<position>
+				{X:0 Y:0}
+			</position>
+			<boundings>
+				<RECTANGLE>{X:0 Y:0 Width:64 Height:128}</RECTANGLE>
+			</boundings>
+		</eventBox>
+	</layer>
+</tileMaps>

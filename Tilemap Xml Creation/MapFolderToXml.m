@@ -93,10 +93,9 @@ function foo = create_tile_xml(tileString, animatedConfig, hitboxConfig, row, co
      Tile.tileSetCoordinate = "{"+nameArr(end);
      Tile.tileMapCoordinate = "{X:"+string(column)+" Y:"+string(row)+"}";
      Tile.positionBox = "{X:"+string(xPos)+" Y:"+string(yPos)+" Width:64 Height:64}";
+     Tile.hitboxes = get_tile_hitbox(tileString, hitboxConfig, "{X:"+string(xPos)+" Y:"+string(yPos)+"}");
+     Tile.lightboxes = get_tile_lightbox(tileString, hitboxConfig, "{X:"+string(xPos)+" Y:"+string(yPos)+"}");
      
-     if(tile_has_hitbox(tileString, hitboxConfig))
-        Tile.hitboxes = get_tile_hitbox(tileString, hitboxConfig, "{X:"+string(xPos)+" Y:"+string(yPos)+"}");
-     end
      if(tile_has_animation(tileString, animatedConfig))
         Tile.animation = get_tile_animation(tileString, animatedConfig);
      end
@@ -142,26 +141,6 @@ function foo = get_tile_animation(tileString, animatedConfig)
 
     foo = false;
 end
-%determines if the provided tile has a hitbox or not.
-function foo = tile_has_hitbox(tileString, hitboxConfig)
-    for i = 1:length(hitboxConfig.tileSet)
-        tileSetName = hitboxConfig.tileSet(i).nameAttribute;
-        tileSetCoordinate = "";
-        try
-            for j = 1:length(hitboxConfig.tileSet(i).tile)
-                tileSetCoordinate = hitboxConfig.tileSet(i).tile(j).nameAttribute;
-                if tileString == tileSetName+tileSetCoordinate
-                    foo = true;
-                    return;
-                end
-            end
-        catch
-                %no animated tiles in this tileSet. 
-        end
-    end
-
-    foo = false;
-end
 %gets the hitbox node for the provided tile.
 function foo = get_tile_hitbox(tileString, hitboxConfig, position)
     for i = 1:length(hitboxConfig.tileSet)
@@ -172,6 +151,29 @@ function foo = get_tile_hitbox(tileString, hitboxConfig, position)
                 tileSetCoordinate = hitboxConfig.tileSet(i).tile(j).nameAttribute;
                 if tileString == tileSetName+tileSetCoordinate
                     foo = hitboxConfig.tileSet(i).tile(j).hitboxes;
+                    for k=1:length(foo.tileBox)
+                        foo.tileBox(k).position = position;
+                    end
+                    return;
+                end
+            end
+        catch
+            %no tiles lightboxes in this tileSet.
+        end
+    end
+
+    foo = false;
+end
+%gets the hitbox node for the provided tile.
+function foo = get_tile_lightbox(tileString, hitboxConfig, position)
+    for i = 1:length(hitboxConfig.tileSet)
+        tileSetName = hitboxConfig.tileSet(i).nameAttribute;
+        tileSetCoordinate = "";
+        try
+            for j = 1:length(hitboxConfig.tileSet(i).tile)
+                tileSetCoordinate = hitboxConfig.tileSet(i).tile(j).nameAttribute;
+                if tileString == tileSetName+tileSetCoordinate
+                    foo = hitboxConfig.tileSet(i).tile(j).lightboxes;
                     for k=1:length(foo.tileBox)
                         foo.tileBox(k).position = position;
                     end
@@ -200,7 +202,7 @@ function foo = add_eventBoxes(mapXml, eventStruct)
     end
     foo = mapXml;
 end
-
+%gets the number of rows.
 function foo = get_number_of_rows(layerString)
     foo = length(split(layerString, ';'));
 end
