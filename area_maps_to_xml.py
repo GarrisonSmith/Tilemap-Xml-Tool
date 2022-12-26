@@ -17,7 +17,7 @@ def tile_image_is_in_tiles(tile_image): #determines if the provided tile_image i
 	return False #tile image is not in tiles
 
 def add_tile(tile): #adds the provided tile to tiles if tile is a unique graphic
-	if tile_image_is_in_tiles(tile[0]) == False:
+	if tile_image_is_in_tiles(tile[0]) is False:
 		tiles.append(tile)
 		return True #tile was added
 	return False #tile was not added
@@ -62,25 +62,29 @@ def get_spritesheet_tiles(): #clears then fills tiles
 def get_tile_xml(tile_image, tile_coordinates, map_root, layer_xml): #generates the tile XML for the provided arguments
 	tile_ID = tile_image_is_in_tiles(tile_image)
 	
-	if (tile_ID == False):
+	if (tile_ID is False): #tile was not found in a spritesheet and is a missing texture. Uses DEBUG texture instead.
 		print('tile graphic not found in a spritesheet')
 		tile_ID = ['DEBUG', '{X:0 Y:0']
 
-	if (tile_ID[0] == 'EMPTY'):
+	if (tile_ID[0] == 'EMPTY'): #EMPTY tiles are not included in the XML.
 		return
 
+	#generates the primary 'Tile' tag
 	tile_xml = map_root.createElement('Tile')
-	tile_xml.setAttribute('ID', tile_ID[0]+tile_ID[1])
+	tile_xml.setAttribute('ID', tile_ID[0] / 64 + tile_ID[1] / 64)
 	layer_xml.appendChild(tile_xml)
 
+	#generates the 'tileSet' tag
 	tile_set = map_root.createElement('tileSet')
 	tile_set.setAttribute('name', tile_ID[0])
 	tile_xml.appendChild(tile_set)
 	
+	#generates the 'tileSetCoordinates' tag
 	tile_set_coordinates = map_root.createElement('tileSetCoordinates')
 	tile_set_coordinates.setAttribute('coordinates', tile_ID[1])
 	tile_xml.appendChild(tile_set_coordinates)
 
+	#generates the 'tileMapCoordinates' tag
 	tile_map_coordinates = map_root.createElement('tileMapCoordinates')
 	tile_map_coordinates.setAttribute('coordinates', str(tile_coordinates))
 	tile_xml.appendChild(tile_map_coordinates)
@@ -120,8 +124,9 @@ def generate_maps_xml(): #generates the XML for all tile maps
 
 		get_map_xml(map_path, map_root, map_xml)
 
-		xml_str = map_root.toprettyxml(indent ="\t")  
-		save_path = os.path.join(directory_path, map+".xml")
+		xml_str = map_root.toprettyxml(indent ="\t")
+		save_path = os.path.join(directory_path, 'xmls')  
+		save_path = os.path.join(save_path, map+".xml")
 		with open(save_path, "w") as xml_file:
 			xml_file.write(xml_str)
 
