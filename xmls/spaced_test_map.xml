@@ -1,155 +1,155 @@
 <?xml version="1.0" ?>
 <spaced_test_map>
-	<layer name="1">
-		<Tile ID="brickwall_spritesheet{X:0 Y:0}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:0}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:64}"/>
+	<Layer name="1">
+		<Tile id="brickwall_spritesheet{row:0 col:0}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="0" col="0"/>
+			<MapCoordinates row="1" col="1"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:0 Y:64}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:192}"/>
+		<Tile id="brickwall_spritesheet{row:0 col:1}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="0" col="1"/>
+			<MapCoordinates row="1" col="3"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:0 Y:192}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:320}"/>
+		<Tile id="brickwall_spritesheet{row:0 col:3}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="0" col="3"/>
+			<MapCoordinates row="1" col="5"/>
 		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:0}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:0}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:448}"/>
+		<Tile id="woodfloor_spritesheet{row:0 col:0}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="0"/>
+			<MapCoordinates row="1" col="7"/>
 		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:576}"/>
+		<Tile id="woodfloor_spritesheet{row:0 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="1"/>
+			<MapCoordinates row="1" col="9"/>
 		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:704}"/>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="1" col="11"/>
 		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:832}"/>
+		<Tile id="woodfloor_spritesheet{row:0 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="3"/>
+			<MapCoordinates row="1" col="13"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:64 Y:0}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:0}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:64}"/>
+		<Tile id="brickwall_spritesheet{row:1 col:0}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="1" col="0"/>
+			<MapCoordinates row="3" col="1"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:64 Y:64}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:192}"/>
+		<Tile id="brickwall_spritesheet{row:1 col:1}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="3" col="3"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:64 Y:192}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:320}"/>
+		<Tile id="brickwall_spritesheet{row:1 col:3}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="3" col="5"/>
 		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:576}"/>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="3" col="9"/>
 		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:704}"/>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="11"/>
 		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:832}"/>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="3" col="13"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:128 Y:0}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:0}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:64}"/>
+		<Tile id="brickwall_spritesheet{row:2 col:0}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="2" col="0"/>
+			<MapCoordinates row="5" col="1"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:128 Y:64}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:192}"/>
+		<Tile id="brickwall_spritesheet{row:2 col:1}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="2" col="1"/>
+			<MapCoordinates row="5" col="3"/>
 		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:576}"/>
+		<Tile id="woodfloor_spritesheet{row:2 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="1"/>
+			<MapCoordinates row="5" col="9"/>
 		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:704}"/>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="5" col="11"/>
 		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:832}"/>
+		<Tile id="woodfloor_spritesheet{row:2 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="3"/>
+			<MapCoordinates row="5" col="13"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:192 Y:64}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:192 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:192}"/>
+		<Tile id="brickwall_spritesheet{row:3 col:1}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="3" col="1"/>
+			<MapCoordinates row="7" col="3"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:256 Y:0}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:256 Y:0}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:64}"/>
+		<Tile id="brickwall_spritesheet{row:4 col:0}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="4" col="0"/>
+			<MapCoordinates row="9" col="1"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:256 Y:64}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:256 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:192}"/>
+		<Tile id="brickwall_spritesheet{row:4 col:1}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="4" col="1"/>
+			<MapCoordinates row="9" col="3"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:256 Y:192}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:256 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:320}"/>
+		<Tile id="brickwall_spritesheet{row:4 col:3}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="4" col="3"/>
+			<MapCoordinates row="9" col="5"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:320 Y:0}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:320 Y:0}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:64}"/>
+		<Tile id="brickwall_spritesheet{row:5 col:0}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="5" col="0"/>
+			<MapCoordinates row="11" col="1"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:320 Y:64}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:320 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:192}"/>
+		<Tile id="brickwall_spritesheet{row:5 col:1}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="5" col="1"/>
+			<MapCoordinates row="11" col="3"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:320 Y:128}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:320 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:320}"/>
+		<Tile id="brickwall_spritesheet{row:5 col:2}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="5" col="2"/>
+			<MapCoordinates row="11" col="5"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:320 Y:192}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:320 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:448}"/>
+		<Tile id="brickwall_spritesheet{row:5 col:3}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="5" col="3"/>
+			<MapCoordinates row="11" col="7"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:384 Y:0}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:384 Y:0}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:64}"/>
+		<Tile id="brickwall_spritesheet{row:6 col:0}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="6" col="0"/>
+			<MapCoordinates row="13" col="1"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:384 Y:64}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:384 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:192}"/>
+		<Tile id="brickwall_spritesheet{row:6 col:1}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="6" col="1"/>
+			<MapCoordinates row="13" col="3"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:384 Y:128}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:384 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:320}"/>
+		<Tile id="brickwall_spritesheet{row:6 col:2}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="6" col="2"/>
+			<MapCoordinates row="13" col="5"/>
 		</Tile>
-		<Tile ID="brickwall_spritesheet{X:384 Y:192}">
-			<tileSet name="brickwall_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:384 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:448}"/>
+		<Tile id="brickwall_spritesheet{row:6 col:3}">
+			<Set name="brickwall_spritesheet"/>
+			<SetCoordinates row="6" col="3"/>
+			<MapCoordinates row="13" col="7"/>
 		</Tile>
-	</layer>
+	</Layer>
 </spaced_test_map>

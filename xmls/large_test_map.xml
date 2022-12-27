@@ -1,2005 +1,2005 @@
 <?xml version="1.0" ?>
 <large_test_map>
-	<layer name="1">
-		<Tile ID="woodfloor_spritesheet{X:0 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:0 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:0 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:0 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:64 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:128 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:192 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:256 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:320 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:384 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:448 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:512 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:576 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:640 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:704 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:768 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:832 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:896 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:960 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:1024 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:1088 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:64 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:64 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:1152 Y:1216}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:64}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:64}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:0}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:64}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:128}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:192}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:256}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:320}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:384}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:448}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:512}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:576}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:640}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:704}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:768}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:832}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:896}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:960}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:1024}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:1088}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:128}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:128}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:1152}"/>
-		</Tile>
-		<Tile ID="woodfloor_spritesheet{X:128 Y:192}">
-			<tileSet name="woodfloor_spritesheet"/>
-			<tileSetCoordinates coordinates="{X:128 Y:192}"/>
-			<tileMapCoordinates coordinates="{X:1216 Y:1216}"/>
-		</Tile>
-	</layer>
+	<Layer name="1">
+		<Tile id="woodfloor_spritesheet{row:0 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="1"/>
+			<MapCoordinates row="0" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="2"/>
+			<MapCoordinates row="0" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:0 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="0" col="3"/>
+			<MapCoordinates row="0" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="1" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="1" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="1" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="2" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="2" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="2" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="3" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="3" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="3" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="4" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="4" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="4" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="5" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="5" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="5" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="6" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="6" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="6" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="7" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="7" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="7" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="8" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="8" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="8" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="9" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="9" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="9" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="10" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="10" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="10" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="11" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="11" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="11" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="12" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="12" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="12" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="13" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="13" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="13" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="14" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="14" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="14" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="15" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="15" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="15" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="16" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="16" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="16" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="17" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="17" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="17" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="1"/>
+			<MapCoordinates row="18" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="2"/>
+			<MapCoordinates row="18" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:1 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="1" col="3"/>
+			<MapCoordinates row="18" col="19"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:1}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="1"/>
+			<MapCoordinates row="19" col="0"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="1"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="2"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="3"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="4"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="5"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="6"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="7"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="8"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="9"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="10"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="11"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="12"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="13"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="14"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="15"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="16"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="17"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:2}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="2"/>
+			<MapCoordinates row="19" col="18"/>
+		</Tile>
+		<Tile id="woodfloor_spritesheet{row:2 col:3}">
+			<Set name="woodfloor_spritesheet"/>
+			<SetCoordinates row="2" col="3"/>
+			<MapCoordinates row="19" col="19"/>
+		</Tile>
+	</Layer>
 </large_test_map>
