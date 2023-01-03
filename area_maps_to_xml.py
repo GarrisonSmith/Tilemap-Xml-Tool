@@ -30,7 +30,7 @@ def get_spritesheet_tiles(): #clears then fills tiles
 		tile_image = Image.open(spritesheet_path)
 		if (tile_image.size[0] != tile_size & tile_image.size[1] != tile_size):
 			raise Exception('DEBUG has invalid dimensions.')
-		tile = [tile_image, 'DEBUG', '{row:0 col:0}', 0, 0]
+		tile = [tile_image, 'DEBUG', '{0 0}', 0, 0]
 		add_tile(tile)
 	except:
 		print('No DEBUG png found')
@@ -40,7 +40,7 @@ def get_spritesheet_tiles(): #clears then fills tiles
 		tile_image = Image.open(spritesheet_path)
 		if (tile_image.size[0] != tile_size & tile_image.size[1] != tile_size):
 			raise Exception('EMPTY has invalid dimensions.')
-		tile = [tile_image, 'EMPTY', '{row:0 col:0}', 0 , 0]
+		tile = [tile_image, 'EMPTY', '{0 0}', 0 , 0]
 		add_tile(tile)
 	except:
 		print('No EMPTY png found')
@@ -50,13 +50,13 @@ def get_spritesheet_tiles(): #clears then fills tiles
 		spritesheet_image = Image.open(spritesheet_path)
 		horizontal_length = spritesheet_image.size[0]; vertical_length = spritesheet_image.size[1]
 		if (horizontal_length % tile_size & vertical_length % tile_size):
-			print("Error in layer dimensions")
+			print('Error in layer dimensions')
 			continue
 		for row in range(0, horizontal_length, tile_size): #iterates through each tile in a spritesheet
 			for col in range(0, vertical_length, tile_size):
 				crop_area = (row, col, row+tile_size, col+tile_size)
 				tile_image = spritesheet_image.crop(crop_area)
-				tile = [tile_image, spritesheet[0:-4], '{row:'+str(row//64)+' col:'+str(col//64)+'}', row//64, col//64]
+				tile = [tile_image, spritesheet[0:-4], str(row//64) + ',' + str(col//64), row//64, col//64]
 				add_tile(tile)	
 
 def get_tile_xml(tile_image, tile_coordinates, map_root, layer_xml): #generates the tile XML for the provided arguments
@@ -64,38 +64,34 @@ def get_tile_xml(tile_image, tile_coordinates, map_root, layer_xml): #generates 
 	
 	if (tile_ID is False): #tile was not found in a spritesheet and is a missing texture. Uses DEBUG texture instead.
 		print('tile graphic not found in a spritesheet')
-		tile_ID = ['DEBUG', '{col:0 row:0']
+		tile_ID = ['DEBUG', '0 0']
 
 	if (tile_ID[1] == 'EMPTY'): #EMPTY tiles are not included in the XML.
 		return
 
 	#generates the primary 'Tile' tag
 	tile_xml = map_root.createElement('Tile')
-	tile_xml.setAttribute('id', tile_ID[1] + tile_ID[2])
+	tile_xml.setAttribute('id', tile_ID[1] + '|' + tile_ID[2])
+	tile_xml.setAttribute('mapRow', str(tile_coordinates[0]))
+	tile_xml.setAttribute('mapCol', str(tile_coordinates[1]))
 	layer_xml.appendChild(tile_xml)
 
 	#generates the 'tileSet' tag
-	tile_set = map_root.createElement('Set')
+	tile_set = map_root.createElement('Spritesheet')
 	tile_set.setAttribute('name', tile_ID[1])
 	tile_xml.appendChild(tile_set)
 	
 	#generates the 'tileSetCoordinates' tag
-	tile_set_coordinates = map_root.createElement('SetCoordinates')
+	tile_set_coordinates = map_root.createElement('SheetCoordinates')
 	tile_set_coordinates.setAttribute('row', str(tile_ID[3]))
 	tile_set_coordinates.setAttribute('col', str(tile_ID[4]))
 	tile_xml.appendChild(tile_set_coordinates)
-
-	#generates the 'tileMapCoordinates' tag
-	tile_map_coordinates = map_root.createElement('MapCoordinates')
-	tile_map_coordinates.setAttribute('row', str(tile_coordinates[0]))
-	tile_map_coordinates.setAttribute('col', str(tile_coordinates[1]))
-	tile_xml.appendChild(tile_map_coordinates)
 
 def get_layer_xml(layer_image, map_root, layer_xml): #generates the layer XML for the provided arguments
 	horizontal_length = layer_image.size[0]; vertical_length = layer_image.size[1]
 	
 	if (horizontal_length % tile_size != 0 & vertical_length % tile_size != 0):
-		print("Error in layer dimensions")
+		print('Error in layer dimensions')
 		return
 	
 	for row in range(0, horizontal_length, tile_size):
@@ -121,15 +117,19 @@ def generate_maps_xml(): #generates the XML for all tile maps
 		map_path = os.path.join(tile_maps_path, map)
 		
 		map_root = minidom.Document()
-		map_xml = map_root.createElement(map)
-		map_root.appendChild(map_xml)
+		map_xml_top = map_root.createElement('XnaContent')
+		map_xml = map_root.createElement('Asset')
+		map_xml.setAttribute('Type', 'Engine.Logic.Mapping.GameMap')
+		map_xml.setAttribute('name', map)
+		map_xml_top.appendChild(map_xml)
 
 		get_map_xml(map_path, map_root, map_xml)
+		map_root.appendChild(map_xml_top)
 
-		xml_str = map_root.toprettyxml(indent ="\t")
+		xml_str = map_root.toprettyxml(indent ='\t')
 		save_path = os.path.join(directory_path, 'xmls')  
 		save_path = os.path.join(save_path, map+".xml")
-		with open(save_path, "w") as xml_file:
+		with open(save_path, 'w') as xml_file:
 			xml_file.write(xml_str)
 
 get_spritesheet_tiles()
