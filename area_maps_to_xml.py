@@ -106,7 +106,8 @@ def get_map_xml(map_path, map_root, map_xml): #generates the map XML for the pro
 		map_layer_path = os.path.join(map_path, map_layer_name)
 		layer_image = Image.open(map_layer_path)
 		
-		layer_xml = map_root.createElement('Layer')
+		layer_xml = map_root.createElement('Asset')
+		layer_xml.setAttribute('Type', 'Fantasy.Engine.Logic.Mapping.MapLayer')
 		layer_xml.setAttribute('name', map_layer_name[:-4])
 		map_xml.appendChild(layer_xml)
 
@@ -118,13 +119,22 @@ def generate_maps_xml(): #generates the XML for all tile maps
 		
 		map_root = minidom.Document()
 		map_xml_top = map_root.createElement('XnaContent')
+		map_root.appendChild(map_xml_top)
+
 		map_xml = map_root.createElement('Asset')
 		map_xml.setAttribute('Type', 'Engine.Logic.Mapping.GameMap')
 		map_xml.setAttribute('name', map)
-		map_xml_top.appendChild(map_xml)
+
+		enabled_xml = map_root.createElement('Enabled')
+		enabled_xml.appendChild(map_root.createTextNode('true'))
+		map_xml.appendChild(enabled_xml)
+
+		update_xml = map_root.createElement('UpdateOrder')
+		update_xml.appendChild(map_root.createTextNode('1')) #update order for the maps is set here
+		map_xml.appendChild(update_xml)
 
 		get_map_xml(map_path, map_root, map_xml)
-		map_root.appendChild(map_xml_top)
+		map_xml_top.appendChild(map_xml)
 
 		xml_str = map_root.toprettyxml(indent ='\t')
 		save_path = os.path.join(directory_path, 'xmls')  
