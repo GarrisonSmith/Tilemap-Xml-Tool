@@ -7,7 +7,10 @@ tile_size = 64
 directory_path = os.path.dirname(os.path.realpath(__file__))
 tile_maps_path = os.path.join(directory_path, 'tile_maps')
 spritesheets_path = os.path.join(directory_path, 'spritesheets')
-tiles = list()
+tiles = list() 
+#each tile is represented by an array in the form of:
+#[tile's image, tile's spritesheet name, the tile's col and row in the spritesheet image, tile's col, tile's row, tile's location]
+#the tile's location is a list contains arrays in the form of: [location layer, layer locations (list)]
 
 #gets the locations list for the given layer of the given tile, if it does not currently exist then it creates and returns it.
 def get_layer_locations(tile, layer):
@@ -79,33 +82,37 @@ def get_tile_xmls(map_root, map_xml):
 		tile_xml.setAttribute('id', tile[1] + '|' + tile[2])
 		map_xml.appendChild(tile_xml)
 
-		#generates the 'tileSet' tag
-		tile_set = map_root.createElement('Spritesheet')
-		tile_set.setAttribute('name', tile[1])
-		tile_xml.appendChild(tile_set)
-	
-		#generates the 'tileSetCoordinates' tag
-		tile_set_coordinates = map_root.createElement('SheetCoordinates')
-		tile_set_coordinates.setAttribute('col', str(tile[3]))
-		tile_set_coordinates.setAttribute('row', str(tile[4]))
-		tile_xml.appendChild(tile_set_coordinates)
+		#generates the 'spritesheet' tag
+		spritesheet_xml = map_root.createElement('spritesheet')
+		spritesheet_xml.appendChild(map_root.createTextNode(tile[1]))
+		tile_xml.appendChild(spritesheet_xml)
+
+		#generates the 'sheet-coordinates' tag
+		sheet_coordinates_xml = map_root.createElement('sheet-coordinates')
+		sheet_coordinates_xml.setAttribute('col', str(tile[3]))
+		sheet_coordinates_xml.setAttribute('row', str(tile[4]))
+		tile_xml.appendChild(sheet_coordinates_xml)
 
 		#generates the 'locations' tag
 		for layer_location in tile[5]:
-			tile_layer_locations = map_root.createElement('LayerLocations')
-			tile_layer_locations.setAttribute('layer', layer_location[0])
+			layer_locations_xml = map_root.createElement('locations')
+			layer_locations_xml.setAttribute('layer', layer_location[0])
 			for location in layer_location[1]:
-				tile_layer_locations.appendChild(map_root.createTextNode(str(location)))
-			tile_xml.appendChild(tile_layer_locations)
+				coordinate_xml = map_root.createElement('coordinates')
+				coordinate_xml.setAttribute('x', str(location[0]*tile_size))
+				coordinate_xml.setAttribute('y', str(location[1]*tile_size))
+				layer_locations_xml.appendChild(coordinate_xml)
+			tile_xml.appendChild(layer_locations_xml)
 
 #loads the location data for each tile in each layer in the current map.
 def load_tile_locations(layer_image, layer_number, map_layer_path):
-
+	#checks if the current layer dimensions are valid
 	if (layer_image.size[0] % tile_size != 0 and  layer_image.size[1] % tile_size != 0):
 		print('Error in layer dimensions: ' + map_layer_path)
 		print('Layer XML not generated.')
 		return
 	
+	#iterates through each tile in the current layer image
 	for row in range(0, layer_image.size[0], tile_size):
 		for col in range(0,  layer_image.size[1], tile_size):
 			crop_area = (col, row, col+tile_size, row+tile_size)
@@ -141,10 +148,10 @@ def get_map_xml(map_path, map_root, map_xml):
 
 #generates the XML for all tile maps
 def generate_maps_xml():
+	#iterates through each map in the maps directory 
 	for map in os.listdir(tile_maps_path):
+		map_root = minidom.Document() 
 		map_path = os.path.join(tile_maps_path, map)
-		
-		map_root = minidom.Document()
 
 		map_xml = map_root.createElement('Engine.Logic.Mapping.GameMap')
 		map_xml.setAttribute('name', map)
