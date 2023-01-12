@@ -1,2512 +1,290 @@
 <?xml version="1.0" ?>
-<test_map>
-	<Layer name="1">
-		<Tile id="brickwall_spritesheet{row:0 col:0}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="0"/>
-			<MapCoordinates row="0" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="1"/>
-			<MapCoordinates row="0" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="1"/>
-			<MapCoordinates row="0" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="1"/>
-			<MapCoordinates row="0" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="1"/>
-			<MapCoordinates row="0" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="1"/>
-			<MapCoordinates row="0" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="1"/>
-			<MapCoordinates row="0" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="1"/>
-			<MapCoordinates row="0" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="1"/>
-			<MapCoordinates row="0" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="1"/>
-			<MapCoordinates row="0" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:3}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="3"/>
-			<MapCoordinates row="0" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:0}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="0"/>
-			<MapCoordinates row="1" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="1"/>
-			<MapCoordinates row="1" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="1" col="2"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:0 col:1}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="0" col="1"/>
-			<MapCoordinates row="1" col="3"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:0 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="4"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:0 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="5"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:0 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="6"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:0 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="7"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:0 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="8"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:0 col:3}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="0" col="3"/>
-			<MapCoordinates row="1" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:3}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="1" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:2 col:0}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="2" col="0"/>
-			<MapCoordinates row="2" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:2 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="2" col="1"/>
-			<MapCoordinates row="2" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:2 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="2" col="2"/>
-			<MapCoordinates row="2" col="2"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:1}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="1"/>
-			<MapCoordinates row="2" col="3"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="2" col="4"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="2" col="5"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="2" col="6"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="2" col="7"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="2" col="8"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:3}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="2" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:3}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="2" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:0}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="0"/>
-			<MapCoordinates row="3" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:3 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="3" col="1"/>
-			<MapCoordinates row="3" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:3 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="3" col="2"/>
-			<MapCoordinates row="3" col="2"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:2 col:1}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="2" col="1"/>
-			<MapCoordinates row="3" col="3"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:2 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="2" col="2"/>
-			<MapCoordinates row="3" col="4"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:2 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="2" col="2"/>
-			<MapCoordinates row="3" col="5"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:2 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="2" col="2"/>
-			<MapCoordinates row="3" col="6"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="3" col="7"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="3" col="8"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:3}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="3" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:3}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="3" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:0}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="0"/>
-			<MapCoordinates row="4" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="1"/>
-			<MapCoordinates row="4" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="1"/>
-			<MapCoordinates row="4" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="1"/>
-			<MapCoordinates row="4" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:5 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="5" col="1"/>
-			<MapCoordinates row="4" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:5 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="5" col="2"/>
-			<MapCoordinates row="4" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:5 col:3}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="5" col="3"/>
-			<MapCoordinates row="4" col="6"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:1}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="1"/>
-			<MapCoordinates row="4" col="7"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="4" col="8"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:3}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="4" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:3}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="4" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:0}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="0"/>
-			<MapCoordinates row="5" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="1"/>
-			<MapCoordinates row="5" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:6 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="6" col="1"/>
-			<MapCoordinates row="5" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:6 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="6" col="2"/>
-			<MapCoordinates row="5" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:6 col:3}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="6" col="3"/>
-			<MapCoordinates row="5" col="6"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:1}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="1"/>
-			<MapCoordinates row="5" col="7"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="5" col="8"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:3}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="5" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:3}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="5" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:0}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="0"/>
-			<MapCoordinates row="6" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="1"/>
-			<MapCoordinates row="6" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="6" col="4"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:0 col:1}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="0" col="1"/>
-			<MapCoordinates row="6" col="5"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:0 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="6"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="6" col="7"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="6" col="8"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:3}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="6" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:3}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="6" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:2 col:0}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="2" col="0"/>
-			<MapCoordinates row="7" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:2 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="2" col="1"/>
-			<MapCoordinates row="7" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:2 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="2" col="2"/>
-			<MapCoordinates row="7" col="4"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:1}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="1"/>
-			<MapCoordinates row="7" col="5"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="7" col="6"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="7" col="7"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="2"/>
-			<MapCoordinates row="7" col="8"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:1 col:3}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="7" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:3}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="7" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:0}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="0"/>
-			<MapCoordinates row="8" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:3 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="3" col="1"/>
-			<MapCoordinates row="8" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:3 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="3" col="2"/>
-			<MapCoordinates row="8" col="4"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:2 col:1}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="2" col="1"/>
-			<MapCoordinates row="8" col="5"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:2 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="2" col="2"/>
-			<MapCoordinates row="8" col="6"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:2 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="2" col="2"/>
-			<MapCoordinates row="8" col="7"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:2 col:2}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="2" col="2"/>
-			<MapCoordinates row="8" col="8"/>
-		</Tile>
-		<Tile id="woodfloor_spritesheet{row:2 col:3}">
-			<Set name="woodfloor_spritesheet"/>
-			<SetCoordinates row="2" col="3"/>
-			<MapCoordinates row="8" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:1 col:3}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="1" col="3"/>
-			<MapCoordinates row="8" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:0}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="0"/>
-			<MapCoordinates row="9" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="1"/>
-			<MapCoordinates row="9" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="1"/>
-			<MapCoordinates row="9" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="1"/>
-			<MapCoordinates row="9" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="1"/>
-			<MapCoordinates row="9" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="1"/>
-			<MapCoordinates row="9" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="1"/>
-			<MapCoordinates row="9" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:1}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="1"/>
-			<MapCoordinates row="9" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:4 col:3}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="4" col="3"/>
-			<MapCoordinates row="9" col="10"/>
-		</Tile>
-	</Layer>
-	<Layer name="2">
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="0" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="1" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="2" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="3" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="6"/>
-		</Tile>
-		<Tile id="DEBUG{row:0 col:0}">
-			<Set name="DEBUG"/>
-			<SetCoordinates row="0" col="0"/>
-			<MapCoordinates row="4" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="4" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="5" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="6" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="7" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="8" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="9" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="10" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="11" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="12" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="13" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="14" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="15" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="16" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="17" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="18" col="19"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="0"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="1"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="2"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="3"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="4"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="5"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="6"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="7"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="8"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="9"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="10"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="11"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="12"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="13"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="14"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="15"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="16"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="17"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="18"/>
-		</Tile>
-		<Tile id="brickwall_spritesheet{row:0 col:2}">
-			<Set name="brickwall_spritesheet"/>
-			<SetCoordinates row="0" col="2"/>
-			<MapCoordinates row="19" col="19"/>
-		</Tile>
-	</Layer>
-</test_map>
+<Engine.Logic.Mapping.GameMap name="test_map">
+	<Engine.Logic.Mapping.Tiling.Tile id="DEBUG|0,0">
+		<spritesheet>DEBUG</spritesheet>
+		<sheet-coordinates col="0" row="0"/>
+		<locations layer="2">
+			<coordinates x="256" y="448"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|0,0">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="0" row="0"/>
+		<locations layer="1">
+			<coordinates x="0" y="0"/>
+			<coordinates x="320" y="128"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|1,0">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="1" row="0"/>
+		<locations layer="1">
+			<coordinates x="64" y="0"/>
+			<coordinates x="192" y="0"/>
+			<coordinates x="384" y="128"/>
+			<coordinates x="512" y="128"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|2,0">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="2" row="0"/>
+		<locations layer="1">
+			<coordinates x="128" y="0"/>
+			<coordinates x="448" y="128"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|4,0">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="4" row="0"/>
+		<locations layer="1">
+			<coordinates x="256" y="0"/>
+			<coordinates x="576" y="128"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|0,1">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="0" row="1"/>
+		<locations layer="1">
+			<coordinates x="0" y="64"/>
+			<coordinates x="0" y="128"/>
+			<coordinates x="0" y="192"/>
+			<coordinates x="320" y="192"/>
+			<coordinates x="0" y="256"/>
+			<coordinates x="0" y="320"/>
+			<coordinates x="0" y="384"/>
+			<coordinates x="0" y="448"/>
+			<coordinates x="0" y="512"/>
+			<coordinates x="0" y="576"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|1,1">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="1" row="1"/>
+		<locations layer="1">
+			<coordinates x="64" y="64"/>
+			<coordinates x="384" y="192"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|2,1">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="2" row="1"/>
+		<locations layer="1">
+			<coordinates x="128" y="64"/>
+			<coordinates x="448" y="192"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|3,1">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="3" row="1"/>
+		<locations layer="1">
+			<coordinates x="192" y="64"/>
+			<coordinates x="512" y="192"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|4,1">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="4" row="1"/>
+		<locations layer="1">
+			<coordinates x="256" y="64"/>
+			<coordinates x="256" y="128"/>
+			<coordinates x="256" y="192"/>
+			<coordinates x="576" y="192"/>
+			<coordinates x="576" y="256"/>
+			<coordinates x="576" y="320"/>
+			<coordinates x="576" y="384"/>
+			<coordinates x="576" y="448"/>
+			<coordinates x="576" y="512"/>
+			<coordinates x="576" y="576"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|5,1">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="5" row="1"/>
+		<locations layer="1">
+			<coordinates x="256" y="256"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|6,1">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="6" row="1"/>
+		<locations layer="1">
+			<coordinates x="320" y="256"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|1,2">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="1" row="2"/>
+		<locations layer="1">
+			<coordinates x="64" y="128"/>
+			<coordinates x="384" y="256"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|2,2">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="2" row="2"/>
+		<locations layer="1">
+			<coordinates x="128" y="128"/>
+			<coordinates x="448" y="256"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|3,2">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="3" row="2"/>
+		<locations layer="1">
+			<coordinates x="192" y="128"/>
+			<coordinates x="512" y="256"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|5,2">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="5" row="2"/>
+		<locations layer="1">
+			<coordinates x="256" y="320"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|6,2">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="6" row="2"/>
+		<locations layer="1">
+			<coordinates x="320" y="320"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|0,3">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="0" row="3"/>
+		<locations layer="1">
+			<coordinates x="0" y="640"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|1,3">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="1" row="3"/>
+		<locations layer="1">
+			<coordinates x="64" y="640"/>
+			<coordinates x="128" y="640"/>
+			<coordinates x="192" y="640"/>
+			<coordinates x="256" y="640"/>
+			<coordinates x="320" y="640"/>
+			<coordinates x="384" y="640"/>
+			<coordinates x="448" y="640"/>
+			<coordinates x="512" y="640"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|4,3">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="4" row="3"/>
+		<locations layer="1">
+			<coordinates x="576" y="640"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|5,3">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="5" row="3"/>
+		<locations layer="1">
+			<coordinates x="256" y="384"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|6,3">
+		<spritesheet>brickwall_spritesheet</spritesheet>
+		<sheet-coordinates col="6" row="3"/>
+		<locations layer="1">
+			<coordinates x="320" y="384"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|0,1">
+		<spritesheet>woodfloor_spritesheet</spritesheet>
+		<sheet-coordinates col="0" row="1"/>
+		<locations layer="1">
+			<coordinates x="64" y="192"/>
+			<coordinates x="384" y="320"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|1,1">
+		<spritesheet>woodfloor_spritesheet</spritesheet>
+		<sheet-coordinates col="1" row="1"/>
+		<locations layer="1">
+			<coordinates x="128" y="192"/>
+			<coordinates x="448" y="320"/>
+			<coordinates x="256" y="448"/>
+			<coordinates x="320" y="448"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|2,1">
+		<spritesheet>woodfloor_spritesheet</spritesheet>
+		<sheet-coordinates col="2" row="1"/>
+		<locations layer="1">
+			<coordinates x="192" y="192"/>
+			<coordinates x="512" y="320"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|0,2">
+		<spritesheet>woodfloor_spritesheet</spritesheet>
+		<sheet-coordinates col="0" row="2"/>
+		<locations layer="1">
+			<coordinates x="64" y="256"/>
+			<coordinates x="64" y="320"/>
+			<coordinates x="64" y="384"/>
+			<coordinates x="384" y="384"/>
+			<coordinates x="64" y="448"/>
+			<coordinates x="64" y="512"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|1,2">
+		<spritesheet>woodfloor_spritesheet</spritesheet>
+		<sheet-coordinates col="1" row="2"/>
+		<locations layer="1">
+			<coordinates x="128" y="256"/>
+			<coordinates x="128" y="320"/>
+			<coordinates x="128" y="384"/>
+			<coordinates x="448" y="384"/>
+			<coordinates x="128" y="448"/>
+			<coordinates x="192" y="448"/>
+			<coordinates x="384" y="448"/>
+			<coordinates x="448" y="448"/>
+			<coordinates x="128" y="512"/>
+			<coordinates x="192" y="512"/>
+			<coordinates x="256" y="512"/>
+			<coordinates x="320" y="512"/>
+			<coordinates x="384" y="512"/>
+			<coordinates x="448" y="512"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|2,2">
+		<spritesheet>woodfloor_spritesheet</spritesheet>
+		<sheet-coordinates col="2" row="2"/>
+		<locations layer="1">
+			<coordinates x="192" y="256"/>
+			<coordinates x="192" y="320"/>
+			<coordinates x="192" y="384"/>
+			<coordinates x="512" y="384"/>
+			<coordinates x="512" y="448"/>
+			<coordinates x="512" y="512"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|0,3">
+		<spritesheet>woodfloor_spritesheet</spritesheet>
+		<sheet-coordinates col="0" row="3"/>
+		<locations layer="1">
+			<coordinates x="64" y="576"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|1,3">
+		<spritesheet>woodfloor_spritesheet</spritesheet>
+		<sheet-coordinates col="1" row="3"/>
+		<locations layer="1">
+			<coordinates x="128" y="576"/>
+			<coordinates x="192" y="576"/>
+			<coordinates x="256" y="576"/>
+			<coordinates x="320" y="576"/>
+			<coordinates x="384" y="576"/>
+			<coordinates x="448" y="576"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|2,3">
+		<spritesheet>woodfloor_spritesheet</spritesheet>
+		<sheet-coordinates col="2" row="3"/>
+		<locations layer="1">
+			<coordinates x="512" y="576"/>
+		</locations>
+	</Engine.Logic.Mapping.Tiling.Tile>
+</Engine.Logic.Mapping.GameMap>
