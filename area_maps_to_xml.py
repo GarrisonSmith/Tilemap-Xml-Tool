@@ -98,7 +98,7 @@ def get_tile_xmls(map_root, map_xml):
 			layer_locations_xml = map_root.createElement('locations')
 			layer_locations_xml.setAttribute('layer', layer_location[0])
 			for location in layer_location[1]:
-				coordinate_xml = map_root.createElement('coordinates')
+				coordinate_xml = map_root.createElement('location')
 				coordinate_xml.setAttribute('x', str(location[0]*tile_size))
 				coordinate_xml.setAttribute('y', str(location[1]*tile_size))
 				layer_locations_xml.appendChild(coordinate_xml)
@@ -137,13 +137,22 @@ def get_map_xml(map_path, map_root, map_xml):
 	#clears tiles locations for new map
 	for tile in tiles:
 		tile[5] = list()
+	layer_numbers = list()
 	#iterates through layer images of map folder
 	for map_layer_name in os.listdir(map_path):
 		map_layer_path = os.path.join(map_path, map_layer_name)
 		layer_image = Image.open(map_layer_path)
 		layer_number = map_layer_name[:-4]
+		layer_numbers.append(layer_number)
 		load_tile_locations(layer_image, layer_number, map_layer_path)
-
+	layers_xml = map_root.createElement('Layers')
+	#creates the layers tag
+	for layer_number in layer_numbers:
+		layer_xml = map_root.createElement('Layer')
+		layer_xml.setAttribute('id', str(layer_number))
+		layers_xml.appendChild(layer_xml)
+	map_xml.appendChild(layers_xml)
+	#creates the tile tags
 	get_tile_xmls(map_root, map_xml)
 
 #generates the XML for all tile maps

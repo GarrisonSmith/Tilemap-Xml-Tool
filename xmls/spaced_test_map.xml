@@ -1,213 +1,216 @@
 <?xml version="1.0" ?>
 <Engine.Logic.Mapping.GameMap name="spaced_test_map">
+	<Layers>
+		<Layer id="1"/>
+	</Layers>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|0,0">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="0" row="0"/>
 		<locations layer="1">
-			<coordinates x="64" y="64"/>
+			<location x="64" y="64"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|1,0">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="1" row="0"/>
 		<locations layer="1">
-			<coordinates x="192" y="64"/>
+			<location x="192" y="64"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|2,0">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="2" row="0"/>
 		<locations layer="1">
-			<coordinates x="320" y="64"/>
+			<location x="320" y="64"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|4,0">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="4" row="0"/>
 		<locations layer="1">
-			<coordinates x="576" y="64"/>
+			<location x="576" y="64"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|5,0">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="5" row="0"/>
 		<locations layer="1">
-			<coordinates x="704" y="64"/>
+			<location x="704" y="64"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|6,0">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="6" row="0"/>
 		<locations layer="1">
-			<coordinates x="832" y="64"/>
+			<location x="832" y="64"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|0,1">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="0" row="1"/>
 		<locations layer="1">
-			<coordinates x="64" y="192"/>
+			<location x="64" y="192"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|1,1">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="1" row="1"/>
 		<locations layer="1">
-			<coordinates x="192" y="192"/>
+			<location x="192" y="192"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|2,1">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="2" row="1"/>
 		<locations layer="1">
-			<coordinates x="320" y="192"/>
+			<location x="320" y="192"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|3,1">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="3" row="1"/>
 		<locations layer="1">
-			<coordinates x="448" y="192"/>
+			<location x="448" y="192"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|4,1">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="4" row="1"/>
 		<locations layer="1">
-			<coordinates x="576" y="192"/>
+			<location x="576" y="192"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|5,1">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="5" row="1"/>
 		<locations layer="1">
-			<coordinates x="704" y="192"/>
+			<location x="704" y="192"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|6,1">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="6" row="1"/>
 		<locations layer="1">
-			<coordinates x="832" y="192"/>
+			<location x="832" y="192"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|5,2">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="5" row="2"/>
 		<locations layer="1">
-			<coordinates x="704" y="320"/>
+			<location x="704" y="320"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|6,2">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="6" row="2"/>
 		<locations layer="1">
-			<coordinates x="832" y="320"/>
+			<location x="832" y="320"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|0,3">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="0" row="3"/>
 		<locations layer="1">
-			<coordinates x="64" y="320"/>
+			<location x="64" y="320"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|1,3">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="1" row="3"/>
 		<locations layer="1">
-			<coordinates x="192" y="320"/>
+			<location x="192" y="320"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|4,3">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="4" row="3"/>
 		<locations layer="1">
-			<coordinates x="576" y="320"/>
+			<location x="576" y="320"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|5,3">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="5" row="3"/>
 		<locations layer="1">
-			<coordinates x="704" y="448"/>
+			<location x="704" y="448"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="brickwall_spritesheet|6,3">
 		<spritesheet>brickwall_spritesheet</spritesheet>
 		<sheet-coordinates col="6" row="3"/>
 		<locations layer="1">
-			<coordinates x="832" y="448"/>
+			<location x="832" y="448"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|0,0">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
 		<sheet-coordinates col="0" row="0"/>
 		<locations layer="1">
-			<coordinates x="64" y="448"/>
+			<location x="64" y="448"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|0,1">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
 		<sheet-coordinates col="0" row="1"/>
 		<locations layer="1">
-			<coordinates x="64" y="576"/>
+			<location x="64" y="576"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|1,1">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
 		<sheet-coordinates col="1" row="1"/>
 		<locations layer="1">
-			<coordinates x="192" y="576"/>
+			<location x="192" y="576"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|2,1">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
 		<sheet-coordinates col="2" row="1"/>
 		<locations layer="1">
-			<coordinates x="320" y="576"/>
+			<location x="320" y="576"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|0,2">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
 		<sheet-coordinates col="0" row="2"/>
 		<locations layer="1">
-			<coordinates x="64" y="704"/>
+			<location x="64" y="704"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|1,2">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
 		<sheet-coordinates col="1" row="2"/>
 		<locations layer="1">
-			<coordinates x="192" y="704"/>
+			<location x="192" y="704"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|2,2">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
 		<sheet-coordinates col="2" row="2"/>
 		<locations layer="1">
-			<coordinates x="320" y="704"/>
+			<location x="320" y="704"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|0,3">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
 		<sheet-coordinates col="0" row="3"/>
 		<locations layer="1">
-			<coordinates x="64" y="832"/>
+			<location x="64" y="832"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|1,3">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
 		<sheet-coordinates col="1" row="3"/>
 		<locations layer="1">
-			<coordinates x="192" y="832"/>
+			<location x="192" y="832"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|2,3">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
 		<sheet-coordinates col="2" row="3"/>
 		<locations layer="1">
-			<coordinates x="320" y="832"/>
+			<location x="320" y="832"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
 </Engine.Logic.Mapping.GameMap>
