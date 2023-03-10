@@ -1,141 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Animations>
-	<tileSet name = "poopoopeepee">
-	</tileSet>
-	<tileSet name = "grass_tile_set">
-		<tile name = "{X:0 Y:0}">
-			<animation>
-				<graphic>grass_tile_set</graphic>
-				<minFrameDuration>400</minFrameDuration>
-				<maxFrameDuration>1400</maxFrameDuration>
-				<startingFrame>0</startingFrame>
-				<maxFrame>2</maxFrame>
-				<columnReference>0</columnReference>
-				<rowReference>0</rowReference>
-				<sourceWidth>64</sourceWidth>
-				<sourceHeight>64</sourceHeight>
-				<animationState>cycling</animationState>
-			</animation>
-		</tile>
-		
-		<tile name = "{X:0 Y:64}">
-			<animation>
-				<graphic>grass_tile_set</graphic>
-				<minFrameDuration>400</minFrameDuration>
-				<maxFrameDuration>1400</maxFrameDuration>
-				<startingFrame>0</startingFrame>
-				<maxFrame>2</maxFrame>
-				<columnReference>0</columnReference>
-				<rowReference>1</rowReference>
-				<sourceWidth>64</sourceWidth>
-				<sourceHeight>64</sourceHeight>
-				<animationState>cycling</animationState>
-			</animation>
-		</tile>
-		
-		<tile name = "{X:0 Y:128}">
-			<animation>
-				<graphic>grass_tile_set</graphic>
-				<minFrameDuration>400</minFrameDuration>
-				<maxFrameDuration>1400</maxFrameDuration>
-				<startingFrame>0</startingFrame>
-				<maxFrame>2</maxFrame>
-				<columnReference>0</columnReference>
-				<rowReference>2</rowReference>
-				<sourceWidth>64</sourceWidth>
-				<sourceHeight>64</sourceHeight>
-				<animationState>cycling</animationState>
-			</animation>
-		</tile>
-		
-		<tile name = "{X:128 Y:0}">
-			<animation>
-				<graphic>grass_tile_set</graphic>
-				<minFrameDuration>400</minFrameDuration>
-				<maxFrameDuration>1400</maxFrameDuration>
-				<startingFrame>0</startingFrame>
-				<maxFrame>2</maxFrame>
-				<columnReference>2</columnReference>
-				<rowReference>0</rowReference>
-				<sourceWidth>64</sourceWidth>
-				<sourceHeight>64</sourceHeight>
-				<animationState>cycling</animationState>
-			</animation>
-		</tile>
-		
-		<tile name = "{X:128 Y:64}">
-			<animation>
-				<graphic>grass_tile_set</graphic>
-				<minFrameDuration>400</minFrameDuration>
-				<maxFrameDuration>1400</maxFrameDuration>
-				<startingFrame>0</startingFrame>
-				<maxFrame>2</maxFrame>
-				<columnReference>2</columnReference>
-				<rowReference>1</rowReference>
-				<sourceWidth>64</sourceWidth>
-				<sourceHeight>64</sourceHeight>
-				<animationState>cycling</animationState>
-			</animation>
-		</tile>
-		
-		<tile name = "{X:128 Y:128}">
-			<animation>
-				<graphic>grass_tile_set</graphic>
-				<minFrameDuration>400</minFrameDuration>
-				<maxFrameDuration>1400</maxFrameDuration>
-				<startingFrame>0</startingFrame>
-				<maxFrame>2</maxFrame>
-				<columnReference>2</columnReference>
-				<rowReference>2</rowReference>
-				<sourceWidth>64</sourceWidth>
-				<sourceHeight>64</sourceHeight>
-				<animationState>cycling</animationState>
-			</animation>
-		</tile>
-		
-		<tile name = "{X:256 Y:0}">
-			<animation>
-				<graphic>grass_tile_set</graphic>
-				<minFrameDuration>400</minFrameDuration>
-				<maxFrameDuration>1400</maxFrameDuration>
-				<startingFrame>0</startingFrame>
-				<maxFrame>2</maxFrame>
-				<columnReference>4</columnReference>
-				<rowReference>0</rowReference>
-				<sourceWidth>64</sourceWidth>
-				<sourceHeight>64</sourceHeight>
-				<animationState>cycling</animationState>
-			</animation>
-		</tile>
-		
-		<tile name = "{X:256 Y:64}">
-			<animation>
-				<graphic>grass_tile_set</graphic>
-				<minFrameDuration>400</minFrameDuration>
-				<maxFrameDuration>1400</maxFrameDuration>
-				<startingFrame>0</startingFrame>
-				<maxFrame>2</maxFrame>
-				<columnReference>4</columnReference>
-				<rowReference>1</rowReference>
-				<sourceWidth>64</sourceWidth>
-				<sourceHeight>64</sourceHeight>
-				<animationState>cycling</animationState>
-			</animation>
-		</tile>
-		
-		<tile name = "{X:256 Y:128}">
-			<animation>
-				<graphic>grass_tile_set</graphic>
-				<minFrameDuration>400</minFrameDuration>
-				<maxFrameDuration>1400</maxFrameDuration>
-				<startingFrame>0</startingFrame>
-				<maxFrame>2</maxFrame>
-				<columnReference>4</columnReference>
-				<rowReference>2</rowReference>
-				<sourceWidth>64</sourceWidth>
-				<sourceHeight>64</sourceHeight>
-				<animationState>cycling</animationState>
-			</animation>
-		</tile>
+	<tileSet id = "grass_spritesheet">
+		<animatedTile id = "grass_spritesheet|0,0">
+			<spritesheetAnimation>
+				<activeFrameIndex>0</activeFrameIndex>
+				<minDurationMili>1000</minDurationMili>
+				<maxDurationExtensionMili>500</maxDurationExtensionMili>
+				<frames length="2">
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+				</frames>
+			</spritesheetAnimation>
+		</animatedTile>
+		<animatedTile id = "grass_spritesheet|0,1">
+			<spritesheetAnimation>
+				<activeFrameIndex>0</activeFrameIndex>
+				<minDurationMili>1000</minDurationMili>
+				<maxDurationExtensionMili>500</maxDurationExtensionMili>
+				<frames length="2">
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+				</frames>
+			</spritesheetAnimation>
+		</animatedTile>
+		<animatedTile id = "grass_spritesheet|0,1">
+			<spritesheetAnimation>
+				<activeFrameIndex>0</activeFrameIndex>
+				<minDurationMili>1000</minDurationMili>
+				<maxDurationExtensionMili>500</maxDurationExtensionMili>
+				<frames length="2">
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+				</frames>
+			</spritesheetAnimation>
+		</animatedTile>
+		<animatedTile id = "grass_spritesheet|2,0">
+			<spritesheetAnimation>
+				<activeFrameIndex>0</activeFrameIndex>
+				<minDurationMili>1000</minDurationMili>
+				<maxDurationExtensionMili>500</maxDurationExtensionMili>
+				<frames length="2">
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+				</frames>
+			</spritesheetAnimation>
+		</animatedTile>
+		<animatedTile id = "grass_spritesheet|2,1">
+			<spritesheetAnimation>
+				<activeFrameIndex>0</activeFrameIndex>
+				<minDurationMili>1000</minDurationMili>
+				<maxDurationExtensionMili>500</maxDurationExtensionMili>
+				<frames length="2">
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+				</frames>
+			</spritesheetAnimation>
+		</animatedTile>
+		<animatedTile id = "grass_spritesheet|2,1">
+			<spritesheetAnimation>
+				<activeFrameIndex>0</activeFrameIndex>
+				<minDurationMili>1000</minDurationMili>
+				<maxDurationExtensionMili>500</maxDurationExtensionMili>
+				<frames length="2">
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+				</frames>
+			</spritesheetAnimation>
+		</animatedTile>
+		<animatedTile id = "grass_spritesheet|4,0">
+			<spritesheetAnimation>
+				<activeFrameIndex>0</activeFrameIndex>
+				<minDurationMili>1000</minDurationMili>
+				<maxDurationExtensionMili>500</maxDurationExtensionMili>
+				<frames length="2">
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+				</frames>
+			</spritesheetAnimation>
+		</animatedTile>
+		<animatedTile id = "grass_spritesheet|4,1">
+			<spritesheetAnimation>
+				<activeFrameIndex>0</activeFrameIndex>
+				<minDurationMili>1000</minDurationMili>
+				<maxDurationExtensionMili>500</maxDurationExtensionMili>
+				<frames length="2">
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+				</frames>
+			</spritesheetAnimation>
+		</animatedTile>
+		<animatedTile id = "grass_spritesheet|4,1">
+			<spritesheetAnimation>
+				<activeFrameIndex>0</activeFrameIndex>
+				<minDurationMili>1000</minDurationMili>
+				<maxDurationExtensionMili>500</maxDurationExtensionMili>
+				<frames length="2">
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+					<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
+				</frames>
+			</spritesheetAnimation>
+		</animatedTile>
 	</tileSet>
 </Animations>
