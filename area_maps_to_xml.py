@@ -7,6 +7,10 @@ tile_size = 64
 directory_path = os.path.dirname(os.path.realpath(__file__))
 tile_maps_path = os.path.join(directory_path, 'tile_maps')
 spritesheets_path = os.path.join(directory_path, 'spritesheets')
+animation_path = os.path.join(directory_path, 'config\\tile_animations.xml')
+animations_xml = minidom.parse(animation_path)
+animations_root = animations_xml.documentElement
+tileSet_animations = animations_root.getElementsByTagName("tileSet")
 tiles = list() 
 #each tile is represented by an array in the form of:
 #[tile's image, tile's spritesheet name, the tile's col and row in the spritesheet image, tile's col, tile's row, tile's location]
@@ -78,7 +82,11 @@ def get_tile_xmls(map_root, map_xml):
 			continue
 		
 		#generates the primary 'Tile' tag
-		tile_xml = map_root.createElement('Engine.Logic.Mapping.Tiling.Tile')
+		animation_xml = get_tile_animations(tile[1], tile[1] + '|' + tile[2])
+		if (animation_xml is False):
+			tile_xml = map_root.createElement('Engine.Logic.Mapping.Tiling.Tile')
+		else:
+			tile_xml = map_root.createElement('Engine.Logic.Mapping.Tiling.AnimatedTile')
 		tile_xml.setAttribute('id', tile[1] + '|' + tile[2])
 		map_xml.appendChild(tile_xml)
 
@@ -103,6 +111,21 @@ def get_tile_xmls(map_root, map_xml):
 				coordinate_xml.setAttribute('y', str(location[1]*tile_size))
 				layer_locations_xml.appendChild(coordinate_xml)
 			tile_xml.appendChild(layer_locations_xml)
+
+		#adds the animation tag if one exists for the given tile
+		if(animation_xml is not False):
+			animation_xml.removeAttribute("id")
+			tile_xml.appendChild(animation_xml)
+
+
+#get the tile animations for the provided tile_id if it exists, otherwise returns false.
+def get_tile_animations(tileSet, tile_id):
+	for tileSet_animation_xml in tileSet_animations:
+		if(tileSet_animation_xml.getAttribute("id") == tileSet):
+			for animation_xml in tileSet_animation_xml.getElementsByTagName("spritesheetAnimation"):
+				if (tile_id == animation_xml.getAttribute("id")):
+					return animation_xml
+	return False
 
 #loads the location data for each tile in each layer in the current map.
 def load_tile_locations(layer_image, layer_number, map_layer_path):
@@ -168,11 +191,15 @@ def generate_maps_xml():
 		get_map_xml(map_path, map_root, map_xml)
 		map_root.appendChild(map_xml)
 
-		xml_str = map_root.toprettyxml(indent ='\t')
+		xml_str_with_lines = map_root.toprettyxml(indent='\t')
+		xml_str_lines = xml_str_with_lines.split('\n')
+		xml_str_no_lines = list(filter(lambda x: x.strip() != '', xml_str_lines))
+		xml_pretty_str = '\n'.join(xml_str_no_lines)
+
 		save_path = os.path.join(directory_path, 'xmls')  
 		save_path = os.path.join(save_path, map+".xml")
 		with open(save_path, 'w') as xml_file:
-			xml_file.write(xml_str)
+			xml_file.write(xml_pretty_str)
 
 get_spritesheet_tiles()
 generate_maps_xml()
