@@ -273,7 +273,7 @@
 			<location x="1216" y="1216"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
-	<Engine.Logic.Mapping.Tiling.AnimatedTile id="grass_spritesheet|0,1">
+	<Engine.Logic.Mapping.Tiling.Tile id="grass_spritesheet|0,1">
 		<spritesheet>grass_spritesheet</spritesheet>
 		<sheet-coordinates col="0" row="1"/>
 		<locations layer="1">
@@ -286,16 +286,7 @@
 			<location x="64" y="1152"/>
 			<location x="64" y="1216"/>
 		</locations>
-		<spritesheetAnimation>
-			<activeFrameIndex>0</activeFrameIndex>
-			<minDurationMili>1000</minDurationMili>
-			<maxDurationExtensionMili>500</maxDurationExtensionMili>
-			<frames length="2">
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-			</frames>
-		</spritesheetAnimation>
-	</Engine.Logic.Mapping.Tiling.AnimatedTile>
+	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.AnimatedTile id="grass_spritesheet|2,1">
 		<spritesheet>grass_spritesheet</spritesheet>
 		<sheet-coordinates col="2" row="1"/>
@@ -391,7 +382,7 @@
 			</frames>
 		</spritesheetAnimation>
 	</Engine.Logic.Mapping.Tiling.AnimatedTile>
-	<Engine.Logic.Mapping.Tiling.AnimatedTile id="grass_spritesheet|4,1">
+	<Engine.Logic.Mapping.Tiling.Tile id="grass_spritesheet|4,1">
 		<spritesheet>grass_spritesheet</spritesheet>
 		<sheet-coordinates col="4" row="1"/>
 		<locations layer="1">
@@ -401,16 +392,7 @@
 			<location x="768" y="1152"/>
 			<location x="768" y="1216"/>
 		</locations>
-		<spritesheetAnimation>
-			<activeFrameIndex>0</activeFrameIndex>
-			<minDurationMili>1000</minDurationMili>
-			<maxDurationExtensionMili>500</maxDurationExtensionMili>
-			<frames length="2">
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-			</frames>
-		</spritesheetAnimation>
-	</Engine.Logic.Mapping.Tiling.AnimatedTile>
+	</Engine.Logic.Mapping.Tiling.Tile>
 	<Engine.Logic.Mapping.Tiling.Tile id="grass_spritesheet|5,1">
 		<spritesheet>grass_spritesheet</spritesheet>
 		<sheet-coordinates col="5" row="1"/>

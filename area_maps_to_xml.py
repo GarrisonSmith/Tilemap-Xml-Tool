@@ -136,8 +136,8 @@ def load_tile_locations(layer_image, layer_number, map_layer_path):
 		return
 	
 	#iterates through each tile in the current layer image
-	for row in range(0, layer_image.size[0], tile_size):
-		for col in range(0,  layer_image.size[1], tile_size):
+	for row in range(0, layer_image.height, tile_size):
+		for col in range(0,  layer_image.width, tile_size):
 			crop_area = (col, row, col+tile_size, row+tile_size)
 			tile_image = layer_image.crop(crop_area).convert('RGB')
 			tile = tile_image_is_in_tiles(tile_image)
