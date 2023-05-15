@@ -83,11 +83,8 @@ def get_tile_xmls(map_root, map_xml):
 		
 		#generates the primary 'Tile' tag
 		animation_xml = get_tile_animations(tile[1], tile[1] + '|' + tile[2])
-		if (animation_xml is False):
-			tile_xml = map_root.createElement('Engine.Logic.Mapping.Tiling.Tile')
-		else:
-			tile_xml = map_root.createElement('Engine.Logic.Mapping.Tiling.AnimatedTile')
-		tile_xml.setAttribute('id', tile[1] + '|' + tile[2])
+		tile_xml = map_root.createElement('Engine.Logic.Mapping.Tiling.Tile')
+		tile_xml.setAttribute('tileId', tile[1] + '|' + tile[2])
 		map_xml.appendChild(tile_xml)
 
 		#generates the 'spritesheet' tag
@@ -96,10 +93,15 @@ def get_tile_xmls(map_root, map_xml):
 		tile_xml.appendChild(spritesheet_xml)
 
 		#generates the 'sheet-coordinates' tag
-		sheet_coordinates_xml = map_root.createElement('sheet-coordinates')
+		sheet_coordinates_xml = map_root.createElement('sheetCoordinates')
 		sheet_coordinates_xml.setAttribute('col', str(tile[3]))
 		sheet_coordinates_xml.setAttribute('row', str(tile[4]))
 		tile_xml.appendChild(sheet_coordinates_xml)
+
+		#adds the animation tag if one exists for the given tile
+		if(animation_xml is not False):
+			animation_xml.removeAttribute("tileId")
+			tile_xml.appendChild(animation_xml)
 
 		#generates the 'locations' tag
 		for layer_location in tile[5]:
@@ -112,18 +114,13 @@ def get_tile_xmls(map_root, map_xml):
 				layer_locations_xml.appendChild(coordinate_xml)
 			tile_xml.appendChild(layer_locations_xml)
 
-		#adds the animation tag if one exists for the given tile
-		if(animation_xml is not False):
-			animation_xml.removeAttribute("id")
-			tile_xml.appendChild(animation_xml)
-
 
 #get the tile animations for the provided tile_id if it exists, otherwise returns false.
 def get_tile_animations(tileSet, tile_id):
 	for tileSet_animation_xml in tileSet_animations:
 		if(tileSet_animation_xml.getAttribute("id") == tileSet):
 			for animation_xml in tileSet_animation_xml.getElementsByTagName("spritesheetAnimation"):
-				if (tile_id == animation_xml.getAttribute("id")):
+				if (tile_id == animation_xml.getAttribute("tileId")):
 					return animation_xml
 	return False
 
@@ -168,11 +165,11 @@ def get_map_xml(map_path, map_root, map_xml):
 		layer_number = map_layer_name[:-4]
 		layer_numbers.append(layer_number)
 		load_tile_locations(layer_image, layer_number, map_layer_path)
-	layers_xml = map_root.createElement('Layers')
+	layers_xml = map_root.createElement('Engine.Logic.Mapping.MapLayers')
 	#creates the layers tag
 	for layer_number in layer_numbers:
-		layer_xml = map_root.createElement('Layer')
-		layer_xml.setAttribute('id', str(layer_number))
+		layer_xml = map_root.createElement('Engine.Logic.Mapping.MapLayer')
+		layer_xml.setAttribute('layer', str(layer_number))
 		layers_xml.appendChild(layer_xml)
 	map_xml.appendChild(layers_xml)
 	#creates the tile tags

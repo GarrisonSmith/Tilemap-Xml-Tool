@@ -1,18 +1,18 @@
 <?xml version="1.0" ?>
 <Engine.Logic.Mapping.GameMap name="large_test_map">
-	<Layers>
-		<Layer id="1"/>
-	</Layers>
-	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|0,1">
+	<Engine.Logic.Mapping.MapLayers>
+		<Engine.Logic.Mapping.MapLayer layer="1"/>
+	</Engine.Logic.Mapping.MapLayers>
+	<Engine.Logic.Mapping.Tiling.Tile tileId="woodfloor_spritesheet|0,1">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
-		<sheet-coordinates col="0" row="1"/>
+		<sheetCoordinates col="0" row="1"/>
 		<locations layer="1">
 			<location x="0" y="0"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
-	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|1,1">
+	<Engine.Logic.Mapping.Tiling.Tile tileId="woodfloor_spritesheet|1,1">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
-		<sheet-coordinates col="1" row="1"/>
+		<sheetCoordinates col="1" row="1"/>
 		<locations layer="1">
 			<location x="64" y="0"/>
 			<location x="128" y="0"/>
@@ -34,16 +34,16 @@
 			<location x="1152" y="0"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
-	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|2,1">
+	<Engine.Logic.Mapping.Tiling.Tile tileId="woodfloor_spritesheet|2,1">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
-		<sheet-coordinates col="2" row="1"/>
+		<sheetCoordinates col="2" row="1"/>
 		<locations layer="1">
 			<location x="1216" y="0"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
-	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|0,2">
+	<Engine.Logic.Mapping.Tiling.Tile tileId="woodfloor_spritesheet|0,2">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
-		<sheet-coordinates col="0" row="2"/>
+		<sheetCoordinates col="0" row="2"/>
 		<locations layer="1">
 			<location x="0" y="64"/>
 			<location x="0" y="128"/>
@@ -65,9 +65,9 @@
 			<location x="0" y="1152"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
-	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|1,2">
+	<Engine.Logic.Mapping.Tiling.Tile tileId="woodfloor_spritesheet|1,2">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
-		<sheet-coordinates col="1" row="2"/>
+		<sheetCoordinates col="1" row="2"/>
 		<locations layer="1">
 			<location x="64" y="64"/>
 			<location x="128" y="64"/>
@@ -395,9 +395,9 @@
 			<location x="1152" y="1152"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
-	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|2,2">
+	<Engine.Logic.Mapping.Tiling.Tile tileId="woodfloor_spritesheet|2,2">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
-		<sheet-coordinates col="2" row="2"/>
+		<sheetCoordinates col="2" row="2"/>
 		<locations layer="1">
 			<location x="1216" y="64"/>
 			<location x="1216" y="128"/>
@@ -419,16 +419,16 @@
 			<location x="1216" y="1152"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
-	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|0,3">
+	<Engine.Logic.Mapping.Tiling.Tile tileId="woodfloor_spritesheet|0,3">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
-		<sheet-coordinates col="0" row="3"/>
+		<sheetCoordinates col="0" row="3"/>
 		<locations layer="1">
 			<location x="0" y="1216"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
-	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|1,3">
+	<Engine.Logic.Mapping.Tiling.Tile tileId="woodfloor_spritesheet|1,3">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
-		<sheet-coordinates col="1" row="3"/>
+		<sheetCoordinates col="1" row="3"/>
 		<locations layer="1">
 			<location x="64" y="1216"/>
 			<location x="128" y="1216"/>
@@ -450,9 +450,9 @@
 			<location x="1152" y="1216"/>
 		</locations>
 	</Engine.Logic.Mapping.Tiling.Tile>
-	<Engine.Logic.Mapping.Tiling.Tile id="woodfloor_spritesheet|2,3">
+	<Engine.Logic.Mapping.Tiling.Tile tileId="woodfloor_spritesheet|2,3">
 		<spritesheet>woodfloor_spritesheet</spritesheet>
-		<sheet-coordinates col="2" row="3"/>
+		<sheetCoordinates col="2" row="3"/>
 		<locations layer="1">
 			<location x="1216" y="1216"/>
 		</locations>

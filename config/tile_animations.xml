@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Animations>
-	<tileSet id = "grass_spritesheet">
-		<spritesheetAnimation id = "grass_spritesheet|0,0">
+	<tileSet id="grass_spritesheet">
+		<spritesheetAnimation tileId="grass_spritesheet|0,0">
 			<activeFrameIndex>0</activeFrameIndex>
 			<minDurationMili>1000</minDurationMili>
 			<maxDurationExtensionMili>500</maxDurationExtensionMili>
@@ -10,7 +10,7 @@
 				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
 			</frames>
 		</spritesheetAnimation>
-		<spritesheetAnimation id = "grass_spritesheet|0,1">
+		<spritesheetAnimation tileId="grass_spritesheet|0,1">
 			<activeFrameIndex>0</activeFrameIndex>
 			<minDurationMili>1000</minDurationMili>
 			<maxDurationExtensionMili>500</maxDurationExtensionMili>
@@ -19,7 +19,7 @@
 				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
 			</frames>
 		</spritesheetAnimation>
-		<spritesheetAnimation id = "grass_spritesheet|0,2">
+		<spritesheetAnimation tileId="grass_spritesheet|0,2">
 			<activeFrameIndex>0</activeFrameIndex>
 			<minDurationMili>1000</minDurationMili>
 			<maxDurationExtensionMili>500</maxDurationExtensionMili>
@@ -28,7 +28,7 @@
 				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
 			</frames>
 		</spritesheetAnimation>
-		<spritesheetAnimation id = "grass_spritesheet|2,0">
+		<spritesheetAnimation tileId="grass_spritesheet|2,0">
 			<activeFrameIndex>0</activeFrameIndex>
 			<minDurationMili>1000</minDurationMili>
 			<maxDurationExtensionMili>500</maxDurationExtensionMili>
@@ -37,7 +37,7 @@
 				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
 			</frames>
 		</spritesheetAnimation>
-		<spritesheetAnimation id = "grass_spritesheet|2,1"> 
+		<spritesheetAnimation tileId="grass_spritesheet|2,1"> 
 			<activeFrameIndex>0</activeFrameIndex>
 			<minDurationMili>1000</minDurationMili>
 			<maxDurationExtensionMili>500</maxDurationExtensionMili>
@@ -46,7 +46,7 @@
 				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
 			</frames>
 		</spritesheetAnimation>
-		<spritesheetAnimation id = "grass_spritesheet|2,2">
+		<spritesheetAnimation tileId="grass_spritesheet|2,2">
 			<activeFrameIndex>0</activeFrameIndex>
 			<minDurationMili>1000</minDurationMili>
 			<maxDurationExtensionMili>500</maxDurationExtensionMili>
@@ -55,7 +55,7 @@
 				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
 			</frames>
 		</spritesheetAnimation>
-		<spritesheetAnimation id = "grass_spritesheet|4,0">
+		<spritesheetAnimation tileId="grass_spritesheet|4,0">
 			<activeFrameIndex>0</activeFrameIndex>
 			<minDurationMili>1000</minDurationMili>
 			<maxDurationExtensionMili>500</maxDurationExtensionMili>
@@ -64,7 +64,7 @@
 				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
 			</frames>
 		</spritesheetAnimation>
-		<spritesheetAnimation id = "grass_spritesheet|4,1">
+		<spritesheetAnimation tileId="grass_spritesheet|4,1">
 			<activeFrameIndex>0</activeFrameIndex>
 			<minDurationMili>1000</minDurationMili>
 			<maxDurationExtensionMili>500</maxDurationExtensionMili>
@@ -73,7 +73,7 @@
 				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
 			</frames>
 		</spritesheetAnimation>
-		<spritesheetAnimation id = "grass_spritesheet|4,2">
+		<spritesheetAnimation tileId="grass_spritesheet|4,2">
 			<activeFrameIndex>0</activeFrameIndex>
 			<minDurationMili>1000</minDurationMili>
 			<maxDurationExtensionMili>500</maxDurationExtensionMili>
