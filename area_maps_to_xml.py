@@ -83,32 +83,32 @@ def get_tile_xmls(map_root, map_xml):
 		
 		#generates the primary 'Tile' tag
 		animation_xml = get_tile_animations(tile[1], tile[1] + '|' + tile[2])
-		tile_xml = map_root.createElement('Engine.Logic.Mapping.Tiling.Tile')
-		tile_xml.setAttribute('tileId', tile[1] + '|' + tile[2])
+		tile_xml = map_root.createElement('Tile')
+		tile_xml.setAttribute('tileName', tile[1] + '|' + tile[2])
 		map_xml.appendChild(tile_xml)
 
 		#generates the 'spritesheet' tag
-		spritesheet_xml = map_root.createElement('spritesheet')
+		spritesheet_xml = map_root.createElement('SpriteSheet')
 		spritesheet_xml.appendChild(map_root.createTextNode(tile[1]))
 		tile_xml.appendChild(spritesheet_xml)
 
 		#generates the 'sheet-coordinates' tag
-		sheet_coordinates_xml = map_root.createElement('sheetCoordinates')
+		sheet_coordinates_xml = map_root.createElement('SheetCoordinates')
 		sheet_coordinates_xml.setAttribute('col', str(tile[3]))
 		sheet_coordinates_xml.setAttribute('row', str(tile[4]))
 		tile_xml.appendChild(sheet_coordinates_xml)
 
 		#adds the animation tag if one exists for the given tile
 		if(animation_xml is not False):
-			animation_xml.removeAttribute("tileId")
+			animation_xml.removeAttribute("tileName")
 			tile_xml.appendChild(animation_xml)
 
 		#generates the 'locations' tag
 		for layer_location in tile[5]:
-			layer_locations_xml = map_root.createElement('locations')
+			layer_locations_xml = map_root.createElement('Locations')
 			layer_locations_xml.setAttribute('layer', layer_location[0])
 			for location in layer_location[1]:
-				coordinate_xml = map_root.createElement('location')
+				coordinate_xml = map_root.createElement('Location')
 				coordinate_xml.setAttribute('x', str(location[0]*tile_size))
 				coordinate_xml.setAttribute('y', str(location[1]*tile_size))
 				layer_locations_xml.appendChild(coordinate_xml)
@@ -120,7 +120,7 @@ def get_tile_animations(tileSet, tile_id):
 	for tileSet_animation_xml in tileSet_animations:
 		if(tileSet_animation_xml.getAttribute("id") == tileSet):
 			for animation_xml in tileSet_animation_xml.getElementsByTagName("spritesheetAnimation"):
-				if (tile_id == animation_xml.getAttribute("tileId")):
+				if (tile_id == animation_xml.getAttribute("tileName")):
 					return animation_xml
 	return False
 
@@ -165,13 +165,6 @@ def get_map_xml(map_path, map_root, map_xml):
 		layer_number = map_layer_name[:-4]
 		layer_numbers.append(layer_number)
 		load_tile_locations(layer_image, layer_number, map_layer_path)
-	layers_xml = map_root.createElement('Engine.Logic.Mapping.MapLayers')
-	#creates the layers tag
-	for layer_number in layer_numbers:
-		layer_xml = map_root.createElement('Engine.Logic.Mapping.MapLayer')
-		layer_xml.setAttribute('layer', str(layer_number))
-		layers_xml.appendChild(layer_xml)
-	map_xml.appendChild(layers_xml)
 	#creates the tile tags
 	get_tile_xmls(map_root, map_xml)
 
@@ -182,7 +175,7 @@ def generate_maps_xml():
 		map_root = minidom.Document() 
 		map_path = os.path.join(tile_maps_path, map)
 
-		map_xml = map_root.createElement('Engine.Logic.Mapping.GameMap')
+		map_xml = map_root.createElement('GameMap')
 		map_xml.setAttribute('name', map)
 
 		get_map_xml(map_path, map_root, map_xml)
