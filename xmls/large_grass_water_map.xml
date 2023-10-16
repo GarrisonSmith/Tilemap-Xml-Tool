@@ -287,8 +287,8 @@
 	<Tile tileName="grass_spritesheet|2,1">
 		<SpriteSheetAnimation>
 			<CurrentFrameIndex>0</CurrentFrameIndex>
-			<FrameMinDuration>1000</FrameMinDuration>
-			<FrameMaxDuration>1500</FrameMaxDuration>
+			<FrameMinDuration>1500</FrameMinDuration>
+			<FrameMaxDuration>3000</FrameMaxDuration>
 			<Frames length="2">
 				<Frame tileName="grass_spritesheet|2,1" spriteSheet="grass_spritesheet" col="2" row="1"/>
 				<Frame tileName="grass_spritesheet|3,1" spriteSheet="grass_spritesheet" col="3" row="1"/>
