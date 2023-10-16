@@ -136,8 +136,8 @@
 			<FrameMinDuration>1000</FrameMinDuration>
 			<FrameMaxDuration>1500</FrameMaxDuration>
 			<Frames length="2">
-				<Frame tileName="grass_spritesheet|0,0"/>
-				<Frame tileName="grass_spritesheet|1,0"/>
+				<Frame tileName="grass_spritesheet|0,0" spriteSheet="grass_spritesheet" col="0" row="0"/>
+				<Frame tileName="grass_spritesheet|1,0" spriteSheet="grass_spritesheet" col="1" row="0"/>
 			</Frames>
 		</SpriteSheetAnimation>
 		<Locations layer="1">
@@ -152,8 +152,8 @@
 			<FrameMinDuration>1000</FrameMinDuration>
 			<FrameMaxDuration>1500</FrameMaxDuration>
 			<Frames length="2">
-				<Frame tileName="grass_spritesheet|2,0"/>
-				<Frame tileName="grass_spritesheet|3,0"/>
+				<Frame tileName="grass_spritesheet|2,0" spriteSheet="grass_spritesheet" col="2" row="0"/>
+				<Frame tileName="grass_spritesheet|3,0" spriteSheet="grass_spritesheet" col="3" row="0"/>
 			</Frames>
 		</SpriteSheetAnimation>
 		<Locations layer="1">
@@ -181,8 +181,8 @@
 			<FrameMinDuration>1000</FrameMinDuration>
 			<FrameMaxDuration>1500</FrameMaxDuration>
 			<Frames length="2">
-				<Frame tileName="grass_spritesheet|4,0"/>
-				<Frame tileName="grass_spritesheet|5,0"/>
+				<Frame tileName="grass_spritesheet|4,0" spriteSheet="grass_spritesheet" col="4" row="0"/>
+				<Frame tileName="grass_spritesheet|5,0" spriteSheet="grass_spritesheet" col="5" row="0"/>
 			</Frames>
 		</SpriteSheetAnimation>
 		<Locations layer="1">
@@ -197,8 +197,8 @@
 			<FrameMinDuration>1000</FrameMinDuration>
 			<FrameMaxDuration>1500</FrameMaxDuration>
 			<Frames length="2">
-				<Frame tileName="grass_spritesheet|0,1"/>
-				<Frame tileName="grass_spritesheet|1,1"/>
+				<Frame tileName="grass_spritesheet|0,1" spriteSheet="grass_spritesheet" col="0" row="1"/>
+				<Frame tileName="grass_spritesheet|1,1" spriteSheet="grass_spritesheet" col="1" row="1"/>
 			</Frames>
 		</SpriteSheetAnimation>
 		<Locations layer="1">
@@ -213,8 +213,8 @@
 			<FrameMinDuration>1000</FrameMinDuration>
 			<FrameMaxDuration>1500</FrameMaxDuration>
 			<Frames length="2">
-				<Frame tileName="grass_spritesheet|4,1"/>
-				<Frame tileName="grass_spritesheet|5,1"/>
+				<Frame tileName="grass_spritesheet|4,1" spriteSheet="grass_spritesheet" col="4" row="1"/>
+				<Frame tileName="grass_spritesheet|5,1" spriteSheet="grass_spritesheet" col="5" row="1"/>
 			</Frames>
 		</SpriteSheetAnimation>
 		<Locations layer="1">
@@ -229,8 +229,8 @@
 			<FrameMinDuration>1000</FrameMinDuration>
 			<FrameMaxDuration>1500</FrameMaxDuration>
 			<Frames length="2">
-				<Frame tileName="grass_spritesheet|0,2"/>
-				<Frame tileName="grass_spritesheet|1,2"/>
+				<Frame tileName="grass_spritesheet|0,2" spriteSheet="grass_spritesheet" col="0" row="2"/>
+				<Frame tileName="grass_spritesheet|1,2" spriteSheet="grass_spritesheet" col="1" row="2"/>
 			</Frames>
 		</SpriteSheetAnimation>
 		<Locations layer="1">
@@ -245,8 +245,8 @@
 			<FrameMinDuration>1000</FrameMinDuration>
 			<FrameMaxDuration>1500</FrameMaxDuration>
 			<Frames length="2">
-				<Frame tileName="grass_spritesheet|2,2"/>
-				<Frame tileName="grass_spritesheet|3,2"/>
+				<Frame tileName="grass_spritesheet|2,2" spriteSheet="grass_spritesheet" col="2" row="2"/>
+				<Frame tileName="grass_spritesheet|3,2" spriteSheet="grass_spritesheet" col="3" row="2"/>
 			</Frames>
 		</SpriteSheetAnimation>
 		<Locations layer="1">
@@ -268,8 +268,8 @@
 			<FrameMinDuration>1000</FrameMinDuration>
 			<FrameMaxDuration>1500</FrameMaxDuration>
 			<Frames length="2">
-				<Frame tileName="grass_spritesheet|4,2"/>
-				<Frame tileName="grass_spritesheet|5,2"/>
+				<Frame tileName="grass_spritesheet|4,2" spriteSheet="grass_spritesheet" col="4" row="2"/>
+				<Frame tileName="grass_spritesheet|5,2" spriteSheet="grass_spritesheet" col="5" row="2"/>
 			</Frames>
 		</SpriteSheetAnimation>
 		<Locations layer="1">
