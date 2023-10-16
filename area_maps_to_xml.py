@@ -87,16 +87,17 @@ def get_tile_xmls(map_root, map_xml):
 		tile_xml.setAttribute('tileName', tile[1] + '|' + tile[2])
 		map_xml.appendChild(tile_xml)
 
-		#generates the 'spritesheet' tag
-		spritesheet_xml = map_root.createElement('SpriteSheet')
-		spritesheet_xml.appendChild(map_root.createTextNode(tile[1]))
-		tile_xml.appendChild(spritesheet_xml)
+		if(animation_xml is False):
+			#generates the 'spritesheet' tag
+			spritesheet_xml = map_root.createElement('SpriteSheet')
+			spritesheet_xml.appendChild(map_root.createTextNode(tile[1]))
+			tile_xml.appendChild(spritesheet_xml)
 
-		#generates the 'sheet-coordinates' tag
-		sheet_coordinates_xml = map_root.createElement('SheetCoordinates')
-		sheet_coordinates_xml.setAttribute('col', str(tile[3]))
-		sheet_coordinates_xml.setAttribute('row', str(tile[4]))
-		tile_xml.appendChild(sheet_coordinates_xml)
+			#generates the 'sheet-coordinates' tag
+			sheet_coordinates_xml = map_root.createElement('SheetCoordinates')
+			sheet_coordinates_xml.setAttribute('col', str(tile[3]))
+			sheet_coordinates_xml.setAttribute('row', str(tile[4]))
+			tile_xml.appendChild(sheet_coordinates_xml)
 
 		#adds the animation tag if one exists for the given tile
 		if(animation_xml is not False):

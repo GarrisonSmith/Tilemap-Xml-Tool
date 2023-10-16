@@ -131,8 +131,6 @@
 		</Locations>
 	</Tile>
 	<Tile tileName="grass_spritesheet|0,0">
-		<SpriteSheet>grass_spritesheet</SpriteSheet>
-		<SheetCoordinates col="0" row="0"/>
 		<SpriteSheetAnimation>
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1000</FrameMinDuration>
@@ -149,8 +147,6 @@
 		</Locations>
 	</Tile>
 	<Tile tileName="grass_spritesheet|2,0">
-		<SpriteSheet>grass_spritesheet</SpriteSheet>
-		<SheetCoordinates col="2" row="0"/>
 		<SpriteSheetAnimation>
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1000</FrameMinDuration>
@@ -180,8 +176,6 @@
 		</Locations>
 	</Tile>
 	<Tile tileName="grass_spritesheet|4,0">
-		<SpriteSheet>grass_spritesheet</SpriteSheet>
-		<SheetCoordinates col="4" row="0"/>
 		<SpriteSheetAnimation>
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1000</FrameMinDuration>
@@ -198,8 +192,6 @@
 		</Locations>
 	</Tile>
 	<Tile tileName="grass_spritesheet|0,1">
-		<SpriteSheet>grass_spritesheet</SpriteSheet>
-		<SheetCoordinates col="0" row="1"/>
 		<SpriteSheetAnimation>
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1000</FrameMinDuration>
@@ -216,8 +208,6 @@
 		</Locations>
 	</Tile>
 	<Tile tileName="grass_spritesheet|4,1">
-		<SpriteSheet>grass_spritesheet</SpriteSheet>
-		<SheetCoordinates col="4" row="1"/>
 		<SpriteSheetAnimation>
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1000</FrameMinDuration>
@@ -234,8 +224,6 @@
 		</Locations>
 	</Tile>
 	<Tile tileName="grass_spritesheet|0,2">
-		<SpriteSheet>grass_spritesheet</SpriteSheet>
-		<SheetCoordinates col="0" row="2"/>
 		<SpriteSheetAnimation>
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1000</FrameMinDuration>
@@ -252,8 +240,6 @@
 		</Locations>
 	</Tile>
 	<Tile tileName="grass_spritesheet|2,2">
-		<SpriteSheet>grass_spritesheet</SpriteSheet>
-		<SheetCoordinates col="2" row="2"/>
 		<SpriteSheetAnimation>
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1000</FrameMinDuration>
@@ -277,8 +263,6 @@
 		</Locations>
 	</Tile>
 	<Tile tileName="grass_spritesheet|4,2">
-		<SpriteSheet>grass_spritesheet</SpriteSheet>
-		<SheetCoordinates col="4" row="2"/>
 		<SpriteSheetAnimation>
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1000</FrameMinDuration>

@@ -285,8 +285,6 @@
 		</Locations>
 	</Tile>
 	<Tile tileName="grass_spritesheet|2,1">
-		<SpriteSheet>grass_spritesheet</SpriteSheet>
-		<SheetCoordinates col="2" row="1"/>
 		<SpriteSheetAnimation>
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1000</FrameMinDuration>
