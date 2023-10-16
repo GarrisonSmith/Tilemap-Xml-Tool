@@ -287,6 +287,15 @@
 	<Tile tileName="grass_spritesheet|2,1">
 		<SpriteSheet>grass_spritesheet</SpriteSheet>
 		<SheetCoordinates col="2" row="1"/>
+		<SpriteSheetAnimation>
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1000</FrameMinDuration>
+			<FrameMaxDuration>1500</FrameMaxDuration>
+			<Frames length="2">
+				<Frame tileName="grass_spritesheet|2,1"/>
+				<Frame tileName="grass_spritesheet|3,1"/>
+			</Frames>
+		</SpriteSheetAnimation>
 		<Locations layer="1">
 			<Location x="128" y="768"/>
 			<Location x="192" y="768"/>

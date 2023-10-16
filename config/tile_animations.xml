@@ -1,86 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Animations>
-	<tileSet id="grass_spritesheet">
-		<spritesheetAnimation tileId="grass_spritesheet|0,0">
-			<activeFrameIndex>0</activeFrameIndex>
-			<minDurationMili>1000</minDurationMili>
-			<maxDurationExtensionMili>500</maxDurationExtensionMili>
-			<frames length="2">
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-			</frames>
-		</spritesheetAnimation>
-		<spritesheetAnimation tileId="grass_spritesheet|0,1">
-			<activeFrameIndex>0</activeFrameIndex>
-			<minDurationMili>1000</minDurationMili>
-			<maxDurationExtensionMili>500</maxDurationExtensionMili>
-			<frames length="2">
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-			</frames>
-		</spritesheetAnimation>
-		<spritesheetAnimation tileId="grass_spritesheet|0,2">
-			<activeFrameIndex>0</activeFrameIndex>
-			<minDurationMili>1000</minDurationMili>
-			<maxDurationExtensionMili>500</maxDurationExtensionMili>
-			<frames length="2">
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-			</frames>
-		</spritesheetAnimation>
-		<spritesheetAnimation tileId="grass_spritesheet|2,0">
-			<activeFrameIndex>0</activeFrameIndex>
-			<minDurationMili>1000</minDurationMili>
-			<maxDurationExtensionMili>500</maxDurationExtensionMili>
-			<frames length="2">
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-			</frames>
-		</spritesheetAnimation>
-		<spritesheetAnimation tileId="grass_spritesheet|2,1"> 
-			<activeFrameIndex>0</activeFrameIndex>
-			<minDurationMili>1000</minDurationMili>
-			<maxDurationExtensionMili>500</maxDurationExtensionMili>
-			<frames length="2">
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-			</frames>
-		</spritesheetAnimation>
-		<spritesheetAnimation tileId="grass_spritesheet|2,2">
-			<activeFrameIndex>0</activeFrameIndex>
-			<minDurationMili>1000</minDurationMili>
-			<maxDurationExtensionMili>500</maxDurationExtensionMili>
-			<frames length="2">
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-			</frames>
-		</spritesheetAnimation>
-		<spritesheetAnimation tileId="grass_spritesheet|4,0">
-			<activeFrameIndex>0</activeFrameIndex>
-			<minDurationMili>1000</minDurationMili>
-			<maxDurationExtensionMili>500</maxDurationExtensionMili>
-			<frames length="2">
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-			</frames>
-		</spritesheetAnimation>
-		<spritesheetAnimation tileId="grass_spritesheet|4,1">
-			<activeFrameIndex>0</activeFrameIndex>
-			<minDurationMili>1000</minDurationMili>
-			<maxDurationExtensionMili>500</maxDurationExtensionMili>
-			<frames length="2">
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-			</frames>
-		</spritesheetAnimation>
-		<spritesheetAnimation tileId="grass_spritesheet|4,2">
-			<activeFrameIndex>0</activeFrameIndex>
-			<minDurationMili>1000</minDurationMili>
-			<maxDurationExtensionMili>500</maxDurationExtensionMili>
-			<frames length="2">
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-				<spritesheetFrame verticalOffset="0" horizontalOffset="0"/>
-			</frames>
-		</spritesheetAnimation>
-	</tileSet>
+	<TileSet id="grass_spritesheet">
+		<SpriteSheetAnimation tileName="grass_spritesheet|0,0">
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1000</FrameMinDuration>
+			<FrameMaxDuration>1500</FrameMaxDuration>
+			<Frames length="2">
+				<Frame tileName="grass_spritesheet|0,0"/>
+				<Frame tileName="grass_spritesheet|1,0"/>
+			</Frames>
+		</SpriteSheetAnimation>
+		<SpriteSheetAnimation tileName="grass_spritesheet|0,1">
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1000</FrameMinDuration>
+			<FrameMaxDuration>1500</FrameMaxDuration>
+      <Frames length="2">
+        <Frame tileName="grass_spritesheet|0,1"/>
+        <Frame tileName="grass_spritesheet|1,1"/>
+      </Frames>
+		</SpriteSheetAnimation>
+		<SpriteSheetAnimation tileName="grass_spritesheet|0,2">
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1000</FrameMinDuration>
+			<FrameMaxDuration>1500</FrameMaxDuration>
+      <Frames length="2">
+        <Frame tileName="grass_spritesheet|0,2"/>
+        <Frame tileName="grass_spritesheet|1,2"/>
+      </Frames>
+    </SpriteSheetAnimation>
+		<SpriteSheetAnimation tileName="grass_spritesheet|2,0">
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1000</FrameMinDuration>
+			<FrameMaxDuration>1500</FrameMaxDuration>
+      <Frames length="2">
+        <Frame tileName="grass_spritesheet|2,0"/>
+        <Frame tileName="grass_spritesheet|3,0"/>
+      </Frames>
+		</SpriteSheetAnimation>
+		<SpriteSheetAnimation tileName="grass_spritesheet|2,1"> 
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1000</FrameMinDuration>
+			<FrameMaxDuration>1500</FrameMaxDuration>
+      <Frames length="2">
+        <Frame tileName="grass_spritesheet|2,1"/>
+        <Frame tileName="grass_spritesheet|3,1"/>
+      </Frames>
+		</SpriteSheetAnimation>
+		<SpriteSheetAnimation tileName="grass_spritesheet|2,2">
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1000</FrameMinDuration>
+			<FrameMaxDuration>1500</FrameMaxDuration>
+      <Frames length="2">
+        <Frame tileName="grass_spritesheet|2,2"/>
+        <Frame tileName="grass_spritesheet|3,2"/>
+      </Frames>
+		</SpriteSheetAnimation>
+		<SpriteSheetAnimation tileName="grass_spritesheet|4,0">
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1000</FrameMinDuration>
+			<FrameMaxDuration>1500</FrameMaxDuration>
+      <Frames length="2">
+        <Frame tileName="grass_spritesheet|4,0"/>
+        <Frame tileName="grass_spritesheet|5,0"/>
+      </Frames>
+		</SpriteSheetAnimation>
+		<SpriteSheetAnimation tileName="grass_spritesheet|4,1">
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1000</FrameMinDuration>
+			<FrameMaxDuration>1500</FrameMaxDuration>
+      <Frames length="2">
+        <Frame tileName="grass_spritesheet|4,1"/>
+        <Frame tileName="grass_spritesheet|5,1"/>
+      </Frames>
+		</SpriteSheetAnimation>
+		<SpriteSheetAnimation tileName="grass_spritesheet|4,2">
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1000</FrameMinDuration>
+			<FrameMaxDuration>1500</FrameMaxDuration>
+      <Frames length="2">
+        <Frame tileName="grass_spritesheet|4,2"/>
+        <Frame tileName="grass_spritesheet|5,2"/>
+      </Frames>
+		</SpriteSheetAnimation>
+	</TileSet>
 </Animations>

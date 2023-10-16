@@ -10,7 +10,7 @@ spritesheets_path = os.path.join(directory_path, 'spritesheets')
 animation_path = os.path.join(directory_path, 'config\\tile_animations.xml')
 animations_xml = minidom.parse(animation_path)
 animations_root = animations_xml.documentElement
-tileSet_animations = animations_root.getElementsByTagName("tileSet")
+tileSet_animations = animations_root.getElementsByTagName("TileSet")
 tiles = list() 
 #each tile is represented by an array in the form of:
 #[tile's image, tile's spritesheet name, the tile's col and row in the spritesheet image, tile's col, tile's row, tile's location]
@@ -119,7 +119,7 @@ def get_tile_xmls(map_root, map_xml):
 def get_tile_animations(tileSet, tile_id):
 	for tileSet_animation_xml in tileSet_animations:
 		if(tileSet_animation_xml.getAttribute("id") == tileSet):
-			for animation_xml in tileSet_animation_xml.getElementsByTagName("spritesheetAnimation"):
+			for animation_xml in tileSet_animation_xml.getElementsByTagName("SpriteSheetAnimation"):
 				if (tile_id == animation_xml.getAttribute("tileName")):
 					return animation_xml
 	return False
