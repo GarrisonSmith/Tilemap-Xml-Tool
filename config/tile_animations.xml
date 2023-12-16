@@ -1,86 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Animations>
-	<TileSet id="grass_spritesheet">
-		<SpriteSheetAnimation tileName="grass_spritesheet|0,0">
+	<TileSet id="grass_tileset">
+		<TileSetAnimation tileName="grass_tileset|0,0">
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1500</FrameMinDuration>
 			<FrameMaxDuration>3000</FrameMaxDuration>
 			<Frames length="2">
-				<Frame tileName="grass_spritesheet|0,0" spriteSheet="grass_spritesheet" col="0" row="0"/>
-				<Frame tileName="grass_spritesheet|1,0" spriteSheet="grass_spritesheet" col="1" row="0"/>
+				<Frame tileName="grass_tileset|0,0" spriteSheet="grass_tileset" col="0" row="0"/>
+				<Frame tileName="grass_tileset|1,0" spriteSheet="grass_tileset" col="1" row="0"/>
 			</Frames>
-		</SpriteSheetAnimation>
-		<SpriteSheetAnimation tileName="grass_spritesheet|0,1">
+		</TileSetAnimation>
+		<TileSetAnimation tileName="grass_tileset|0,1">
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1500</FrameMinDuration>
 			<FrameMaxDuration>3000</FrameMaxDuration>
       <Frames length="2">
-        <Frame tileName="grass_spritesheet|0,1" spriteSheet="grass_spritesheet" col="0" row="1"/>
-        <Frame tileName="grass_spritesheet|1,1" spriteSheet="grass_spritesheet" col="1" row="1"/>
+        <Frame tileName="grass_tileset|0,1" spriteSheet="grass_tileset" col="0" row="1"/>
+        <Frame tileName="grass_tileset|1,1" spriteSheet="grass_tileset" col="1" row="1"/>
       </Frames>
-		</SpriteSheetAnimation>
-		<SpriteSheetAnimation tileName="grass_spritesheet|0,2">
+		</TileSetAnimation>
+		<TileSetAnimation tileName="grass_tileset|0,2">
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1500</FrameMinDuration>
 			<FrameMaxDuration>3000</FrameMaxDuration>
       <Frames length="2">
-        <Frame tileName="grass_spritesheet|0,2" spriteSheet="grass_spritesheet" col="0" row="2"/>
-        <Frame tileName="grass_spritesheet|1,2" spriteSheet="grass_spritesheet" col="1" row="2"/>
+        <Frame tileName="grass_tileset|0,2" spriteSheet="grass_tileset" col="0" row="2"/>
+        <Frame tileName="grass_tileset|1,2" spriteSheet="grass_tileset" col="1" row="2"/>
       </Frames>
-    </SpriteSheetAnimation>
-		<SpriteSheetAnimation tileName="grass_spritesheet|2,0">
+    </TileSetAnimation>
+		<TileSetAnimation tileName="grass_tileset|2,0">
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1500</FrameMinDuration>
 			<FrameMaxDuration>3000</FrameMaxDuration>
       <Frames length="2">
-        <Frame tileName="grass_spritesheet|2,0" spriteSheet="grass_spritesheet" col="2" row="0"/>
-        <Frame tileName="grass_spritesheet|3,0" spriteSheet="grass_spritesheet" col="3" row="0"/>
+        <Frame tileName="grass_tileset|2,0" spriteSheet="grass_tileset" col="2" row="0"/>
+        <Frame tileName="grass_tileset|3,0" spriteSheet="grass_tileset" col="3" row="0"/>
       </Frames>
-		</SpriteSheetAnimation>
-		<SpriteSheetAnimation tileName="grass_spritesheet|2,1"> 
+		</TileSetAnimation>
+		<TileSetAnimation tileName="grass_tileset|2,1"> 
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1500</FrameMinDuration>
 			<FrameMaxDuration>3000</FrameMaxDuration>
       <Frames length="2">
-        <Frame tileName="grass_spritesheet|2,1" spriteSheet="grass_spritesheet" col="2" row="1"/>
-        <Frame tileName="grass_spritesheet|3,1" spriteSheet="grass_spritesheet" col="3" row="1"/>
+        <Frame tileName="grass_tileset|2,1" spriteSheet="grass_tileset" col="2" row="1"/>
+        <Frame tileName="grass_tileset|3,1" spriteSheet="grass_tileset" col="3" row="1"/>
       </Frames>
-		</SpriteSheetAnimation>
-		<SpriteSheetAnimation tileName="grass_spritesheet|2,2">
+		</TileSetAnimation>
+		<TileSetAnimation tileName="grass_tileset|2,2">
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1500</FrameMinDuration>
 			<FrameMaxDuration>3000</FrameMaxDuration>
       <Frames length="2">
-        <Frame tileName="grass_spritesheet|2,2" spriteSheet="grass_spritesheet" col="2" row="2"/>
-        <Frame tileName="grass_spritesheet|3,2" spriteSheet="grass_spritesheet" col="3" row="2"/>
+        <Frame tileName="grass_tileset|2,2" spriteSheet="grass_tileset" col="2" row="2"/>
+        <Frame tileName="grass_tileset|3,2" spriteSheet="grass_tileset" col="3" row="2"/>
       </Frames>
-		</SpriteSheetAnimation>
-		<SpriteSheetAnimation tileName="grass_spritesheet|4,0">
+		</TileSetAnimation>
+		<TileSetAnimation tileName="grass_tileset|4,0">
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1500</FrameMinDuration>
 			<FrameMaxDuration>3000</FrameMaxDuration>
       <Frames length="2">
-        <Frame tileName="grass_spritesheet|4,0" spriteSheet="grass_spritesheet" col="4" row="0"/>
-        <Frame tileName="grass_spritesheet|5,0" spriteSheet="grass_spritesheet" col="5" row="0"/>
+        <Frame tileName="grass_tileset|4,0" spriteSheet="grass_tileset" col="4" row="0"/>
+        <Frame tileName="grass_tileset|5,0" spriteSheet="grass_tileset" col="5" row="0"/>
       </Frames>
-		</SpriteSheetAnimation>
-		<SpriteSheetAnimation tileName="grass_spritesheet|4,1">
+		</TileSetAnimation>
+		<TileSetAnimation tileName="grass_tileset|4,1">
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1500</FrameMinDuration>
 			<FrameMaxDuration>3000</FrameMaxDuration>
       <Frames length="2">
-        <Frame tileName="grass_spritesheet|4,1" spriteSheet="grass_spritesheet" col="4" row="1"/>
-        <Frame tileName="grass_spritesheet|5,1" spriteSheet="grass_spritesheet" col="5" row="1"/>
+        <Frame tileName="grass_tileset|4,1" spriteSheet="grass_tileset" col="4" row="1"/>
+        <Frame tileName="grass_tileset|5,1" spriteSheet="grass_tileset" col="5" row="1"/>
       </Frames>
-		</SpriteSheetAnimation>
-		<SpriteSheetAnimation tileName="grass_spritesheet|4,2">
+		</TileSetAnimation>
+		<TileSetAnimation tileName="grass_tileset|4,2">
 			<CurrentFrameIndex>0</CurrentFrameIndex>
 			<FrameMinDuration>1500</FrameMinDuration>
 			<FrameMaxDuration>3000</FrameMaxDuration>
       <Frames length="2">
-        <Frame tileName="grass_spritesheet|4,2" spriteSheet="grass_spritesheet" col="4" row="2"/>
-        <Frame tileName="grass_spritesheet|5,2" spriteSheet="grass_spritesheet" col="5" row="2"/>
+        <Frame tileName="grass_tileset|4,2" spriteSheet="grass_tileset" col="4" row="2"/>
+        <Frame tileName="grass_tileset|5,2" spriteSheet="grass_tileset" col="5" row="2"/>
       </Frames>
-		</SpriteSheetAnimation>
+		</TileSetAnimation>
 	</TileSet>
 </Animations>

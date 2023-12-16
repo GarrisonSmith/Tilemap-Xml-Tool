@@ -46,20 +46,20 @@ def get_spritesheet_tiles():
 	tiles = list() #clears tiles
 
 	#checks for and adds the DEBUG graphic, DEBUG also contains the empty textures.
-	spritesheet_path = os.path.join(spritesheets_path, 'DEBUG.png')
+	spritesheet_path = os.path.join(spritesheets_path, 'debug_tileset.png')
 	debug_image = Image.open(spritesheet_path)
 	if (debug_image.size[0] % tile_size != 0 or debug_image.size[1] % tile_size != 0):
 		raise Exception('DEBUG has invalid dimensions. Width: ' + debug_image.size[0] + 'Height: ' + debug_image.size[1])
 	for row in range(0, debug_image.size[1], tile_size):
 		for col in range(0, debug_image.size[0], tile_size):
 			tile_image = debug_image.crop([col, row, col+tile_size, row+tile_size]).convert('RGB')
-			tile = [tile_image, 'DEBUG', str(col//64) + ',' + str(row//64), col//64, row//64, list()]
+			tile = [tile_image, 'debug_tileset', str(col//64) + ',' + str(row//64), col//64, row//64, list()]
 			add_tile(tile)
 
 	#iterates through all spritesheets
 	for spritesheet in os.listdir(spritesheets_path):
 		#DEBUG is already added
-		if spritesheet == 'DEBUG':
+		if spritesheet == 'debug_tileset':
 			continue
 		spritesheet_path = os.path.join(spritesheets_path, spritesheet)
 		spritesheet_image = Image.open(spritesheet_path)
@@ -120,7 +120,7 @@ def get_tile_xmls(map_root, map_xml):
 def get_tile_animations(tileSet, tile_id):
 	for tileSet_animation_xml in tileSet_animations:
 		if(tileSet_animation_xml.getAttribute("id") == tileSet):
-			for animation_xml in tileSet_animation_xml.getElementsByTagName("SpriteSheetAnimation"):
+			for animation_xml in tileSet_animation_xml.getElementsByTagName("TileSetAnimation"):
 				if (tile_id == animation_xml.getAttribute("tileName")):
 					return animation_xml
 	return False
@@ -148,7 +148,7 @@ def load_tile_locations(layer_image, layer_number, map_layer_path):
 				continue
 
 			#EMPTY tiles are not included in the XML.
-			if (tile[1] == 'DEBUG' and tile[3] != 0):
+			if (tile[1] == 'debug_tileset' and tile[3] != 0):
 				continue
 
 			get_layer_locations(tile, layer_number).append((col//64, row//64))

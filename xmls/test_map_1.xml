@@ -1,0 +1,2936 @@
+<?xml version="1.0" ?>
+<GameMap name="test_map_1">
+	<Tile tileName="debug_tileset|0,0">
+		<SpriteSheet>debug_tileset</SpriteSheet>
+		<SheetCoordinates col="0" row="0"/>
+		<Locations layer="2">
+			<Location x="2560" y="2560"/>
+			<Location x="2624" y="2560"/>
+			<Location x="2688" y="2560"/>
+			<Location x="2752" y="2560"/>
+			<Location x="2816" y="2560"/>
+			<Location x="2880" y="2560"/>
+			<Location x="2944" y="2560"/>
+			<Location x="3008" y="2560"/>
+			<Location x="3072" y="2560"/>
+			<Location x="3136" y="2560"/>
+			<Location x="2560" y="2624"/>
+			<Location x="2624" y="2624"/>
+			<Location x="2688" y="2624"/>
+			<Location x="2752" y="2624"/>
+			<Location x="2816" y="2624"/>
+			<Location x="2880" y="2624"/>
+			<Location x="2944" y="2624"/>
+			<Location x="3008" y="2624"/>
+			<Location x="3072" y="2624"/>
+			<Location x="3136" y="2624"/>
+			<Location x="2560" y="2688"/>
+			<Location x="2624" y="2688"/>
+			<Location x="2688" y="2688"/>
+			<Location x="2752" y="2688"/>
+			<Location x="2816" y="2688"/>
+			<Location x="2880" y="2688"/>
+			<Location x="2944" y="2688"/>
+			<Location x="3008" y="2688"/>
+			<Location x="3072" y="2688"/>
+			<Location x="3136" y="2688"/>
+			<Location x="2560" y="2752"/>
+			<Location x="2624" y="2752"/>
+			<Location x="2688" y="2752"/>
+			<Location x="2752" y="2752"/>
+			<Location x="2816" y="2752"/>
+			<Location x="2880" y="2752"/>
+			<Location x="2944" y="2752"/>
+			<Location x="3008" y="2752"/>
+			<Location x="3072" y="2752"/>
+			<Location x="3136" y="2752"/>
+			<Location x="2560" y="2816"/>
+			<Location x="2624" y="2816"/>
+			<Location x="2688" y="2816"/>
+			<Location x="2752" y="2816"/>
+			<Location x="2816" y="2816"/>
+			<Location x="2880" y="2816"/>
+			<Location x="2944" y="2816"/>
+			<Location x="3008" y="2816"/>
+			<Location x="3072" y="2816"/>
+			<Location x="3136" y="2816"/>
+			<Location x="2560" y="2880"/>
+			<Location x="2624" y="2880"/>
+			<Location x="2688" y="2880"/>
+			<Location x="2752" y="2880"/>
+			<Location x="2816" y="2880"/>
+			<Location x="2880" y="2880"/>
+			<Location x="2944" y="2880"/>
+			<Location x="3008" y="2880"/>
+			<Location x="3072" y="2880"/>
+			<Location x="3136" y="2880"/>
+			<Location x="2560" y="2944"/>
+			<Location x="2624" y="2944"/>
+			<Location x="2688" y="2944"/>
+			<Location x="2752" y="2944"/>
+			<Location x="2816" y="2944"/>
+			<Location x="2880" y="2944"/>
+			<Location x="2944" y="2944"/>
+			<Location x="3008" y="2944"/>
+			<Location x="3072" y="2944"/>
+			<Location x="3136" y="2944"/>
+			<Location x="2560" y="3008"/>
+			<Location x="2624" y="3008"/>
+			<Location x="2688" y="3008"/>
+			<Location x="2752" y="3008"/>
+			<Location x="2816" y="3008"/>
+			<Location x="2880" y="3008"/>
+			<Location x="2944" y="3008"/>
+			<Location x="3008" y="3008"/>
+			<Location x="3072" y="3008"/>
+			<Location x="3136" y="3008"/>
+			<Location x="2560" y="3072"/>
+			<Location x="2624" y="3072"/>
+			<Location x="2688" y="3072"/>
+			<Location x="2752" y="3072"/>
+			<Location x="2816" y="3072"/>
+			<Location x="2880" y="3072"/>
+			<Location x="2944" y="3072"/>
+			<Location x="3008" y="3072"/>
+			<Location x="3072" y="3072"/>
+			<Location x="3136" y="3072"/>
+			<Location x="2560" y="3136"/>
+			<Location x="2624" y="3136"/>
+			<Location x="2688" y="3136"/>
+			<Location x="2752" y="3136"/>
+			<Location x="2816" y="3136"/>
+			<Location x="2880" y="3136"/>
+			<Location x="2944" y="3136"/>
+			<Location x="3008" y="3136"/>
+			<Location x="3072" y="3136"/>
+			<Location x="3136" y="3136"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|0,0">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="0" row="0"/>
+		<Locations layer="1">
+			<Location x="1920" y="640"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|1,0">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="1" row="0"/>
+		<Locations layer="1">
+			<Location x="1984" y="640"/>
+			<Location x="2048" y="640"/>
+			<Location x="2112" y="640"/>
+			<Location x="2176" y="640"/>
+			<Location x="2240" y="640"/>
+			<Location x="2304" y="640"/>
+			<Location x="2368" y="640"/>
+			<Location x="2432" y="640"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|4,0">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="4" row="0"/>
+		<Locations layer="1">
+			<Location x="2496" y="640"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|5,0">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="5" row="0"/>
+		<Locations layer="1">
+			<Location x="2176" y="832"/>
+			<Location x="2496" y="1024"/>
+			<Location x="2304" y="1216"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|6,0">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="6" row="0"/>
+		<Locations layer="1">
+			<Location x="2240" y="832"/>
+			<Location x="1920" y="1024"/>
+			<Location x="2112" y="1216"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|0,1">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="0" row="1"/>
+		<Locations layer="1">
+			<Location x="1920" y="704"/>
+			<Location x="1920" y="768"/>
+			<Location x="1920" y="1088"/>
+			<Location x="1920" y="1152"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|4,1">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="4" row="1"/>
+		<Locations layer="1">
+			<Location x="2496" y="704"/>
+			<Location x="2496" y="768"/>
+			<Location x="2496" y="1088"/>
+			<Location x="2496" y="1152"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|5,1">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="5" row="1"/>
+		<Locations layer="1">
+			<Location x="2496" y="832"/>
+			<Location x="2176" y="896"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|6,1">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="6" row="1"/>
+		<Locations layer="1">
+			<Location x="1920" y="832"/>
+			<Location x="2240" y="896"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|0,2">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="0" row="2"/>
+		<Locations layer="1">
+			<Location x="1920" y="1216"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|1,2">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="1" row="2"/>
+		<Locations layer="1">
+			<Location x="1984" y="1216"/>
+			<Location x="2048" y="1216"/>
+			<Location x="2368" y="1216"/>
+			<Location x="2432" y="1216"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|4,2">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="4" row="2"/>
+		<Locations layer="1">
+			<Location x="2496" y="1216"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|5,2">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="5" row="2"/>
+		<Locations layer="1">
+			<Location x="2176" y="960"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="brickwall_tileset|6,2">
+		<SpriteSheet>brickwall_tileset</SpriteSheet>
+		<SheetCoordinates col="6" row="2"/>
+		<Locations layer="1">
+			<Location x="2240" y="960"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|0,0">
+		<TileSetAnimation>
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1500</FrameMinDuration>
+			<FrameMaxDuration>3000</FrameMaxDuration>
+			<Frames length="2">
+				<Frame tileName="grass_tileset|0,0" spriteSheet="grass_tileset" col="0" row="0"/>
+				<Frame tileName="grass_tileset|1,0" spriteSheet="grass_tileset" col="1" row="0"/>
+			</Frames>
+		</TileSetAnimation>
+		<Locations layer="1">
+			<Location x="640" y="640"/>
+			<Location x="1408" y="1728"/>
+			<Location x="1024" y="1920"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|1,0">
+		<SpriteSheet>grass_tileset</SpriteSheet>
+		<SheetCoordinates col="1" row="0"/>
+		<Locations layer="1">
+			<Location x="1344" y="1792"/>
+			<Location x="1152" y="1856"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|2,0">
+		<TileSetAnimation>
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1500</FrameMinDuration>
+			<FrameMaxDuration>3000</FrameMaxDuration>
+			<Frames length="2">
+				<Frame tileName="grass_tileset|2,0" spriteSheet="grass_tileset" col="2" row="0"/>
+				<Frame tileName="grass_tileset|3,0" spriteSheet="grass_tileset" col="3" row="0"/>
+			</Frames>
+		</TileSetAnimation>
+		<Locations layer="1">
+			<Location x="704" y="640"/>
+			<Location x="768" y="640"/>
+			<Location x="832" y="640"/>
+			<Location x="896" y="640"/>
+			<Location x="960" y="640"/>
+			<Location x="1024" y="640"/>
+			<Location x="1088" y="640"/>
+			<Location x="1152" y="640"/>
+			<Location x="1472" y="1728"/>
+			<Location x="1536" y="1728"/>
+			<Location x="1600" y="1728"/>
+			<Location x="1664" y="1728"/>
+			<Location x="1216" y="1856"/>
+			<Location x="1280" y="1856"/>
+			<Location x="1856" y="1856"/>
+			<Location x="1920" y="1856"/>
+			<Location x="1088" y="1920"/>
+			<Location x="2176" y="2112"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|4,0">
+		<TileSetAnimation>
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1500</FrameMinDuration>
+			<FrameMaxDuration>3000</FrameMaxDuration>
+			<Frames length="2">
+				<Frame tileName="grass_tileset|4,0" spriteSheet="grass_tileset" col="4" row="0"/>
+				<Frame tileName="grass_tileset|5,0" spriteSheet="grass_tileset" col="5" row="0"/>
+			</Frames>
+		</TileSetAnimation>
+		<Locations layer="1">
+			<Location x="1216" y="640"/>
+			<Location x="1728" y="1728"/>
+			<Location x="1792" y="1792"/>
+			<Location x="1984" y="1856"/>
+			<Location x="2048" y="1920"/>
+			<Location x="2112" y="2048"/>
+			<Location x="2240" y="2112"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|6,0">
+		<SpriteSheet>grass_tileset</SpriteSheet>
+		<SheetCoordinates col="6" row="0"/>
+		<Locations layer="1">
+			<Location x="512" y="0"/>
+			<Location x="576" y="0"/>
+			<Location x="640" y="0"/>
+			<Location x="2240" y="0"/>
+			<Location x="2688" y="0"/>
+			<Location x="448" y="64"/>
+			<Location x="512" y="64"/>
+			<Location x="1984" y="64"/>
+			<Location x="3008" y="64"/>
+			<Location x="64" y="128"/>
+			<Location x="1024" y="128"/>
+			<Location x="1664" y="128"/>
+			<Location x="1728" y="128"/>
+			<Location x="1216" y="192"/>
+			<Location x="1472" y="192"/>
+			<Location x="2560" y="192"/>
+			<Location x="2880" y="192"/>
+			<Location x="64" y="256"/>
+			<Location x="640" y="256"/>
+			<Location x="1216" y="256"/>
+			<Location x="1280" y="256"/>
+			<Location x="1984" y="256"/>
+			<Location x="2240" y="256"/>
+			<Location x="2368" y="256"/>
+			<Location x="2752" y="256"/>
+			<Location x="512" y="320"/>
+			<Location x="1472" y="320"/>
+			<Location x="1536" y="320"/>
+			<Location x="1984" y="320"/>
+			<Location x="2752" y="320"/>
+			<Location x="832" y="384"/>
+			<Location x="1728" y="384"/>
+			<Location x="2432" y="384"/>
+			<Location x="2752" y="384"/>
+			<Location x="640" y="448"/>
+			<Location x="1024" y="448"/>
+			<Location x="1088" y="448"/>
+			<Location x="1216" y="448"/>
+			<Location x="3008" y="448"/>
+			<Location x="192" y="512"/>
+			<Location x="384" y="512"/>
+			<Location x="576" y="512"/>
+			<Location x="640" y="512"/>
+			<Location x="832" y="512"/>
+			<Location x="1152" y="512"/>
+			<Location x="2176" y="512"/>
+			<Location x="3136" y="512"/>
+			<Location x="1792" y="576"/>
+			<Location x="2816" y="576"/>
+			<Location x="2688" y="640"/>
+			<Location x="2816" y="640"/>
+			<Location x="3008" y="640"/>
+			<Location x="512" y="704"/>
+			<Location x="128" y="768"/>
+			<Location x="320" y="768"/>
+			<Location x="2688" y="768"/>
+			<Location x="1728" y="832"/>
+			<Location x="2560" y="832"/>
+			<Location x="2624" y="832"/>
+			<Location x="2688" y="832"/>
+			<Location x="192" y="896"/>
+			<Location x="448" y="896"/>
+			<Location x="1600" y="896"/>
+			<Location x="2752" y="896"/>
+			<Location x="0" y="960"/>
+			<Location x="192" y="960"/>
+			<Location x="1536" y="960"/>
+			<Location x="1664" y="960"/>
+			<Location x="2624" y="960"/>
+			<Location x="64" y="1024"/>
+			<Location x="192" y="1024"/>
+			<Location x="256" y="1024"/>
+			<Location x="1856" y="1024"/>
+			<Location x="3136" y="1024"/>
+			<Location x="256" y="1088"/>
+			<Location x="1280" y="1088"/>
+			<Location x="1472" y="1088"/>
+			<Location x="256" y="1152"/>
+			<Location x="320" y="1152"/>
+			<Location x="1344" y="1152"/>
+			<Location x="1408" y="1152"/>
+			<Location x="2944" y="1152"/>
+			<Location x="64" y="1216"/>
+			<Location x="512" y="1216"/>
+			<Location x="1536" y="1216"/>
+			<Location x="1600" y="1216"/>
+			<Location x="2752" y="1216"/>
+			<Location x="0" y="1280"/>
+			<Location x="640" y="1280"/>
+			<Location x="1856" y="1280"/>
+			<Location x="320" y="1344"/>
+			<Location x="1280" y="1344"/>
+			<Location x="1472" y="1344"/>
+			<Location x="1536" y="1344"/>
+			<Location x="3008" y="1344"/>
+			<Location x="3136" y="1344"/>
+			<Location x="1472" y="1408"/>
+			<Location x="1600" y="1408"/>
+			<Location x="1792" y="1408"/>
+			<Location x="2112" y="1408"/>
+			<Location x="2176" y="1408"/>
+			<Location x="2880" y="1408"/>
+			<Location x="3072" y="1408"/>
+			<Location x="128" y="1472"/>
+			<Location x="256" y="1472"/>
+			<Location x="704" y="1472"/>
+			<Location x="832" y="1472"/>
+			<Location x="1088" y="1472"/>
+			<Location x="2880" y="1472"/>
+			<Location x="2944" y="1472"/>
+			<Location x="64" y="1536"/>
+			<Location x="1792" y="1536"/>
+			<Location x="2432" y="1536"/>
+			<Location x="2880" y="1536"/>
+			<Location x="640" y="1600"/>
+			<Location x="704" y="1600"/>
+			<Location x="1408" y="1600"/>
+			<Location x="1536" y="1600"/>
+			<Location x="1664" y="1600"/>
+			<Location x="2432" y="1600"/>
+			<Location x="0" y="1664"/>
+			<Location x="768" y="1664"/>
+			<Location x="1344" y="1664"/>
+			<Location x="2176" y="1664"/>
+			<Location x="2432" y="1664"/>
+			<Location x="2880" y="1664"/>
+			<Location x="576" y="1728"/>
+			<Location x="1856" y="1728"/>
+			<Location x="1984" y="1728"/>
+			<Location x="2944" y="1728"/>
+			<Location x="64" y="1792"/>
+			<Location x="384" y="1792"/>
+			<Location x="2304" y="1792"/>
+			<Location x="2496" y="1792"/>
+			<Location x="2624" y="1792"/>
+			<Location x="2368" y="1856"/>
+			<Location x="2496" y="1856"/>
+			<Location x="448" y="1920"/>
+			<Location x="896" y="1920"/>
+			<Location x="3136" y="1920"/>
+			<Location x="512" y="1984"/>
+			<Location x="640" y="1984"/>
+			<Location x="768" y="1984"/>
+			<Location x="832" y="1984"/>
+			<Location x="2880" y="1984"/>
+			<Location x="3072" y="1984"/>
+			<Location x="3136" y="1984"/>
+			<Location x="64" y="2048"/>
+			<Location x="448" y="2048"/>
+			<Location x="2240" y="2048"/>
+			<Location x="2816" y="2048"/>
+			<Location x="64" y="2112"/>
+			<Location x="512" y="2112"/>
+			<Location x="2368" y="2112"/>
+			<Location x="768" y="2176"/>
+			<Location x="896" y="2176"/>
+			<Location x="960" y="2176"/>
+			<Location x="2880" y="2176"/>
+			<Location x="2368" y="2240"/>
+			<Location x="2560" y="2240"/>
+			<Location x="512" y="2304"/>
+			<Location x="960" y="2304"/>
+			<Location x="2432" y="2304"/>
+			<Location x="960" y="2368"/>
+			<Location x="2624" y="2368"/>
+			<Location x="3008" y="2368"/>
+			<Location x="128" y="2432"/>
+			<Location x="512" y="2432"/>
+			<Location x="2304" y="2432"/>
+			<Location x="2560" y="2432"/>
+			<Location x="64" y="2496"/>
+			<Location x="2368" y="2560"/>
+			<Location x="512" y="2624"/>
+			<Location x="2432" y="2624"/>
+			<Location x="2240" y="2688"/>
+			<Location x="2368" y="2688"/>
+			<Location x="2816" y="2688"/>
+			<Location x="3072" y="2688"/>
+			<Location x="384" y="2752"/>
+			<Location x="512" y="2752"/>
+			<Location x="576" y="2752"/>
+			<Location x="896" y="2752"/>
+			<Location x="1024" y="2752"/>
+			<Location x="1280" y="2752"/>
+			<Location x="1664" y="2752"/>
+			<Location x="1792" y="2752"/>
+			<Location x="512" y="2816"/>
+			<Location x="1024" y="2816"/>
+			<Location x="1152" y="2816"/>
+			<Location x="1984" y="2816"/>
+			<Location x="2944" y="2816"/>
+			<Location x="1408" y="2880"/>
+			<Location x="2496" y="2880"/>
+			<Location x="2752" y="2880"/>
+			<Location x="1216" y="2944"/>
+			<Location x="1600" y="2944"/>
+			<Location x="2560" y="2944"/>
+			<Location x="3136" y="2944"/>
+			<Location x="1216" y="3008"/>
+			<Location x="1344" y="3008"/>
+			<Location x="1472" y="3008"/>
+			<Location x="2368" y="3008"/>
+			<Location x="2688" y="3008"/>
+			<Location x="320" y="3072"/>
+			<Location x="1280" y="3072"/>
+			<Location x="1600" y="3072"/>
+			<Location x="1728" y="3072"/>
+			<Location x="2176" y="3072"/>
+			<Location x="2880" y="3072"/>
+			<Location x="512" y="3136"/>
+			<Location x="768" y="3136"/>
+			<Location x="1664" y="3136"/>
+			<Location x="2304" y="3136"/>
+			<Location x="3136" y="3136"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|7,0">
+		<SpriteSheet>grass_tileset</SpriteSheet>
+		<SheetCoordinates col="7" row="0"/>
+		<Locations layer="1">
+			<Location x="192" y="0"/>
+			<Location x="448" y="0"/>
+			<Location x="768" y="0"/>
+			<Location x="1600" y="0"/>
+			<Location x="1984" y="0"/>
+			<Location x="2752" y="0"/>
+			<Location x="3072" y="0"/>
+			<Location x="1792" y="64"/>
+			<Location x="2176" y="64"/>
+			<Location x="832" y="128"/>
+			<Location x="2560" y="128"/>
+			<Location x="2880" y="128"/>
+			<Location x="960" y="192"/>
+			<Location x="1536" y="192"/>
+			<Location x="1728" y="192"/>
+			<Location x="2176" y="192"/>
+			<Location x="2496" y="192"/>
+			<Location x="2624" y="192"/>
+			<Location x="2304" y="256"/>
+			<Location x="3072" y="256"/>
+			<Location x="192" y="320"/>
+			<Location x="256" y="320"/>
+			<Location x="704" y="320"/>
+			<Location x="960" y="320"/>
+			<Location x="1152" y="320"/>
+			<Location x="1664" y="320"/>
+			<Location x="2432" y="320"/>
+			<Location x="3072" y="320"/>
+			<Location x="0" y="384"/>
+			<Location x="448" y="384"/>
+			<Location x="576" y="384"/>
+			<Location x="768" y="384"/>
+			<Location x="896" y="384"/>
+			<Location x="2304" y="384"/>
+			<Location x="320" y="448"/>
+			<Location x="448" y="448"/>
+			<Location x="576" y="448"/>
+			<Location x="896" y="448"/>
+			<Location x="2048" y="448"/>
+			<Location x="2624" y="448"/>
+			<Location x="2688" y="448"/>
+			<Location x="2816" y="448"/>
+			<Location x="128" y="512"/>
+			<Location x="1088" y="512"/>
+			<Location x="1408" y="512"/>
+			<Location x="1600" y="512"/>
+			<Location x="1920" y="512"/>
+			<Location x="1408" y="576"/>
+			<Location x="1472" y="576"/>
+			<Location x="2176" y="576"/>
+			<Location x="2880" y="576"/>
+			<Location x="1664" y="640"/>
+			<Location x="1728" y="640"/>
+			<Location x="320" y="704"/>
+			<Location x="2880" y="704"/>
+			<Location x="2944" y="704"/>
+			<Location x="384" y="768"/>
+			<Location x="2880" y="768"/>
+			<Location x="64" y="832"/>
+			<Location x="384" y="832"/>
+			<Location x="448" y="832"/>
+			<Location x="1472" y="832"/>
+			<Location x="1600" y="832"/>
+			<Location x="1664" y="832"/>
+			<Location x="1792" y="832"/>
+			<Location x="3008" y="832"/>
+			<Location x="128" y="896"/>
+			<Location x="512" y="960"/>
+			<Location x="1344" y="960"/>
+			<Location x="1600" y="960"/>
+			<Location x="1728" y="960"/>
+			<Location x="128" y="1024"/>
+			<Location x="1408" y="1024"/>
+			<Location x="192" y="1088"/>
+			<Location x="320" y="1088"/>
+			<Location x="512" y="1088"/>
+			<Location x="1792" y="1088"/>
+			<Location x="128" y="1152"/>
+			<Location x="384" y="1152"/>
+			<Location x="2816" y="1152"/>
+			<Location x="3008" y="1152"/>
+			<Location x="192" y="1216"/>
+			<Location x="256" y="1216"/>
+			<Location x="448" y="1216"/>
+			<Location x="1664" y="1216"/>
+			<Location x="1728" y="1216"/>
+			<Location x="256" y="1280"/>
+			<Location x="1216" y="1280"/>
+			<Location x="1344" y="1280"/>
+			<Location x="2176" y="1280"/>
+			<Location x="1984" y="1344"/>
+			<Location x="2304" y="1344"/>
+			<Location x="2368" y="1344"/>
+			<Location x="2496" y="1344"/>
+			<Location x="2560" y="1344"/>
+			<Location x="3072" y="1344"/>
+			<Location x="192" y="1408"/>
+			<Location x="704" y="1408"/>
+			<Location x="1216" y="1408"/>
+			<Location x="1920" y="1408"/>
+			<Location x="2752" y="1408"/>
+			<Location x="0" y="1472"/>
+			<Location x="448" y="1472"/>
+			<Location x="1792" y="1472"/>
+			<Location x="3072" y="1472"/>
+			<Location x="192" y="1536"/>
+			<Location x="576" y="1536"/>
+			<Location x="960" y="1536"/>
+			<Location x="2112" y="1536"/>
+			<Location x="2304" y="1536"/>
+			<Location x="64" y="1600"/>
+			<Location x="320" y="1600"/>
+			<Location x="960" y="1600"/>
+			<Location x="1024" y="1600"/>
+			<Location x="1792" y="1600"/>
+			<Location x="1984" y="1600"/>
+			<Location x="2688" y="1600"/>
+			<Location x="2944" y="1600"/>
+			<Location x="704" y="1664"/>
+			<Location x="1472" y="1664"/>
+			<Location x="192" y="1728"/>
+			<Location x="832" y="1728"/>
+			<Location x="896" y="1728"/>
+			<Location x="1280" y="1728"/>
+			<Location x="1792" y="1728"/>
+			<Location x="2624" y="1728"/>
+			<Location x="3008" y="1728"/>
+			<Location x="192" y="1792"/>
+			<Location x="256" y="1792"/>
+			<Location x="576" y="1792"/>
+			<Location x="1088" y="1792"/>
+			<Location x="1280" y="1792"/>
+			<Location x="1984" y="1792"/>
+			<Location x="2048" y="1792"/>
+			<Location x="2560" y="1792"/>
+			<Location x="2688" y="1792"/>
+			<Location x="2752" y="1792"/>
+			<Location x="832" y="1856"/>
+			<Location x="2048" y="1856"/>
+			<Location x="192" y="1920"/>
+			<Location x="640" y="1920"/>
+			<Location x="2432" y="1920"/>
+			<Location x="2496" y="1920"/>
+			<Location x="2688" y="1920"/>
+			<Location x="256" y="1984"/>
+			<Location x="2176" y="1984"/>
+			<Location x="128" y="2048"/>
+			<Location x="256" y="2048"/>
+			<Location x="2368" y="2048"/>
+			<Location x="2496" y="2048"/>
+			<Location x="3008" y="2048"/>
+			<Location x="3136" y="2048"/>
+			<Location x="320" y="2112"/>
+			<Location x="960" y="2112"/>
+			<Location x="64" y="2240"/>
+			<Location x="256" y="2240"/>
+			<Location x="384" y="2240"/>
+			<Location x="448" y="2240"/>
+			<Location x="832" y="2240"/>
+			<Location x="2624" y="2240"/>
+			<Location x="3136" y="2240"/>
+			<Location x="256" y="2304"/>
+			<Location x="2496" y="2304"/>
+			<Location x="2816" y="2368"/>
+			<Location x="0" y="2432"/>
+			<Location x="192" y="2432"/>
+			<Location x="320" y="2432"/>
+			<Location x="960" y="2432"/>
+			<Location x="192" y="2496"/>
+			<Location x="2368" y="2496"/>
+			<Location x="2624" y="2496"/>
+			<Location x="2752" y="2496"/>
+			<Location x="2816" y="2496"/>
+			<Location x="3008" y="2496"/>
+			<Location x="3136" y="2496"/>
+			<Location x="0" y="2560"/>
+			<Location x="2624" y="2560"/>
+			<Location x="3008" y="2560"/>
+			<Location x="2368" y="2624"/>
+			<Location x="2944" y="2624"/>
+			<Location x="0" y="2688"/>
+			<Location x="896" y="2688"/>
+			<Location x="1088" y="2688"/>
+			<Location x="2752" y="2688"/>
+			<Location x="1152" y="2752"/>
+			<Location x="1856" y="2752"/>
+			<Location x="2560" y="2752"/>
+			<Location x="3008" y="2752"/>
+			<Location x="256" y="2816"/>
+			<Location x="576" y="2816"/>
+			<Location x="2112" y="2816"/>
+			<Location x="2624" y="2816"/>
+			<Location x="2752" y="2816"/>
+			<Location x="2816" y="2816"/>
+			<Location x="3136" y="2816"/>
+			<Location x="1024" y="2880"/>
+			<Location x="1536" y="2880"/>
+			<Location x="2304" y="2880"/>
+			<Location x="768" y="2944"/>
+			<Location x="1472" y="2944"/>
+			<Location x="1536" y="2944"/>
+			<Location x="1792" y="2944"/>
+			<Location x="1920" y="2944"/>
+			<Location x="2048" y="2944"/>
+			<Location x="2496" y="2944"/>
+			<Location x="2752" y="2944"/>
+			<Location x="1024" y="3008"/>
+			<Location x="1792" y="3008"/>
+			<Location x="1856" y="3008"/>
+			<Location x="2176" y="3008"/>
+			<Location x="3136" y="3008"/>
+			<Location x="0" y="3072"/>
+			<Location x="192" y="3072"/>
+			<Location x="960" y="3072"/>
+			<Location x="1664" y="3072"/>
+			<Location x="2944" y="3072"/>
+			<Location x="384" y="3136"/>
+			<Location x="1024" y="3136"/>
+			<Location x="1472" y="3136"/>
+			<Location x="1856" y="3136"/>
+			<Location x="2496" y="3136"/>
+			<Location x="2560" y="3136"/>
+			<Location x="2752" y="3136"/>
+			<Location x="3072" y="3136"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|8,0">
+		<SpriteSheet>grass_tileset</SpriteSheet>
+		<SheetCoordinates col="8" row="0"/>
+		<Locations layer="1">
+			<Location x="1536" y="0"/>
+			<Location x="1728" y="0"/>
+			<Location x="2048" y="0"/>
+			<Location x="2432" y="0"/>
+			<Location x="1472" y="64"/>
+			<Location x="1856" y="64"/>
+			<Location x="2432" y="64"/>
+			<Location x="2752" y="64"/>
+			<Location x="2816" y="64"/>
+			<Location x="320" y="128"/>
+			<Location x="576" y="128"/>
+			<Location x="1856" y="128"/>
+			<Location x="1984" y="128"/>
+			<Location x="2304" y="128"/>
+			<Location x="2624" y="128"/>
+			<Location x="2944" y="128"/>
+			<Location x="256" y="192"/>
+			<Location x="320" y="192"/>
+			<Location x="448" y="192"/>
+			<Location x="832" y="192"/>
+			<Location x="1088" y="192"/>
+			<Location x="1280" y="192"/>
+			<Location x="1344" y="192"/>
+			<Location x="1856" y="192"/>
+			<Location x="2944" y="192"/>
+			<Location x="192" y="256"/>
+			<Location x="832" y="256"/>
+			<Location x="960" y="256"/>
+			<Location x="1088" y="256"/>
+			<Location x="1152" y="256"/>
+			<Location x="1728" y="256"/>
+			<Location x="2432" y="256"/>
+			<Location x="2880" y="256"/>
+			<Location x="2944" y="256"/>
+			<Location x="1344" y="320"/>
+			<Location x="2112" y="320"/>
+			<Location x="192" y="384"/>
+			<Location x="1536" y="384"/>
+			<Location x="1984" y="384"/>
+			<Location x="2048" y="384"/>
+			<Location x="3072" y="384"/>
+			<Location x="128" y="448"/>
+			<Location x="1472" y="448"/>
+			<Location x="1536" y="448"/>
+			<Location x="2368" y="448"/>
+			<Location x="1984" y="512"/>
+			<Location x="2624" y="512"/>
+			<Location x="2944" y="512"/>
+			<Location x="3008" y="512"/>
+			<Location x="3072" y="512"/>
+			<Location x="0" y="576"/>
+			<Location x="256" y="576"/>
+			<Location x="640" y="576"/>
+			<Location x="896" y="576"/>
+			<Location x="960" y="576"/>
+			<Location x="1728" y="576"/>
+			<Location x="1856" y="576"/>
+			<Location x="384" y="640"/>
+			<Location x="1344" y="640"/>
+			<Location x="1536" y="704"/>
+			<Location x="1792" y="704"/>
+			<Location x="1280" y="768"/>
+			<Location x="1344" y="768"/>
+			<Location x="1664" y="768"/>
+			<Location x="1792" y="768"/>
+			<Location x="1280" y="896"/>
+			<Location x="1728" y="896"/>
+			<Location x="2624" y="896"/>
+			<Location x="2944" y="896"/>
+			<Location x="2880" y="960"/>
+			<Location x="1344" y="1024"/>
+			<Location x="1536" y="1024"/>
+			<Location x="2816" y="1024"/>
+			<Location x="3008" y="1024"/>
+			<Location x="3072" y="1024"/>
+			<Location x="128" y="1088"/>
+			<Location x="448" y="1088"/>
+			<Location x="2624" y="1088"/>
+			<Location x="0" y="1152"/>
+			<Location x="576" y="1152"/>
+			<Location x="1280" y="1152"/>
+			<Location x="1792" y="1152"/>
+			<Location x="2688" y="1152"/>
+			<Location x="3136" y="1152"/>
+			<Location x="128" y="1216"/>
+			<Location x="1792" y="1216"/>
+			<Location x="1856" y="1216"/>
+			<Location x="2944" y="1216"/>
+			<Location x="320" y="1280"/>
+			<Location x="512" y="1280"/>
+			<Location x="704" y="1280"/>
+			<Location x="896" y="1280"/>
+			<Location x="960" y="1280"/>
+			<Location x="1664" y="1280"/>
+			<Location x="1728" y="1280"/>
+			<Location x="1792" y="1280"/>
+			<Location x="2944" y="1280"/>
+			<Location x="1664" y="1344"/>
+			<Location x="64" y="1408"/>
+			<Location x="128" y="1408"/>
+			<Location x="256" y="1408"/>
+			<Location x="1088" y="1408"/>
+			<Location x="1344" y="1408"/>
+			<Location x="1536" y="1408"/>
+			<Location x="2368" y="1408"/>
+			<Location x="3008" y="1408"/>
+			<Location x="512" y="1472"/>
+			<Location x="1600" y="1472"/>
+			<Location x="0" y="1536"/>
+			<Location x="896" y="1536"/>
+			<Location x="2240" y="1536"/>
+			<Location x="2368" y="1536"/>
+			<Location x="2688" y="1536"/>
+			<Location x="192" y="1600"/>
+			<Location x="1088" y="1600"/>
+			<Location x="1152" y="1600"/>
+			<Location x="1472" y="1600"/>
+			<Location x="1856" y="1600"/>
+			<Location x="1920" y="1600"/>
+			<Location x="2048" y="1600"/>
+			<Location x="2304" y="1600"/>
+			<Location x="64" y="1664"/>
+			<Location x="128" y="1664"/>
+			<Location x="192" y="1664"/>
+			<Location x="320" y="1664"/>
+			<Location x="384" y="1664"/>
+			<Location x="1216" y="1664"/>
+			<Location x="1408" y="1664"/>
+			<Location x="1536" y="1664"/>
+			<Location x="1792" y="1664"/>
+			<Location x="1856" y="1664"/>
+			<Location x="1920" y="1664"/>
+			<Location x="2560" y="1664"/>
+			<Location x="2752" y="1664"/>
+			<Location x="768" y="1728"/>
+			<Location x="960" y="1728"/>
+			<Location x="1152" y="1728"/>
+			<Location x="2368" y="1728"/>
+			<Location x="2432" y="1728"/>
+			<Location x="2688" y="1728"/>
+			<Location x="2752" y="1728"/>
+			<Location x="3072" y="1728"/>
+			<Location x="3136" y="1728"/>
+			<Location x="896" y="1792"/>
+			<Location x="2240" y="1792"/>
+			<Location x="0" y="1856"/>
+			<Location x="576" y="1856"/>
+			<Location x="2688" y="1856"/>
+			<Location x="2816" y="1920"/>
+			<Location x="0" y="1984"/>
+			<Location x="64" y="1984"/>
+			<Location x="896" y="1984"/>
+			<Location x="2944" y="1984"/>
+			<Location x="384" y="2048"/>
+			<Location x="640" y="2048"/>
+			<Location x="832" y="2048"/>
+			<Location x="2560" y="2048"/>
+			<Location x="2752" y="2048"/>
+			<Location x="2944" y="2048"/>
+			<Location x="768" y="2112"/>
+			<Location x="2496" y="2240"/>
+			<Location x="2944" y="2240"/>
+			<Location x="3072" y="2240"/>
+			<Location x="704" y="2304"/>
+			<Location x="768" y="2304"/>
+			<Location x="832" y="2304"/>
+			<Location x="3136" y="2304"/>
+			<Location x="64" y="2368"/>
+			<Location x="128" y="2368"/>
+			<Location x="512" y="2368"/>
+			<Location x="832" y="2368"/>
+			<Location x="896" y="2368"/>
+			<Location x="2304" y="2368"/>
+			<Location x="2432" y="2368"/>
+			<Location x="2880" y="2368"/>
+			<Location x="3136" y="2368"/>
+			<Location x="704" y="2432"/>
+			<Location x="768" y="2432"/>
+			<Location x="832" y="2432"/>
+			<Location x="2880" y="2432"/>
+			<Location x="2944" y="2496"/>
+			<Location x="512" y="2560"/>
+			<Location x="832" y="2560"/>
+			<Location x="2944" y="2560"/>
+			<Location x="3136" y="2560"/>
+			<Location x="0" y="2624"/>
+			<Location x="64" y="2624"/>
+			<Location x="448" y="2624"/>
+			<Location x="576" y="2624"/>
+			<Location x="1024" y="2624"/>
+			<Location x="1088" y="2624"/>
+			<Location x="2688" y="2624"/>
+			<Location x="2880" y="2624"/>
+			<Location x="1152" y="2688"/>
+			<Location x="1216" y="2688"/>
+			<Location x="1280" y="2688"/>
+			<Location x="2560" y="2688"/>
+			<Location x="2688" y="2688"/>
+			<Location x="0" y="2752"/>
+			<Location x="960" y="2752"/>
+			<Location x="1408" y="2752"/>
+			<Location x="1920" y="2752"/>
+			<Location x="1984" y="2752"/>
+			<Location x="2816" y="2752"/>
+			<Location x="3136" y="2752"/>
+			<Location x="768" y="2816"/>
+			<Location x="1088" y="2816"/>
+			<Location x="1920" y="2816"/>
+			<Location x="2304" y="2816"/>
+			<Location x="1216" y="2880"/>
+			<Location x="1280" y="2880"/>
+			<Location x="2176" y="2880"/>
+			<Location x="3136" y="2880"/>
+			<Location x="448" y="2944"/>
+			<Location x="1280" y="2944"/>
+			<Location x="1728" y="2944"/>
+			<Location x="2176" y="2944"/>
+			<Location x="2816" y="2944"/>
+			<Location x="128" y="3008"/>
+			<Location x="832" y="3008"/>
+			<Location x="960" y="3008"/>
+			<Location x="2304" y="3008"/>
+			<Location x="2432" y="3008"/>
+			<Location x="2496" y="3008"/>
+			<Location x="2560" y="3008"/>
+			<Location x="2880" y="3008"/>
+			<Location x="3008" y="3008"/>
+			<Location x="256" y="3072"/>
+			<Location x="1088" y="3072"/>
+			<Location x="1408" y="3072"/>
+			<Location x="1536" y="3072"/>
+			<Location x="2560" y="3072"/>
+			<Location x="2624" y="3072"/>
+			<Location x="0" y="3136"/>
+			<Location x="1216" y="3136"/>
+			<Location x="1920" y="3136"/>
+			<Location x="2176" y="3136"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|0,1">
+		<TileSetAnimation>
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1500</FrameMinDuration>
+			<FrameMaxDuration>3000</FrameMaxDuration>
+			<Frames length="2">
+				<Frame tileName="grass_tileset|0,1" spriteSheet="grass_tileset" col="0" row="1"/>
+				<Frame tileName="grass_tileset|1,1" spriteSheet="grass_tileset" col="1" row="1"/>
+			</Frames>
+		</TileSetAnimation>
+		<Locations layer="1">
+			<Location x="640" y="704"/>
+			<Location x="640" y="768"/>
+			<Location x="640" y="832"/>
+			<Location x="640" y="896"/>
+			<Location x="640" y="960"/>
+			<Location x="640" y="1024"/>
+			<Location x="640" y="1088"/>
+			<Location x="640" y="1152"/>
+			<Location x="1024" y="1984"/>
+			<Location x="1024" y="2048"/>
+			<Location x="1024" y="2112"/>
+			<Location x="1088" y="2240"/>
+			<Location x="1088" y="2304"/>
+			<Location x="1152" y="2432"/>
+			<Location x="1152" y="2496"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|2,1">
+		<TileSetAnimation>
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1500</FrameMinDuration>
+			<FrameMaxDuration>3000</FrameMaxDuration>
+			<Frames length="2">
+				<Frame tileName="grass_tileset|2,1" spriteSheet="grass_tileset" col="2" row="1"/>
+				<Frame tileName="grass_tileset|3,1" spriteSheet="grass_tileset" col="3" row="1"/>
+			</Frames>
+		</TileSetAnimation>
+		<Locations layer="1">
+			<Location x="704" y="704"/>
+			<Location x="768" y="704"/>
+			<Location x="832" y="704"/>
+			<Location x="896" y="704"/>
+			<Location x="960" y="704"/>
+			<Location x="1024" y="704"/>
+			<Location x="1088" y="704"/>
+			<Location x="1152" y="704"/>
+			<Location x="704" y="768"/>
+			<Location x="768" y="768"/>
+			<Location x="832" y="768"/>
+			<Location x="896" y="768"/>
+			<Location x="960" y="768"/>
+			<Location x="1024" y="768"/>
+			<Location x="1088" y="768"/>
+			<Location x="1152" y="768"/>
+			<Location x="704" y="832"/>
+			<Location x="768" y="832"/>
+			<Location x="832" y="832"/>
+			<Location x="896" y="832"/>
+			<Location x="960" y="832"/>
+			<Location x="1024" y="832"/>
+			<Location x="1088" y="832"/>
+			<Location x="1152" y="832"/>
+			<Location x="704" y="896"/>
+			<Location x="768" y="896"/>
+			<Location x="832" y="896"/>
+			<Location x="896" y="896"/>
+			<Location x="960" y="896"/>
+			<Location x="1024" y="896"/>
+			<Location x="1088" y="896"/>
+			<Location x="1152" y="896"/>
+			<Location x="704" y="960"/>
+			<Location x="768" y="960"/>
+			<Location x="832" y="960"/>
+			<Location x="896" y="960"/>
+			<Location x="960" y="960"/>
+			<Location x="1024" y="960"/>
+			<Location x="1088" y="960"/>
+			<Location x="1152" y="960"/>
+			<Location x="704" y="1024"/>
+			<Location x="768" y="1024"/>
+			<Location x="832" y="1024"/>
+			<Location x="896" y="1024"/>
+			<Location x="960" y="1024"/>
+			<Location x="1024" y="1024"/>
+			<Location x="1088" y="1024"/>
+			<Location x="1152" y="1024"/>
+			<Location x="704" y="1088"/>
+			<Location x="768" y="1088"/>
+			<Location x="832" y="1088"/>
+			<Location x="896" y="1088"/>
+			<Location x="960" y="1088"/>
+			<Location x="1024" y="1088"/>
+			<Location x="1088" y="1088"/>
+			<Location x="1152" y="1088"/>
+			<Location x="704" y="1152"/>
+			<Location x="768" y="1152"/>
+			<Location x="832" y="1152"/>
+			<Location x="896" y="1152"/>
+			<Location x="960" y="1152"/>
+			<Location x="1024" y="1152"/>
+			<Location x="1088" y="1152"/>
+			<Location x="1152" y="1152"/>
+			<Location x="1408" y="1792"/>
+			<Location x="1472" y="1792"/>
+			<Location x="1536" y="1792"/>
+			<Location x="1600" y="1792"/>
+			<Location x="1664" y="1792"/>
+			<Location x="1728" y="1792"/>
+			<Location x="1344" y="1856"/>
+			<Location x="1408" y="1856"/>
+			<Location x="1472" y="1856"/>
+			<Location x="1536" y="1856"/>
+			<Location x="1600" y="1856"/>
+			<Location x="1664" y="1856"/>
+			<Location x="1728" y="1856"/>
+			<Location x="1792" y="1856"/>
+			<Location x="1152" y="1920"/>
+			<Location x="1216" y="1920"/>
+			<Location x="1280" y="1920"/>
+			<Location x="1344" y="1920"/>
+			<Location x="1408" y="1920"/>
+			<Location x="1472" y="1920"/>
+			<Location x="1536" y="1920"/>
+			<Location x="1600" y="1920"/>
+			<Location x="1664" y="1920"/>
+			<Location x="1728" y="1920"/>
+			<Location x="1792" y="1920"/>
+			<Location x="1856" y="1920"/>
+			<Location x="1920" y="1920"/>
+			<Location x="1984" y="1920"/>
+			<Location x="1088" y="1984"/>
+			<Location x="1152" y="1984"/>
+			<Location x="1216" y="1984"/>
+			<Location x="1280" y="1984"/>
+			<Location x="1344" y="1984"/>
+			<Location x="1408" y="1984"/>
+			<Location x="1472" y="1984"/>
+			<Location x="1536" y="1984"/>
+			<Location x="1600" y="1984"/>
+			<Location x="1664" y="1984"/>
+			<Location x="1728" y="1984"/>
+			<Location x="1792" y="1984"/>
+			<Location x="1856" y="1984"/>
+			<Location x="1920" y="1984"/>
+			<Location x="1984" y="1984"/>
+			<Location x="1088" y="2048"/>
+			<Location x="1152" y="2048"/>
+			<Location x="1216" y="2048"/>
+			<Location x="1280" y="2048"/>
+			<Location x="1344" y="2048"/>
+			<Location x="1408" y="2048"/>
+			<Location x="1472" y="2048"/>
+			<Location x="1536" y="2048"/>
+			<Location x="1600" y="2048"/>
+			<Location x="1664" y="2048"/>
+			<Location x="1728" y="2048"/>
+			<Location x="1792" y="2048"/>
+			<Location x="1856" y="2048"/>
+			<Location x="1920" y="2048"/>
+			<Location x="1984" y="2048"/>
+			<Location x="2048" y="2048"/>
+			<Location x="1088" y="2112"/>
+			<Location x="1152" y="2112"/>
+			<Location x="1216" y="2112"/>
+			<Location x="1280" y="2112"/>
+			<Location x="1344" y="2112"/>
+			<Location x="1408" y="2112"/>
+			<Location x="1472" y="2112"/>
+			<Location x="1536" y="2112"/>
+			<Location x="1600" y="2112"/>
+			<Location x="1664" y="2112"/>
+			<Location x="1728" y="2112"/>
+			<Location x="1792" y="2112"/>
+			<Location x="1856" y="2112"/>
+			<Location x="1920" y="2112"/>
+			<Location x="1984" y="2112"/>
+			<Location x="2048" y="2112"/>
+			<Location x="2112" y="2112"/>
+			<Location x="1088" y="2176"/>
+			<Location x="1152" y="2176"/>
+			<Location x="1216" y="2176"/>
+			<Location x="1280" y="2176"/>
+			<Location x="1344" y="2176"/>
+			<Location x="1408" y="2176"/>
+			<Location x="1472" y="2176"/>
+			<Location x="1536" y="2176"/>
+			<Location x="1600" y="2176"/>
+			<Location x="1664" y="2176"/>
+			<Location x="1728" y="2176"/>
+			<Location x="1792" y="2176"/>
+			<Location x="1856" y="2176"/>
+			<Location x="1920" y="2176"/>
+			<Location x="1984" y="2176"/>
+			<Location x="2048" y="2176"/>
+			<Location x="2112" y="2176"/>
+			<Location x="2176" y="2176"/>
+			<Location x="1152" y="2240"/>
+			<Location x="1216" y="2240"/>
+			<Location x="1280" y="2240"/>
+			<Location x="1344" y="2240"/>
+			<Location x="1408" y="2240"/>
+			<Location x="1472" y="2240"/>
+			<Location x="1536" y="2240"/>
+			<Location x="1600" y="2240"/>
+			<Location x="1664" y="2240"/>
+			<Location x="1728" y="2240"/>
+			<Location x="1792" y="2240"/>
+			<Location x="1856" y="2240"/>
+			<Location x="1920" y="2240"/>
+			<Location x="1984" y="2240"/>
+			<Location x="2048" y="2240"/>
+			<Location x="2112" y="2240"/>
+			<Location x="2176" y="2240"/>
+			<Location x="1152" y="2304"/>
+			<Location x="1216" y="2304"/>
+			<Location x="1280" y="2304"/>
+			<Location x="1344" y="2304"/>
+			<Location x="1408" y="2304"/>
+			<Location x="1472" y="2304"/>
+			<Location x="1536" y="2304"/>
+			<Location x="1600" y="2304"/>
+			<Location x="1664" y="2304"/>
+			<Location x="1728" y="2304"/>
+			<Location x="1792" y="2304"/>
+			<Location x="1856" y="2304"/>
+			<Location x="1920" y="2304"/>
+			<Location x="1984" y="2304"/>
+			<Location x="2048" y="2304"/>
+			<Location x="2112" y="2304"/>
+			<Location x="2176" y="2304"/>
+			<Location x="1152" y="2368"/>
+			<Location x="1216" y="2368"/>
+			<Location x="1280" y="2368"/>
+			<Location x="1344" y="2368"/>
+			<Location x="1408" y="2368"/>
+			<Location x="1472" y="2368"/>
+			<Location x="1536" y="2368"/>
+			<Location x="1600" y="2368"/>
+			<Location x="1664" y="2368"/>
+			<Location x="1728" y="2368"/>
+			<Location x="1792" y="2368"/>
+			<Location x="1856" y="2368"/>
+			<Location x="1920" y="2368"/>
+			<Location x="1984" y="2368"/>
+			<Location x="2048" y="2368"/>
+			<Location x="2112" y="2368"/>
+			<Location x="2176" y="2368"/>
+			<Location x="1216" y="2432"/>
+			<Location x="1280" y="2432"/>
+			<Location x="1344" y="2432"/>
+			<Location x="1408" y="2432"/>
+			<Location x="1472" y="2432"/>
+			<Location x="1536" y="2432"/>
+			<Location x="1600" y="2432"/>
+			<Location x="1664" y="2432"/>
+			<Location x="1728" y="2432"/>
+			<Location x="1792" y="2432"/>
+			<Location x="1856" y="2432"/>
+			<Location x="1920" y="2432"/>
+			<Location x="1984" y="2432"/>
+			<Location x="2048" y="2432"/>
+			<Location x="2112" y="2432"/>
+			<Location x="2176" y="2432"/>
+			<Location x="1216" y="2496"/>
+			<Location x="1280" y="2496"/>
+			<Location x="1344" y="2496"/>
+			<Location x="1408" y="2496"/>
+			<Location x="1472" y="2496"/>
+			<Location x="1536" y="2496"/>
+			<Location x="1600" y="2496"/>
+			<Location x="1664" y="2496"/>
+			<Location x="1728" y="2496"/>
+			<Location x="1792" y="2496"/>
+			<Location x="1856" y="2496"/>
+			<Location x="1920" y="2496"/>
+			<Location x="1984" y="2496"/>
+			<Location x="2048" y="2496"/>
+			<Location x="2112" y="2496"/>
+			<Location x="2176" y="2496"/>
+			<Location x="1216" y="2560"/>
+			<Location x="1280" y="2560"/>
+			<Location x="1344" y="2560"/>
+			<Location x="1408" y="2560"/>
+			<Location x="1472" y="2560"/>
+			<Location x="1536" y="2560"/>
+			<Location x="1600" y="2560"/>
+			<Location x="1664" y="2560"/>
+			<Location x="1728" y="2560"/>
+			<Location x="1792" y="2560"/>
+			<Location x="1856" y="2560"/>
+			<Location x="1920" y="2560"/>
+			<Location x="1984" y="2560"/>
+			<Location x="2048" y="2560"/>
+			<Location x="2112" y="2560"/>
+			<Location x="1472" y="2624"/>
+			<Location x="1536" y="2624"/>
+			<Location x="1600" y="2624"/>
+			<Location x="1664" y="2624"/>
+			<Location x="1728" y="2624"/>
+			<Location x="1792" y="2624"/>
+			<Location x="1856" y="2624"/>
+			<Location x="1920" y="2624"/>
+			<Location x="1984" y="2624"/>
+			<Location x="2048" y="2624"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|4,1">
+		<TileSetAnimation>
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1500</FrameMinDuration>
+			<FrameMaxDuration>3000</FrameMaxDuration>
+			<Frames length="2">
+				<Frame tileName="grass_tileset|4,1" spriteSheet="grass_tileset" col="4" row="1"/>
+				<Frame tileName="grass_tileset|5,1" spriteSheet="grass_tileset" col="5" row="1"/>
+			</Frames>
+		</TileSetAnimation>
+		<Locations layer="1">
+			<Location x="1216" y="704"/>
+			<Location x="1216" y="768"/>
+			<Location x="1216" y="832"/>
+			<Location x="1216" y="896"/>
+			<Location x="1216" y="960"/>
+			<Location x="1216" y="1024"/>
+			<Location x="1216" y="1088"/>
+			<Location x="1216" y="1152"/>
+			<Location x="2048" y="1984"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|5,1">
+		<SpriteSheet>grass_tileset</SpriteSheet>
+		<SheetCoordinates col="5" row="1"/>
+		<Locations layer="1">
+			<Location x="2240" y="2176"/>
+			<Location x="2240" y="2240"/>
+			<Location x="2240" y="2304"/>
+			<Location x="2240" y="2368"/>
+			<Location x="2240" y="2432"/>
+			<Location x="2240" y="2496"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|6,1">
+		<SpriteSheet>grass_tileset</SpriteSheet>
+		<SheetCoordinates col="6" row="1"/>
+		<Locations layer="1">
+			<Location x="0" y="0"/>
+			<Location x="256" y="0"/>
+			<Location x="320" y="0"/>
+			<Location x="704" y="0"/>
+			<Location x="1024" y="0"/>
+			<Location x="1344" y="0"/>
+			<Location x="1472" y="0"/>
+			<Location x="2624" y="0"/>
+			<Location x="256" y="64"/>
+			<Location x="896" y="64"/>
+			<Location x="1344" y="64"/>
+			<Location x="1600" y="64"/>
+			<Location x="2368" y="64"/>
+			<Location x="3072" y="64"/>
+			<Location x="512" y="128"/>
+			<Location x="896" y="128"/>
+			<Location x="1216" y="128"/>
+			<Location x="1472" y="128"/>
+			<Location x="2176" y="128"/>
+			<Location x="2496" y="128"/>
+			<Location x="2752" y="128"/>
+			<Location x="384" y="192"/>
+			<Location x="1792" y="192"/>
+			<Location x="3008" y="192"/>
+			<Location x="128" y="256"/>
+			<Location x="1920" y="256"/>
+			<Location x="2560" y="256"/>
+			<Location x="640" y="320"/>
+			<Location x="1216" y="320"/>
+			<Location x="1408" y="320"/>
+			<Location x="2176" y="320"/>
+			<Location x="2368" y="320"/>
+			<Location x="3008" y="320"/>
+			<Location x="1024" y="384"/>
+			<Location x="1088" y="384"/>
+			<Location x="1216" y="384"/>
+			<Location x="1856" y="384"/>
+			<Location x="2240" y="384"/>
+			<Location x="2496" y="384"/>
+			<Location x="384" y="448"/>
+			<Location x="704" y="448"/>
+			<Location x="768" y="448"/>
+			<Location x="1664" y="448"/>
+			<Location x="256" y="512"/>
+			<Location x="448" y="512"/>
+			<Location x="1472" y="512"/>
+			<Location x="2240" y="512"/>
+			<Location x="2432" y="512"/>
+			<Location x="2496" y="512"/>
+			<Location x="2560" y="512"/>
+			<Location x="2752" y="512"/>
+			<Location x="448" y="576"/>
+			<Location x="832" y="576"/>
+			<Location x="1920" y="576"/>
+			<Location x="2240" y="576"/>
+			<Location x="3072" y="576"/>
+			<Location x="64" y="640"/>
+			<Location x="256" y="640"/>
+			<Location x="512" y="640"/>
+			<Location x="1600" y="640"/>
+			<Location x="1856" y="640"/>
+			<Location x="2752" y="640"/>
+			<Location x="256" y="704"/>
+			<Location x="1344" y="704"/>
+			<Location x="1408" y="704"/>
+			<Location x="1664" y="704"/>
+			<Location x="1728" y="704"/>
+			<Location x="2624" y="704"/>
+			<Location x="2688" y="704"/>
+			<Location x="512" y="768"/>
+			<Location x="0" y="832"/>
+			<Location x="256" y="832"/>
+			<Location x="576" y="832"/>
+			<Location x="1536" y="832"/>
+			<Location x="1856" y="832"/>
+			<Location x="2880" y="832"/>
+			<Location x="256" y="896"/>
+			<Location x="1664" y="896"/>
+			<Location x="256" y="960"/>
+			<Location x="2560" y="960"/>
+			<Location x="2816" y="960"/>
+			<Location x="320" y="1024"/>
+			<Location x="448" y="1024"/>
+			<Location x="1600" y="1024"/>
+			<Location x="1664" y="1024"/>
+			<Location x="2624" y="1024"/>
+			<Location x="64" y="1088"/>
+			<Location x="2752" y="1088"/>
+			<Location x="192" y="1152"/>
+			<Location x="3072" y="1152"/>
+			<Location x="320" y="1216"/>
+			<Location x="2688" y="1216"/>
+			<Location x="448" y="1280"/>
+			<Location x="832" y="1280"/>
+			<Location x="1600" y="1280"/>
+			<Location x="2496" y="1280"/>
+			<Location x="2880" y="1280"/>
+			<Location x="960" y="1344"/>
+			<Location x="1152" y="1344"/>
+			<Location x="1344" y="1344"/>
+			<Location x="1600" y="1344"/>
+			<Location x="320" y="1408"/>
+			<Location x="384" y="1408"/>
+			<Location x="1664" y="1408"/>
+			<Location x="64" y="1472"/>
+			<Location x="320" y="1472"/>
+			<Location x="1664" y="1472"/>
+			<Location x="1920" y="1472"/>
+			<Location x="2048" y="1472"/>
+			<Location x="2176" y="1472"/>
+			<Location x="3008" y="1472"/>
+			<Location x="128" y="1536"/>
+			<Location x="256" y="1536"/>
+			<Location x="1088" y="1536"/>
+			<Location x="1408" y="1536"/>
+			<Location x="2176" y="1536"/>
+			<Location x="2752" y="1536"/>
+			<Location x="3136" y="1536"/>
+			<Location x="0" y="1600"/>
+			<Location x="256" y="1600"/>
+			<Location x="512" y="1600"/>
+			<Location x="1344" y="1600"/>
+			<Location x="2752" y="1600"/>
+			<Location x="3136" y="1600"/>
+			<Location x="256" y="1664"/>
+			<Location x="640" y="1664"/>
+			<Location x="896" y="1664"/>
+			<Location x="960" y="1664"/>
+			<Location x="1024" y="1664"/>
+			<Location x="3008" y="1664"/>
+			<Location x="512" y="1728"/>
+			<Location x="640" y="1728"/>
+			<Location x="704" y="1728"/>
+			<Location x="1344" y="1728"/>
+			<Location x="1920" y="1728"/>
+			<Location x="2496" y="1728"/>
+			<Location x="0" y="1792"/>
+			<Location x="1856" y="1792"/>
+			<Location x="2816" y="1792"/>
+			<Location x="512" y="1856"/>
+			<Location x="2176" y="1856"/>
+			<Location x="704" y="1920"/>
+			<Location x="960" y="1920"/>
+			<Location x="2752" y="1920"/>
+			<Location x="128" y="1984"/>
+			<Location x="448" y="1984"/>
+			<Location x="960" y="1984"/>
+			<Location x="704" y="2048"/>
+			<Location x="2880" y="2048"/>
+			<Location x="0" y="2112"/>
+			<Location x="192" y="2112"/>
+			<Location x="832" y="2112"/>
+			<Location x="2624" y="2112"/>
+			<Location x="2944" y="2112"/>
+			<Location x="576" y="2176"/>
+			<Location x="2816" y="2176"/>
+			<Location x="3072" y="2176"/>
+			<Location x="0" y="2240"/>
+			<Location x="768" y="2240"/>
+			<Location x="2304" y="2240"/>
+			<Location x="2816" y="2240"/>
+			<Location x="2880" y="2240"/>
+			<Location x="3008" y="2240"/>
+			<Location x="0" y="2304"/>
+			<Location x="64" y="2304"/>
+			<Location x="192" y="2304"/>
+			<Location x="384" y="2304"/>
+			<Location x="2560" y="2304"/>
+			<Location x="2944" y="2304"/>
+			<Location x="0" y="2368"/>
+			<Location x="384" y="2368"/>
+			<Location x="704" y="2368"/>
+			<Location x="3072" y="2368"/>
+			<Location x="1088" y="2432"/>
+			<Location x="2496" y="2432"/>
+			<Location x="3072" y="2432"/>
+			<Location x="0" y="2496"/>
+			<Location x="256" y="2496"/>
+			<Location x="2304" y="2496"/>
+			<Location x="2560" y="2496"/>
+			<Location x="2688" y="2496"/>
+			<Location x="64" y="2560"/>
+			<Location x="1024" y="2560"/>
+			<Location x="2816" y="2560"/>
+			<Location x="320" y="2624"/>
+			<Location x="2304" y="2624"/>
+			<Location x="2496" y="2624"/>
+			<Location x="3072" y="2624"/>
+			<Location x="3136" y="2624"/>
+			<Location x="128" y="2688"/>
+			<Location x="384" y="2688"/>
+			<Location x="704" y="2688"/>
+			<Location x="128" y="2752"/>
+			<Location x="192" y="2752"/>
+			<Location x="320" y="2752"/>
+			<Location x="1088" y="2752"/>
+			<Location x="1728" y="2752"/>
+			<Location x="2048" y="2752"/>
+			<Location x="2112" y="2752"/>
+			<Location x="2240" y="2752"/>
+			<Location x="2304" y="2752"/>
+			<Location x="2496" y="2752"/>
+			<Location x="2752" y="2752"/>
+			<Location x="3072" y="2752"/>
+			<Location x="896" y="2816"/>
+			<Location x="960" y="2816"/>
+			<Location x="1792" y="2816"/>
+			<Location x="2176" y="2816"/>
+			<Location x="2880" y="2816"/>
+			<Location x="3008" y="2816"/>
+			<Location x="640" y="2880"/>
+			<Location x="1088" y="2880"/>
+			<Location x="1728" y="2880"/>
+			<Location x="896" y="2944"/>
+			<Location x="960" y="2944"/>
+			<Location x="1344" y="2944"/>
+			<Location x="2368" y="2944"/>
+			<Location x="3072" y="2944"/>
+			<Location x="64" y="3008"/>
+			<Location x="512" y="3008"/>
+			<Location x="640" y="3008"/>
+			<Location x="576" y="3072"/>
+			<Location x="704" y="3072"/>
+			<Location x="896" y="3072"/>
+			<Location x="1216" y="3072"/>
+			<Location x="1344" y="3072"/>
+			<Location x="2304" y="3072"/>
+			<Location x="2368" y="3072"/>
+			<Location x="2432" y="3072"/>
+			<Location x="576" y="3136"/>
+			<Location x="960" y="3136"/>
+			<Location x="1152" y="3136"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|7,1">
+		<SpriteSheet>grass_tileset</SpriteSheet>
+		<SheetCoordinates col="7" row="1"/>
+		<Locations layer="1">
+			<Location x="832" y="0"/>
+			<Location x="896" y="0"/>
+			<Location x="2816" y="0"/>
+			<Location x="64" y="64"/>
+			<Location x="640" y="64"/>
+			<Location x="768" y="64"/>
+			<Location x="960" y="64"/>
+			<Location x="1280" y="64"/>
+			<Location x="1728" y="64"/>
+			<Location x="2048" y="64"/>
+			<Location x="2560" y="64"/>
+			<Location x="384" y="128"/>
+			<Location x="1088" y="128"/>
+			<Location x="1344" y="128"/>
+			<Location x="1600" y="128"/>
+			<Location x="2112" y="128"/>
+			<Location x="2240" y="128"/>
+			<Location x="2688" y="128"/>
+			<Location x="3008" y="128"/>
+			<Location x="1408" y="192"/>
+			<Location x="1920" y="192"/>
+			<Location x="2368" y="192"/>
+			<Location x="0" y="256"/>
+			<Location x="256" y="256"/>
+			<Location x="896" y="256"/>
+			<Location x="1344" y="256"/>
+			<Location x="1856" y="256"/>
+			<Location x="2112" y="256"/>
+			<Location x="64" y="320"/>
+			<Location x="448" y="320"/>
+			<Location x="1024" y="320"/>
+			<Location x="1280" y="320"/>
+			<Location x="2880" y="320"/>
+			<Location x="256" y="384"/>
+			<Location x="2112" y="384"/>
+			<Location x="2176" y="384"/>
+			<Location x="2688" y="384"/>
+			<Location x="2880" y="384"/>
+			<Location x="2944" y="384"/>
+			<Location x="2304" y="448"/>
+			<Location x="2432" y="448"/>
+			<Location x="0" y="512"/>
+			<Location x="320" y="512"/>
+			<Location x="1344" y="512"/>
+			<Location x="1536" y="512"/>
+			<Location x="2304" y="512"/>
+			<Location x="2368" y="512"/>
+			<Location x="2688" y="512"/>
+			<Location x="64" y="576"/>
+			<Location x="768" y="576"/>
+			<Location x="1984" y="576"/>
+			<Location x="2112" y="576"/>
+			<Location x="2368" y="576"/>
+			<Location x="2496" y="576"/>
+			<Location x="448" y="640"/>
+			<Location x="576" y="640"/>
+			<Location x="2560" y="640"/>
+			<Location x="64" y="704"/>
+			<Location x="192" y="704"/>
+			<Location x="2816" y="704"/>
+			<Location x="0" y="768"/>
+			<Location x="1408" y="768"/>
+			<Location x="1536" y="768"/>
+			<Location x="1728" y="768"/>
+			<Location x="3136" y="768"/>
+			<Location x="128" y="832"/>
+			<Location x="320" y="832"/>
+			<Location x="2944" y="832"/>
+			<Location x="3072" y="832"/>
+			<Location x="0" y="896"/>
+			<Location x="64" y="896"/>
+			<Location x="3136" y="896"/>
+			<Location x="64" y="960"/>
+			<Location x="128" y="960"/>
+			<Location x="448" y="960"/>
+			<Location x="1408" y="960"/>
+			<Location x="1472" y="960"/>
+			<Location x="2688" y="960"/>
+			<Location x="3136" y="960"/>
+			<Location x="1792" y="1024"/>
+			<Location x="2880" y="1024"/>
+			<Location x="0" y="1088"/>
+			<Location x="1344" y="1088"/>
+			<Location x="1536" y="1088"/>
+			<Location x="1856" y="1088"/>
+			<Location x="2688" y="1088"/>
+			<Location x="3072" y="1088"/>
+			<Location x="1472" y="1152"/>
+			<Location x="2560" y="1216"/>
+			<Location x="2880" y="1216"/>
+			<Location x="128" y="1280"/>
+			<Location x="1472" y="1280"/>
+			<Location x="3136" y="1280"/>
+			<Location x="0" y="1344"/>
+			<Location x="64" y="1344"/>
+			<Location x="192" y="1344"/>
+			<Location x="448" y="1344"/>
+			<Location x="2176" y="1344"/>
+			<Location x="2432" y="1344"/>
+			<Location x="512" y="1408"/>
+			<Location x="2240" y="1408"/>
+			<Location x="2624" y="1408"/>
+			<Location x="384" y="1472"/>
+			<Location x="576" y="1472"/>
+			<Location x="960" y="1472"/>
+			<Location x="1024" y="1472"/>
+			<Location x="1216" y="1472"/>
+			<Location x="1728" y="1472"/>
+			<Location x="2432" y="1472"/>
+			<Location x="2624" y="1472"/>
+			<Location x="2688" y="1472"/>
+			<Location x="448" y="1536"/>
+			<Location x="768" y="1536"/>
+			<Location x="832" y="1536"/>
+			<Location x="1536" y="1536"/>
+			<Location x="1728" y="1536"/>
+			<Location x="2496" y="1536"/>
+			<Location x="2560" y="1536"/>
+			<Location x="2624" y="1536"/>
+			<Location x="128" y="1600"/>
+			<Location x="384" y="1600"/>
+			<Location x="576" y="1600"/>
+			<Location x="1728" y="1600"/>
+			<Location x="2560" y="1600"/>
+			<Location x="2624" y="1600"/>
+			<Location x="2816" y="1600"/>
+			<Location x="2880" y="1600"/>
+			<Location x="1984" y="1664"/>
+			<Location x="0" y="1728"/>
+			<Location x="128" y="1728"/>
+			<Location x="1024" y="1728"/>
+			<Location x="832" y="1792"/>
+			<Location x="2368" y="1792"/>
+			<Location x="192" y="1856"/>
+			<Location x="1024" y="1856"/>
+			<Location x="2112" y="1856"/>
+			<Location x="64" y="1920"/>
+			<Location x="576" y="1920"/>
+			<Location x="768" y="1920"/>
+			<Location x="2368" y="1920"/>
+			<Location x="2624" y="1920"/>
+			<Location x="320" y="1984"/>
+			<Location x="384" y="1984"/>
+			<Location x="2560" y="1984"/>
+			<Location x="2688" y="1984"/>
+			<Location x="0" y="2048"/>
+			<Location x="2176" y="2048"/>
+			<Location x="2688" y="2048"/>
+			<Location x="2752" y="2112"/>
+			<Location x="384" y="2176"/>
+			<Location x="832" y="2176"/>
+			<Location x="2304" y="2176"/>
+			<Location x="2496" y="2176"/>
+			<Location x="2688" y="2176"/>
+			<Location x="192" y="2240"/>
+			<Location x="704" y="2240"/>
+			<Location x="960" y="2240"/>
+			<Location x="128" y="2304"/>
+			<Location x="320" y="2304"/>
+			<Location x="448" y="2304"/>
+			<Location x="1024" y="2304"/>
+			<Location x="2304" y="2304"/>
+			<Location x="576" y="2368"/>
+			<Location x="2624" y="2432"/>
+			<Location x="3136" y="2432"/>
+			<Location x="128" y="2496"/>
+			<Location x="448" y="2496"/>
+			<Location x="576" y="2496"/>
+			<Location x="704" y="2496"/>
+			<Location x="896" y="2496"/>
+			<Location x="320" y="2560"/>
+			<Location x="384" y="2560"/>
+			<Location x="1088" y="2560"/>
+			<Location x="768" y="2624"/>
+			<Location x="832" y="2624"/>
+			<Location x="896" y="2624"/>
+			<Location x="960" y="2624"/>
+			<Location x="2752" y="2624"/>
+			<Location x="1408" y="2688"/>
+			<Location x="3136" y="2688"/>
+			<Location x="64" y="2752"/>
+			<Location x="448" y="2752"/>
+			<Location x="768" y="2752"/>
+			<Location x="1216" y="2752"/>
+			<Location x="2688" y="2752"/>
+			<Location x="128" y="2816"/>
+			<Location x="384" y="2816"/>
+			<Location x="704" y="2816"/>
+			<Location x="1216" y="2816"/>
+			<Location x="2048" y="2816"/>
+			<Location x="2368" y="2816"/>
+			<Location x="2496" y="2816"/>
+			<Location x="0" y="2880"/>
+			<Location x="64" y="2880"/>
+			<Location x="192" y="2880"/>
+			<Location x="320" y="2880"/>
+			<Location x="832" y="2880"/>
+			<Location x="896" y="2880"/>
+			<Location x="1792" y="2880"/>
+			<Location x="1920" y="2880"/>
+			<Location x="2240" y="2880"/>
+			<Location x="2624" y="2880"/>
+			<Location x="2880" y="2880"/>
+			<Location x="2944" y="2880"/>
+			<Location x="3008" y="2880"/>
+			<Location x="128" y="2944"/>
+			<Location x="704" y="2944"/>
+			<Location x="1088" y="2944"/>
+			<Location x="1152" y="2944"/>
+			<Location x="2240" y="2944"/>
+			<Location x="2304" y="2944"/>
+			<Location x="384" y="3008"/>
+			<Location x="448" y="3008"/>
+			<Location x="1088" y="3008"/>
+			<Location x="1280" y="3008"/>
+			<Location x="1920" y="3008"/>
+			<Location x="768" y="3072"/>
+			<Location x="2240" y="3072"/>
+			<Location x="2816" y="3072"/>
+			<Location x="3008" y="3072"/>
+			<Location x="3136" y="3072"/>
+			<Location x="192" y="3136"/>
+			<Location x="1600" y="3136"/>
+			<Location x="2112" y="3136"/>
+			<Location x="2368" y="3136"/>
+			<Location x="2944" y="3136"/>
+			<Location x="3008" y="3136"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|8,1">
+		<SpriteSheet>grass_tileset</SpriteSheet>
+		<SheetCoordinates col="8" row="1"/>
+		<Locations layer="1">
+			<Location x="64" y="0"/>
+			<Location x="128" y="0"/>
+			<Location x="1088" y="0"/>
+			<Location x="1920" y="0"/>
+			<Location x="2176" y="0"/>
+			<Location x="2496" y="0"/>
+			<Location x="2944" y="0"/>
+			<Location x="3136" y="0"/>
+			<Location x="576" y="64"/>
+			<Location x="1664" y="64"/>
+			<Location x="1920" y="64"/>
+			<Location x="2496" y="64"/>
+			<Location x="2688" y="64"/>
+			<Location x="0" y="128"/>
+			<Location x="1152" y="128"/>
+			<Location x="1408" y="128"/>
+			<Location x="2368" y="128"/>
+			<Location x="3136" y="128"/>
+			<Location x="0" y="192"/>
+			<Location x="64" y="192"/>
+			<Location x="512" y="192"/>
+			<Location x="896" y="192"/>
+			<Location x="1664" y="192"/>
+			<Location x="576" y="256"/>
+			<Location x="2176" y="256"/>
+			<Location x="2496" y="256"/>
+			<Location x="3136" y="256"/>
+			<Location x="128" y="320"/>
+			<Location x="576" y="320"/>
+			<Location x="2496" y="320"/>
+			<Location x="2624" y="320"/>
+			<Location x="2816" y="320"/>
+			<Location x="640" y="384"/>
+			<Location x="1152" y="384"/>
+			<Location x="1920" y="384"/>
+			<Location x="2624" y="384"/>
+			<Location x="2816" y="384"/>
+			<Location x="1152" y="448"/>
+			<Location x="1344" y="448"/>
+			<Location x="1408" y="448"/>
+			<Location x="512" y="512"/>
+			<Location x="704" y="512"/>
+			<Location x="768" y="512"/>
+			<Location x="1856" y="512"/>
+			<Location x="2880" y="512"/>
+			<Location x="384" y="576"/>
+			<Location x="576" y="576"/>
+			<Location x="1088" y="576"/>
+			<Location x="1536" y="576"/>
+			<Location x="1664" y="576"/>
+			<Location x="2624" y="576"/>
+			<Location x="3136" y="576"/>
+			<Location x="320" y="640"/>
+			<Location x="1280" y="640"/>
+			<Location x="1408" y="640"/>
+			<Location x="2624" y="640"/>
+			<Location x="448" y="704"/>
+			<Location x="1600" y="704"/>
+			<Location x="3072" y="704"/>
+			<Location x="3136" y="704"/>
+			<Location x="448" y="768"/>
+			<Location x="1472" y="768"/>
+			<Location x="2560" y="768"/>
+			<Location x="2624" y="768"/>
+			<Location x="2944" y="768"/>
+			<Location x="3008" y="768"/>
+			<Location x="512" y="832"/>
+			<Location x="1344" y="832"/>
+			<Location x="320" y="896"/>
+			<Location x="512" y="896"/>
+			<Location x="512" y="1024"/>
+			<Location x="1280" y="1024"/>
+			<Location x="2560" y="1024"/>
+			<Location x="384" y="1088"/>
+			<Location x="576" y="1088"/>
+			<Location x="2560" y="1088"/>
+			<Location x="2816" y="1088"/>
+			<Location x="3136" y="1088"/>
+			<Location x="64" y="1152"/>
+			<Location x="448" y="1152"/>
+			<Location x="1536" y="1152"/>
+			<Location x="2560" y="1152"/>
+			<Location x="2752" y="1152"/>
+			<Location x="1472" y="1216"/>
+			<Location x="768" y="1280"/>
+			<Location x="1088" y="1280"/>
+			<Location x="1280" y="1280"/>
+			<Location x="2432" y="1280"/>
+			<Location x="2816" y="1280"/>
+			<Location x="384" y="1344"/>
+			<Location x="576" y="1344"/>
+			<Location x="640" y="1344"/>
+			<Location x="768" y="1344"/>
+			<Location x="1856" y="1344"/>
+			<Location x="2112" y="1344"/>
+			<Location x="0" y="1408"/>
+			<Location x="1024" y="1408"/>
+			<Location x="1408" y="1408"/>
+			<Location x="1856" y="1408"/>
+			<Location x="2496" y="1408"/>
+			<Location x="2560" y="1408"/>
+			<Location x="192" y="1472"/>
+			<Location x="640" y="1472"/>
+			<Location x="896" y="1472"/>
+			<Location x="1280" y="1472"/>
+			<Location x="2240" y="1472"/>
+			<Location x="1024" y="1536"/>
+			<Location x="1216" y="1536"/>
+			<Location x="1280" y="1536"/>
+			<Location x="1664" y="1536"/>
+			<Location x="1920" y="1536"/>
+			<Location x="448" y="1600"/>
+			<Location x="768" y="1600"/>
+			<Location x="1280" y="1600"/>
+			<Location x="3072" y="1600"/>
+			<Location x="1600" y="1664"/>
+			<Location x="2048" y="1664"/>
+			<Location x="2112" y="1664"/>
+			<Location x="2240" y="1664"/>
+			<Location x="2304" y="1664"/>
+			<Location x="2688" y="1664"/>
+			<Location x="3136" y="1664"/>
+			<Location x="384" y="1728"/>
+			<Location x="2048" y="1728"/>
+			<Location x="2560" y="1728"/>
+			<Location x="320" y="1792"/>
+			<Location x="512" y="1792"/>
+			<Location x="704" y="1792"/>
+			<Location x="768" y="1792"/>
+			<Location x="960" y="1792"/>
+			<Location x="1024" y="1792"/>
+			<Location x="1152" y="1792"/>
+			<Location x="2112" y="1792"/>
+			<Location x="2880" y="1792"/>
+			<Location x="3008" y="1792"/>
+			<Location x="3136" y="1792"/>
+			<Location x="320" y="1856"/>
+			<Location x="1088" y="1856"/>
+			<Location x="2816" y="1856"/>
+			<Location x="3072" y="1856"/>
+			<Location x="0" y="1920"/>
+			<Location x="256" y="1920"/>
+			<Location x="512" y="1920"/>
+			<Location x="2112" y="1920"/>
+			<Location x="2176" y="1920"/>
+			<Location x="2304" y="1920"/>
+			<Location x="2560" y="1920"/>
+			<Location x="2880" y="1920"/>
+			<Location x="3072" y="1920"/>
+			<Location x="576" y="1984"/>
+			<Location x="2112" y="1984"/>
+			<Location x="2304" y="1984"/>
+			<Location x="3008" y="1984"/>
+			<Location x="896" y="2048"/>
+			<Location x="2304" y="2048"/>
+			<Location x="3072" y="2048"/>
+			<Location x="256" y="2112"/>
+			<Location x="2432" y="2112"/>
+			<Location x="3008" y="2112"/>
+			<Location x="3072" y="2112"/>
+			<Location x="64" y="2176"/>
+			<Location x="448" y="2176"/>
+			<Location x="640" y="2176"/>
+			<Location x="2432" y="2176"/>
+			<Location x="2752" y="2176"/>
+			<Location x="3008" y="2176"/>
+			<Location x="3136" y="2176"/>
+			<Location x="128" y="2240"/>
+			<Location x="576" y="2240"/>
+			<Location x="2752" y="2240"/>
+			<Location x="640" y="2304"/>
+			<Location x="896" y="2304"/>
+			<Location x="2688" y="2304"/>
+			<Location x="3072" y="2304"/>
+			<Location x="192" y="2368"/>
+			<Location x="448" y="2368"/>
+			<Location x="1024" y="2368"/>
+			<Location x="2688" y="2368"/>
+			<Location x="256" y="2432"/>
+			<Location x="896" y="2432"/>
+			<Location x="1024" y="2432"/>
+			<Location x="320" y="2496"/>
+			<Location x="960" y="2496"/>
+			<Location x="1088" y="2496"/>
+			<Location x="192" y="2560"/>
+			<Location x="768" y="2560"/>
+			<Location x="960" y="2560"/>
+			<Location x="2560" y="2560"/>
+			<Location x="2752" y="2560"/>
+			<Location x="2880" y="2560"/>
+			<Location x="384" y="2624"/>
+			<Location x="1152" y="2624"/>
+			<Location x="3008" y="2624"/>
+			<Location x="192" y="2688"/>
+			<Location x="256" y="2688"/>
+			<Location x="640" y="2688"/>
+			<Location x="832" y="2688"/>
+			<Location x="960" y="2688"/>
+			<Location x="2176" y="2688"/>
+			<Location x="2496" y="2688"/>
+			<Location x="2624" y="2688"/>
+			<Location x="640" y="2752"/>
+			<Location x="832" y="2752"/>
+			<Location x="1600" y="2752"/>
+			<Location x="2880" y="2752"/>
+			<Location x="2944" y="2752"/>
+			<Location x="448" y="2816"/>
+			<Location x="640" y="2816"/>
+			<Location x="1728" y="2816"/>
+			<Location x="1856" y="2816"/>
+			<Location x="2240" y="2816"/>
+			<Location x="2560" y="2816"/>
+			<Location x="2688" y="2816"/>
+			<Location x="3072" y="2816"/>
+			<Location x="384" y="2880"/>
+			<Location x="768" y="2880"/>
+			<Location x="1600" y="2880"/>
+			<Location x="1984" y="2880"/>
+			<Location x="2560" y="2880"/>
+			<Location x="2816" y="2880"/>
+			<Location x="576" y="2944"/>
+			<Location x="1408" y="2944"/>
+			<Location x="1664" y="2944"/>
+			<Location x="2880" y="2944"/>
+			<Location x="2944" y="2944"/>
+			<Location x="1728" y="3008"/>
+			<Location x="2112" y="3008"/>
+			<Location x="2944" y="3008"/>
+			<Location x="3072" y="3008"/>
+			<Location x="64" y="3072"/>
+			<Location x="640" y="3072"/>
+			<Location x="832" y="3072"/>
+			<Location x="2112" y="3072"/>
+			<Location x="128" y="3136"/>
+			<Location x="1344" y="3136"/>
+			<Location x="1408" y="3136"/>
+			<Location x="1536" y="3136"/>
+			<Location x="2240" y="3136"/>
+			<Location x="2880" y="3136"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|0,2">
+		<TileSetAnimation>
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1500</FrameMinDuration>
+			<FrameMaxDuration>3000</FrameMaxDuration>
+			<Frames length="2">
+				<Frame tileName="grass_tileset|0,2" spriteSheet="grass_tileset" col="0" row="2"/>
+				<Frame tileName="grass_tileset|1,2" spriteSheet="grass_tileset" col="1" row="2"/>
+			</Frames>
+		</TileSetAnimation>
+		<Locations layer="1">
+			<Location x="640" y="1216"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|1,2">
+		<SpriteSheet>grass_tileset</SpriteSheet>
+		<SheetCoordinates col="1" row="2"/>
+		<Locations layer="1">
+			<Location x="1024" y="2176"/>
+			<Location x="1088" y="2368"/>
+			<Location x="1152" y="2560"/>
+			<Location x="1216" y="2624"/>
+			<Location x="1472" y="2688"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|2,2">
+		<TileSetAnimation>
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1500</FrameMinDuration>
+			<FrameMaxDuration>3000</FrameMaxDuration>
+			<Frames length="2">
+				<Frame tileName="grass_tileset|2,2" spriteSheet="grass_tileset" col="2" row="2"/>
+				<Frame tileName="grass_tileset|3,2" spriteSheet="grass_tileset" col="3" row="2"/>
+			</Frames>
+		</TileSetAnimation>
+		<Locations layer="1">
+			<Location x="704" y="1216"/>
+			<Location x="768" y="1216"/>
+			<Location x="832" y="1216"/>
+			<Location x="896" y="1216"/>
+			<Location x="960" y="1216"/>
+			<Location x="1024" y="1216"/>
+			<Location x="1088" y="1216"/>
+			<Location x="1152" y="1216"/>
+			<Location x="2176" y="2560"/>
+			<Location x="1280" y="2624"/>
+			<Location x="1344" y="2624"/>
+			<Location x="1408" y="2624"/>
+			<Location x="1536" y="2688"/>
+			<Location x="1600" y="2688"/>
+			<Location x="1664" y="2688"/>
+			<Location x="1728" y="2688"/>
+			<Location x="1792" y="2688"/>
+			<Location x="1856" y="2688"/>
+			<Location x="1920" y="2688"/>
+			<Location x="1984" y="2688"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|4,2">
+		<TileSetAnimation>
+			<CurrentFrameIndex>0</CurrentFrameIndex>
+			<FrameMinDuration>1500</FrameMinDuration>
+			<FrameMaxDuration>3000</FrameMaxDuration>
+			<Frames length="2">
+				<Frame tileName="grass_tileset|4,2" spriteSheet="grass_tileset" col="4" row="2"/>
+				<Frame tileName="grass_tileset|5,2" spriteSheet="grass_tileset" col="5" row="2"/>
+			</Frames>
+		</TileSetAnimation>
+		<Locations layer="1">
+			<Location x="1216" y="1216"/>
+			<Location x="2240" y="2560"/>
+			<Location x="2112" y="2624"/>
+			<Location x="2048" y="2688"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|6,2">
+		<SpriteSheet>grass_tileset</SpriteSheet>
+		<SheetCoordinates col="6" row="2"/>
+		<Locations layer="1">
+			<Location x="1216" y="0"/>
+			<Location x="1280" y="0"/>
+			<Location x="1856" y="0"/>
+			<Location x="128" y="64"/>
+			<Location x="384" y="64"/>
+			<Location x="1088" y="64"/>
+			<Location x="1152" y="64"/>
+			<Location x="2624" y="64"/>
+			<Location x="640" y="128"/>
+			<Location x="768" y="128"/>
+			<Location x="960" y="128"/>
+			<Location x="1280" y="128"/>
+			<Location x="1920" y="128"/>
+			<Location x="2432" y="128"/>
+			<Location x="2816" y="128"/>
+			<Location x="3072" y="128"/>
+			<Location x="128" y="192"/>
+			<Location x="640" y="192"/>
+			<Location x="1152" y="192"/>
+			<Location x="2112" y="192"/>
+			<Location x="2752" y="192"/>
+			<Location x="3072" y="192"/>
+			<Location x="1024" y="256"/>
+			<Location x="1536" y="256"/>
+			<Location x="1600" y="256"/>
+			<Location x="1664" y="256"/>
+			<Location x="2624" y="256"/>
+			<Location x="384" y="320"/>
+			<Location x="768" y="320"/>
+			<Location x="832" y="320"/>
+			<Location x="896" y="320"/>
+			<Location x="1088" y="320"/>
+			<Location x="1600" y="320"/>
+			<Location x="1728" y="320"/>
+			<Location x="1856" y="320"/>
+			<Location x="2240" y="320"/>
+			<Location x="2304" y="320"/>
+			<Location x="128" y="384"/>
+			<Location x="320" y="384"/>
+			<Location x="384" y="384"/>
+			<Location x="1280" y="384"/>
+			<Location x="1472" y="384"/>
+			<Location x="2368" y="384"/>
+			<Location x="192" y="448"/>
+			<Location x="960" y="448"/>
+			<Location x="1792" y="448"/>
+			<Location x="1856" y="448"/>
+			<Location x="2560" y="448"/>
+			<Location x="2880" y="448"/>
+			<Location x="3136" y="448"/>
+			<Location x="64" y="512"/>
+			<Location x="896" y="512"/>
+			<Location x="1216" y="512"/>
+			<Location x="1728" y="512"/>
+			<Location x="128" y="576"/>
+			<Location x="1152" y="576"/>
+			<Location x="1216" y="576"/>
+			<Location x="1344" y="576"/>
+			<Location x="2048" y="576"/>
+			<Location x="2304" y="576"/>
+			<Location x="3008" y="576"/>
+			<Location x="0" y="640"/>
+			<Location x="192" y="640"/>
+			<Location x="3072" y="640"/>
+			<Location x="3136" y="640"/>
+			<Location x="384" y="704"/>
+			<Location x="576" y="704"/>
+			<Location x="1280" y="704"/>
+			<Location x="3008" y="704"/>
+			<Location x="576" y="768"/>
+			<Location x="1856" y="768"/>
+			<Location x="2752" y="768"/>
+			<Location x="2816" y="768"/>
+			<Location x="3072" y="768"/>
+			<Location x="192" y="832"/>
+			<Location x="1408" y="832"/>
+			<Location x="384" y="896"/>
+			<Location x="1344" y="896"/>
+			<Location x="1792" y="896"/>
+			<Location x="2688" y="896"/>
+			<Location x="3008" y="896"/>
+			<Location x="3072" y="896"/>
+			<Location x="1792" y="960"/>
+			<Location x="2944" y="960"/>
+			<Location x="3072" y="960"/>
+			<Location x="576" y="1024"/>
+			<Location x="2688" y="1024"/>
+			<Location x="1600" y="1088"/>
+			<Location x="3008" y="1088"/>
+			<Location x="1728" y="1152"/>
+			<Location x="576" y="1216"/>
+			<Location x="3008" y="1216"/>
+			<Location x="3072" y="1216"/>
+			<Location x="64" y="1280"/>
+			<Location x="192" y="1280"/>
+			<Location x="384" y="1280"/>
+			<Location x="1152" y="1280"/>
+			<Location x="1920" y="1280"/>
+			<Location x="1984" y="1280"/>
+			<Location x="2240" y="1280"/>
+			<Location x="2368" y="1280"/>
+			<Location x="2624" y="1280"/>
+			<Location x="2688" y="1280"/>
+			<Location x="2752" y="1280"/>
+			<Location x="3008" y="1280"/>
+			<Location x="128" y="1344"/>
+			<Location x="832" y="1344"/>
+			<Location x="1088" y="1344"/>
+			<Location x="1216" y="1344"/>
+			<Location x="1792" y="1344"/>
+			<Location x="1920" y="1344"/>
+			<Location x="2048" y="1344"/>
+			<Location x="2240" y="1344"/>
+			<Location x="2624" y="1344"/>
+			<Location x="2752" y="1344"/>
+			<Location x="2816" y="1344"/>
+			<Location x="448" y="1408"/>
+			<Location x="640" y="1408"/>
+			<Location x="896" y="1408"/>
+			<Location x="960" y="1408"/>
+			<Location x="1152" y="1472"/>
+			<Location x="1344" y="1472"/>
+			<Location x="2368" y="1472"/>
+			<Location x="2496" y="1472"/>
+			<Location x="3136" y="1472"/>
+			<Location x="1344" y="1536"/>
+			<Location x="1472" y="1536"/>
+			<Location x="2944" y="1536"/>
+			<Location x="896" y="1600"/>
+			<Location x="1600" y="1600"/>
+			<Location x="2176" y="1600"/>
+			<Location x="3008" y="1600"/>
+			<Location x="832" y="1664"/>
+			<Location x="1152" y="1664"/>
+			<Location x="2816" y="1664"/>
+			<Location x="2944" y="1664"/>
+			<Location x="2112" y="1728"/>
+			<Location x="2240" y="1728"/>
+			<Location x="2304" y="1728"/>
+			<Location x="2944" y="1792"/>
+			<Location x="256" y="1856"/>
+			<Location x="896" y="1856"/>
+			<Location x="2240" y="1856"/>
+			<Location x="2432" y="1856"/>
+			<Location x="2880" y="1856"/>
+			<Location x="3136" y="1856"/>
+			<Location x="2240" y="1920"/>
+			<Location x="2944" y="1920"/>
+			<Location x="704" y="1984"/>
+			<Location x="192" y="2048"/>
+			<Location x="320" y="2048"/>
+			<Location x="576" y="2048"/>
+			<Location x="2624" y="2048"/>
+			<Location x="448" y="2112"/>
+			<Location x="576" y="2112"/>
+			<Location x="640" y="2112"/>
+			<Location x="896" y="2112"/>
+			<Location x="128" y="2176"/>
+			<Location x="256" y="2176"/>
+			<Location x="2368" y="2176"/>
+			<Location x="2560" y="2176"/>
+			<Location x="320" y="2240"/>
+			<Location x="896" y="2240"/>
+			<Location x="1024" y="2240"/>
+			<Location x="2432" y="2240"/>
+			<Location x="2688" y="2240"/>
+			<Location x="2816" y="2304"/>
+			<Location x="320" y="2368"/>
+			<Location x="768" y="2368"/>
+			<Location x="2560" y="2368"/>
+			<Location x="2752" y="2368"/>
+			<Location x="2944" y="2368"/>
+			<Location x="64" y="2432"/>
+			<Location x="576" y="2432"/>
+			<Location x="640" y="2432"/>
+			<Location x="2432" y="2432"/>
+			<Location x="2688" y="2432"/>
+			<Location x="2752" y="2432"/>
+			<Location x="2816" y="2432"/>
+			<Location x="1024" y="2496"/>
+			<Location x="2880" y="2496"/>
+			<Location x="448" y="2560"/>
+			<Location x="640" y="2560"/>
+			<Location x="704" y="2560"/>
+			<Location x="896" y="2560"/>
+			<Location x="2496" y="2560"/>
+			<Location x="2688" y="2560"/>
+			<Location x="128" y="2624"/>
+			<Location x="640" y="2624"/>
+			<Location x="2560" y="2624"/>
+			<Location x="448" y="2688"/>
+			<Location x="512" y="2688"/>
+			<Location x="1344" y="2688"/>
+			<Location x="2304" y="2688"/>
+			<Location x="2880" y="2688"/>
+			<Location x="2368" y="2752"/>
+			<Location x="832" y="2816"/>
+			<Location x="1344" y="2816"/>
+			<Location x="1664" y="2816"/>
+			<Location x="256" y="2880"/>
+			<Location x="448" y="2880"/>
+			<Location x="576" y="2880"/>
+			<Location x="704" y="2880"/>
+			<Location x="960" y="2880"/>
+			<Location x="1152" y="2880"/>
+			<Location x="1344" y="2880"/>
+			<Location x="2368" y="2880"/>
+			<Location x="2432" y="2880"/>
+			<Location x="3072" y="2880"/>
+			<Location x="256" y="2944"/>
+			<Location x="320" y="2944"/>
+			<Location x="2432" y="2944"/>
+			<Location x="3008" y="2944"/>
+			<Location x="0" y="3008"/>
+			<Location x="320" y="3008"/>
+			<Location x="576" y="3008"/>
+			<Location x="1408" y="3008"/>
+			<Location x="1536" y="3008"/>
+			<Location x="1600" y="3008"/>
+			<Location x="128" y="3072"/>
+			<Location x="384" y="3072"/>
+			<Location x="448" y="3072"/>
+			<Location x="1472" y="3072"/>
+			<Location x="1984" y="3072"/>
+			<Location x="2496" y="3072"/>
+			<Location x="2688" y="3072"/>
+			<Location x="3072" y="3072"/>
+			<Location x="448" y="3136"/>
+			<Location x="832" y="3136"/>
+			<Location x="1728" y="3136"/>
+			<Location x="2048" y="3136"/>
+			<Location x="2432" y="3136"/>
+			<Location x="2624" y="3136"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|7,2">
+		<SpriteSheet>grass_tileset</SpriteSheet>
+		<SheetCoordinates col="7" row="2"/>
+		<Locations layer="1">
+			<Location x="1792" y="0"/>
+			<Location x="2112" y="0"/>
+			<Location x="3008" y="0"/>
+			<Location x="0" y="64"/>
+			<Location x="192" y="64"/>
+			<Location x="320" y="64"/>
+			<Location x="704" y="64"/>
+			<Location x="1024" y="64"/>
+			<Location x="1216" y="64"/>
+			<Location x="1536" y="64"/>
+			<Location x="2944" y="64"/>
+			<Location x="128" y="128"/>
+			<Location x="192" y="128"/>
+			<Location x="256" y="128"/>
+			<Location x="1536" y="128"/>
+			<Location x="2048" y="128"/>
+			<Location x="192" y="192"/>
+			<Location x="704" y="192"/>
+			<Location x="2304" y="192"/>
+			<Location x="2688" y="192"/>
+			<Location x="3136" y="192"/>
+			<Location x="320" y="256"/>
+			<Location x="448" y="256"/>
+			<Location x="512" y="256"/>
+			<Location x="1408" y="256"/>
+			<Location x="1472" y="256"/>
+			<Location x="2688" y="256"/>
+			<Location x="0" y="320"/>
+			<Location x="2048" y="320"/>
+			<Location x="2560" y="320"/>
+			<Location x="2688" y="320"/>
+			<Location x="2944" y="320"/>
+			<Location x="704" y="384"/>
+			<Location x="1408" y="384"/>
+			<Location x="1600" y="384"/>
+			<Location x="1664" y="384"/>
+			<Location x="3136" y="384"/>
+			<Location x="64" y="448"/>
+			<Location x="1280" y="448"/>
+			<Location x="1920" y="448"/>
+			<Location x="1984" y="448"/>
+			<Location x="2944" y="448"/>
+			<Location x="960" y="512"/>
+			<Location x="1024" y="512"/>
+			<Location x="1664" y="512"/>
+			<Location x="2048" y="512"/>
+			<Location x="2112" y="512"/>
+			<Location x="2816" y="512"/>
+			<Location x="192" y="576"/>
+			<Location x="320" y="576"/>
+			<Location x="512" y="576"/>
+			<Location x="1280" y="576"/>
+			<Location x="1600" y="576"/>
+			<Location x="2560" y="576"/>
+			<Location x="2688" y="576"/>
+			<Location x="2752" y="576"/>
+			<Location x="1472" y="640"/>
+			<Location x="1536" y="640"/>
+			<Location x="1792" y="640"/>
+			<Location x="128" y="704"/>
+			<Location x="1472" y="704"/>
+			<Location x="2560" y="704"/>
+			<Location x="64" y="768"/>
+			<Location x="192" y="768"/>
+			<Location x="1600" y="768"/>
+			<Location x="1280" y="832"/>
+			<Location x="2752" y="832"/>
+			<Location x="3136" y="832"/>
+			<Location x="1408" y="896"/>
+			<Location x="1856" y="896"/>
+			<Location x="2560" y="896"/>
+			<Location x="576" y="960"/>
+			<Location x="1280" y="960"/>
+			<Location x="1856" y="960"/>
+			<Location x="2752" y="960"/>
+			<Location x="1472" y="1024"/>
+			<Location x="1728" y="1024"/>
+			<Location x="1664" y="1088"/>
+			<Location x="1728" y="1088"/>
+			<Location x="2944" y="1088"/>
+			<Location x="1600" y="1152"/>
+			<Location x="1856" y="1152"/>
+			<Location x="2624" y="1152"/>
+			<Location x="2880" y="1152"/>
+			<Location x="0" y="1216"/>
+			<Location x="384" y="1216"/>
+			<Location x="2624" y="1216"/>
+			<Location x="3136" y="1216"/>
+			<Location x="576" y="1280"/>
+			<Location x="1536" y="1280"/>
+			<Location x="896" y="1344"/>
+			<Location x="1728" y="1344"/>
+			<Location x="2880" y="1344"/>
+			<Location x="2944" y="1344"/>
+			<Location x="576" y="1408"/>
+			<Location x="1280" y="1408"/>
+			<Location x="1984" y="1408"/>
+			<Location x="2304" y="1408"/>
+			<Location x="2432" y="1408"/>
+			<Location x="2816" y="1408"/>
+			<Location x="2944" y="1408"/>
+			<Location x="3136" y="1408"/>
+			<Location x="1408" y="1472"/>
+			<Location x="1856" y="1472"/>
+			<Location x="2112" y="1472"/>
+			<Location x="2816" y="1472"/>
+			<Location x="320" y="1536"/>
+			<Location x="384" y="1536"/>
+			<Location x="512" y="1536"/>
+			<Location x="640" y="1536"/>
+			<Location x="704" y="1536"/>
+			<Location x="1984" y="1536"/>
+			<Location x="2048" y="1536"/>
+			<Location x="2816" y="1536"/>
+			<Location x="3008" y="1536"/>
+			<Location x="832" y="1600"/>
+			<Location x="576" y="1664"/>
+			<Location x="1280" y="1664"/>
+			<Location x="1728" y="1664"/>
+			<Location x="2368" y="1664"/>
+			<Location x="2496" y="1664"/>
+			<Location x="3072" y="1664"/>
+			<Location x="64" y="1728"/>
+			<Location x="1216" y="1728"/>
+			<Location x="2176" y="1728"/>
+			<Location x="2880" y="1728"/>
+			<Location x="448" y="1792"/>
+			<Location x="1216" y="1792"/>
+			<Location x="2176" y="1792"/>
+			<Location x="2432" y="1792"/>
+			<Location x="3072" y="1792"/>
+			<Location x="64" y="1856"/>
+			<Location x="384" y="1856"/>
+			<Location x="960" y="1856"/>
+			<Location x="2624" y="1856"/>
+			<Location x="2752" y="1856"/>
+			<Location x="2944" y="1856"/>
+			<Location x="3008" y="1856"/>
+			<Location x="3008" y="1920"/>
+			<Location x="192" y="1984"/>
+			<Location x="2240" y="1984"/>
+			<Location x="2432" y="1984"/>
+			<Location x="2496" y="1984"/>
+			<Location x="2624" y="1984"/>
+			<Location x="2752" y="1984"/>
+			<Location x="2816" y="1984"/>
+			<Location x="512" y="2048"/>
+			<Location x="768" y="2048"/>
+			<Location x="960" y="2048"/>
+			<Location x="2432" y="2048"/>
+			<Location x="384" y="2112"/>
+			<Location x="704" y="2112"/>
+			<Location x="2496" y="2112"/>
+			<Location x="2560" y="2112"/>
+			<Location x="2688" y="2112"/>
+			<Location x="320" y="2176"/>
+			<Location x="512" y="2176"/>
+			<Location x="704" y="2176"/>
+			<Location x="2944" y="2176"/>
+			<Location x="640" y="2240"/>
+			<Location x="576" y="2304"/>
+			<Location x="2880" y="2304"/>
+			<Location x="256" y="2368"/>
+			<Location x="640" y="2368"/>
+			<Location x="2368" y="2368"/>
+			<Location x="2496" y="2368"/>
+			<Location x="384" y="2432"/>
+			<Location x="2944" y="2432"/>
+			<Location x="2432" y="2496"/>
+			<Location x="3072" y="2496"/>
+			<Location x="128" y="2560"/>
+			<Location x="256" y="2560"/>
+			<Location x="3072" y="2560"/>
+			<Location x="256" y="2624"/>
+			<Location x="2176" y="2624"/>
+			<Location x="2240" y="2624"/>
+			<Location x="2624" y="2624"/>
+			<Location x="576" y="2688"/>
+			<Location x="1024" y="2688"/>
+			<Location x="2112" y="2688"/>
+			<Location x="2432" y="2688"/>
+			<Location x="2944" y="2688"/>
+			<Location x="1344" y="2752"/>
+			<Location x="1472" y="2752"/>
+			<Location x="64" y="2816"/>
+			<Location x="192" y="2816"/>
+			<Location x="320" y="2816"/>
+			<Location x="1408" y="2816"/>
+			<Location x="1472" y="2816"/>
+			<Location x="1600" y="2816"/>
+			<Location x="2432" y="2816"/>
+			<Location x="128" y="2880"/>
+			<Location x="512" y="2880"/>
+			<Location x="1472" y="2880"/>
+			<Location x="1856" y="2880"/>
+			<Location x="2048" y="2880"/>
+			<Location x="2112" y="2880"/>
+			<Location x="64" y="2944"/>
+			<Location x="640" y="2944"/>
+			<Location x="1024" y="2944"/>
+			<Location x="1856" y="2944"/>
+			<Location x="2624" y="2944"/>
+			<Location x="2688" y="2944"/>
+			<Location x="1152" y="3008"/>
+			<Location x="1664" y="3008"/>
+			<Location x="2624" y="3008"/>
+			<Location x="2752" y="3008"/>
+			<Location x="2816" y="3008"/>
+			<Location x="512" y="3072"/>
+			<Location x="1856" y="3072"/>
+			<Location x="1920" y="3072"/>
+			<Location x="640" y="3136"/>
+			<Location x="896" y="3136"/>
+			<Location x="1088" y="3136"/>
+			<Location x="1280" y="3136"/>
+			<Location x="1792" y="3136"/>
+			<Location x="2816" y="3136"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="grass_tileset|8,2">
+		<SpriteSheet>grass_tileset</SpriteSheet>
+		<SheetCoordinates col="8" row="2"/>
+		<Locations layer="1">
+			<Location x="384" y="0"/>
+			<Location x="960" y="0"/>
+			<Location x="1152" y="0"/>
+			<Location x="1408" y="0"/>
+			<Location x="1664" y="0"/>
+			<Location x="2304" y="0"/>
+			<Location x="2368" y="0"/>
+			<Location x="2560" y="0"/>
+			<Location x="2880" y="0"/>
+			<Location x="832" y="64"/>
+			<Location x="1408" y="64"/>
+			<Location x="2112" y="64"/>
+			<Location x="2240" y="64"/>
+			<Location x="2304" y="64"/>
+			<Location x="2880" y="64"/>
+			<Location x="3136" y="64"/>
+			<Location x="448" y="128"/>
+			<Location x="704" y="128"/>
+			<Location x="1792" y="128"/>
+			<Location x="576" y="192"/>
+			<Location x="768" y="192"/>
+			<Location x="1024" y="192"/>
+			<Location x="1600" y="192"/>
+			<Location x="1984" y="192"/>
+			<Location x="2048" y="192"/>
+			<Location x="2240" y="192"/>
+			<Location x="2432" y="192"/>
+			<Location x="2816" y="192"/>
+			<Location x="384" y="256"/>
+			<Location x="704" y="256"/>
+			<Location x="768" y="256"/>
+			<Location x="1792" y="256"/>
+			<Location x="2048" y="256"/>
+			<Location x="2816" y="256"/>
+			<Location x="3008" y="256"/>
+			<Location x="320" y="320"/>
+			<Location x="1792" y="320"/>
+			<Location x="1920" y="320"/>
+			<Location x="3136" y="320"/>
+			<Location x="64" y="384"/>
+			<Location x="512" y="384"/>
+			<Location x="960" y="384"/>
+			<Location x="1344" y="384"/>
+			<Location x="1792" y="384"/>
+			<Location x="2560" y="384"/>
+			<Location x="3008" y="384"/>
+			<Location x="0" y="448"/>
+			<Location x="256" y="448"/>
+			<Location x="512" y="448"/>
+			<Location x="832" y="448"/>
+			<Location x="1600" y="448"/>
+			<Location x="1728" y="448"/>
+			<Location x="2112" y="448"/>
+			<Location x="2176" y="448"/>
+			<Location x="2240" y="448"/>
+			<Location x="2496" y="448"/>
+			<Location x="2752" y="448"/>
+			<Location x="3072" y="448"/>
+			<Location x="1280" y="512"/>
+			<Location x="1792" y="512"/>
+			<Location x="704" y="576"/>
+			<Location x="1024" y="576"/>
+			<Location x="2432" y="576"/>
+			<Location x="2944" y="576"/>
+			<Location x="128" y="640"/>
+			<Location x="2880" y="640"/>
+			<Location x="2944" y="640"/>
+			<Location x="0" y="704"/>
+			<Location x="1856" y="704"/>
+			<Location x="2752" y="704"/>
+			<Location x="256" y="768"/>
+			<Location x="2816" y="832"/>
+			<Location x="576" y="896"/>
+			<Location x="1472" y="896"/>
+			<Location x="1536" y="896"/>
+			<Location x="2816" y="896"/>
+			<Location x="2880" y="896"/>
+			<Location x="320" y="960"/>
+			<Location x="384" y="960"/>
+			<Location x="3008" y="960"/>
+			<Location x="0" y="1024"/>
+			<Location x="384" y="1024"/>
+			<Location x="2752" y="1024"/>
+			<Location x="2944" y="1024"/>
+			<Location x="1408" y="1088"/>
+			<Location x="2880" y="1088"/>
+			<Location x="512" y="1152"/>
+			<Location x="1664" y="1152"/>
+			<Location x="1280" y="1216"/>
+			<Location x="1344" y="1216"/>
+			<Location x="1408" y="1216"/>
+			<Location x="2816" y="1216"/>
+			<Location x="1024" y="1280"/>
+			<Location x="1408" y="1280"/>
+			<Location x="2048" y="1280"/>
+			<Location x="2112" y="1280"/>
+			<Location x="2304" y="1280"/>
+			<Location x="2560" y="1280"/>
+			<Location x="3072" y="1280"/>
+			<Location x="256" y="1344"/>
+			<Location x="512" y="1344"/>
+			<Location x="704" y="1344"/>
+			<Location x="1024" y="1344"/>
+			<Location x="1408" y="1344"/>
+			<Location x="2688" y="1344"/>
+			<Location x="768" y="1408"/>
+			<Location x="832" y="1408"/>
+			<Location x="1152" y="1408"/>
+			<Location x="1728" y="1408"/>
+			<Location x="2048" y="1408"/>
+			<Location x="2688" y="1408"/>
+			<Location x="768" y="1472"/>
+			<Location x="1472" y="1472"/>
+			<Location x="1536" y="1472"/>
+			<Location x="1984" y="1472"/>
+			<Location x="2304" y="1472"/>
+			<Location x="2560" y="1472"/>
+			<Location x="2752" y="1472"/>
+			<Location x="1152" y="1536"/>
+			<Location x="1600" y="1536"/>
+			<Location x="1856" y="1536"/>
+			<Location x="3072" y="1536"/>
+			<Location x="1216" y="1600"/>
+			<Location x="2112" y="1600"/>
+			<Location x="2240" y="1600"/>
+			<Location x="2368" y="1600"/>
+			<Location x="2496" y="1600"/>
+			<Location x="448" y="1664"/>
+			<Location x="512" y="1664"/>
+			<Location x="1088" y="1664"/>
+			<Location x="1664" y="1664"/>
+			<Location x="2624" y="1664"/>
+			<Location x="256" y="1728"/>
+			<Location x="320" y="1728"/>
+			<Location x="448" y="1728"/>
+			<Location x="1088" y="1728"/>
+			<Location x="2816" y="1728"/>
+			<Location x="128" y="1792"/>
+			<Location x="640" y="1792"/>
+			<Location x="1920" y="1792"/>
+			<Location x="128" y="1856"/>
+			<Location x="448" y="1856"/>
+			<Location x="640" y="1856"/>
+			<Location x="704" y="1856"/>
+			<Location x="768" y="1856"/>
+			<Location x="2304" y="1856"/>
+			<Location x="2560" y="1856"/>
+			<Location x="128" y="1920"/>
+			<Location x="320" y="1920"/>
+			<Location x="384" y="1920"/>
+			<Location x="832" y="1920"/>
+			<Location x="2368" y="1984"/>
+			<Location x="128" y="2112"/>
+			<Location x="2304" y="2112"/>
+			<Location x="2816" y="2112"/>
+			<Location x="2880" y="2112"/>
+			<Location x="3136" y="2112"/>
+			<Location x="0" y="2176"/>
+			<Location x="192" y="2176"/>
+			<Location x="2624" y="2176"/>
+			<Location x="512" y="2240"/>
+			<Location x="2368" y="2304"/>
+			<Location x="2624" y="2304"/>
+			<Location x="2752" y="2304"/>
+			<Location x="3008" y="2304"/>
+			<Location x="448" y="2432"/>
+			<Location x="2368" y="2432"/>
+			<Location x="3008" y="2432"/>
+			<Location x="384" y="2496"/>
+			<Location x="512" y="2496"/>
+			<Location x="640" y="2496"/>
+			<Location x="768" y="2496"/>
+			<Location x="832" y="2496"/>
+			<Location x="2496" y="2496"/>
+			<Location x="576" y="2560"/>
+			<Location x="2304" y="2560"/>
+			<Location x="2432" y="2560"/>
+			<Location x="192" y="2624"/>
+			<Location x="704" y="2624"/>
+			<Location x="2816" y="2624"/>
+			<Location x="64" y="2688"/>
+			<Location x="320" y="2688"/>
+			<Location x="768" y="2688"/>
+			<Location x="3008" y="2688"/>
+			<Location x="256" y="2752"/>
+			<Location x="704" y="2752"/>
+			<Location x="1536" y="2752"/>
+			<Location x="2176" y="2752"/>
+			<Location x="2432" y="2752"/>
+			<Location x="2624" y="2752"/>
+			<Location x="0" y="2816"/>
+			<Location x="1280" y="2816"/>
+			<Location x="1536" y="2816"/>
+			<Location x="1664" y="2880"/>
+			<Location x="2688" y="2880"/>
+			<Location x="0" y="2944"/>
+			<Location x="192" y="2944"/>
+			<Location x="384" y="2944"/>
+			<Location x="512" y="2944"/>
+			<Location x="832" y="2944"/>
+			<Location x="1984" y="2944"/>
+			<Location x="2112" y="2944"/>
+			<Location x="192" y="3008"/>
+			<Location x="256" y="3008"/>
+			<Location x="704" y="3008"/>
+			<Location x="768" y="3008"/>
+			<Location x="896" y="3008"/>
+			<Location x="1984" y="3008"/>
+			<Location x="2048" y="3008"/>
+			<Location x="2240" y="3008"/>
+			<Location x="1024" y="3072"/>
+			<Location x="1152" y="3072"/>
+			<Location x="1792" y="3072"/>
+			<Location x="2048" y="3072"/>
+			<Location x="2752" y="3072"/>
+			<Location x="64" y="3136"/>
+			<Location x="256" y="3136"/>
+			<Location x="320" y="3136"/>
+			<Location x="704" y="3136"/>
+			<Location x="1984" y="3136"/>
+			<Location x="2688" y="3136"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="woodfloor_tileset|0,1">
+		<SpriteSheet>woodfloor_tileset</SpriteSheet>
+		<SheetCoordinates col="0" row="1"/>
+		<Locations layer="1">
+			<Location x="1984" y="704"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="woodfloor_tileset|1,1">
+		<SpriteSheet>woodfloor_tileset</SpriteSheet>
+		<SheetCoordinates col="1" row="1"/>
+		<Locations layer="1">
+			<Location x="2048" y="704"/>
+			<Location x="2112" y="704"/>
+			<Location x="2176" y="704"/>
+			<Location x="2240" y="704"/>
+			<Location x="2304" y="704"/>
+			<Location x="2368" y="704"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="woodfloor_tileset|2,1">
+		<SpriteSheet>woodfloor_tileset</SpriteSheet>
+		<SheetCoordinates col="2" row="1"/>
+		<Locations layer="1">
+			<Location x="2432" y="704"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="woodfloor_tileset|0,2">
+		<SpriteSheet>woodfloor_tileset</SpriteSheet>
+		<SheetCoordinates col="0" row="2"/>
+		<Locations layer="1">
+			<Location x="1984" y="768"/>
+			<Location x="1984" y="832"/>
+			<Location x="1984" y="896"/>
+			<Location x="1984" y="960"/>
+			<Location x="1984" y="1024"/>
+			<Location x="1984" y="1088"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="woodfloor_tileset|1,2">
+		<SpriteSheet>woodfloor_tileset</SpriteSheet>
+		<SheetCoordinates col="1" row="2"/>
+		<Locations layer="1">
+			<Location x="2048" y="768"/>
+			<Location x="2112" y="768"/>
+			<Location x="2176" y="768"/>
+			<Location x="2240" y="768"/>
+			<Location x="2304" y="768"/>
+			<Location x="2368" y="768"/>
+			<Location x="2048" y="832"/>
+			<Location x="2112" y="832"/>
+			<Location x="2304" y="832"/>
+			<Location x="2368" y="832"/>
+			<Location x="1920" y="896"/>
+			<Location x="2048" y="896"/>
+			<Location x="2112" y="896"/>
+			<Location x="2304" y="896"/>
+			<Location x="2368" y="896"/>
+			<Location x="2496" y="896"/>
+			<Location x="1920" y="960"/>
+			<Location x="2048" y="960"/>
+			<Location x="2112" y="960"/>
+			<Location x="2304" y="960"/>
+			<Location x="2368" y="960"/>
+			<Location x="2496" y="960"/>
+			<Location x="2048" y="1024"/>
+			<Location x="2112" y="1024"/>
+			<Location x="2176" y="1024"/>
+			<Location x="2240" y="1024"/>
+			<Location x="2304" y="1024"/>
+			<Location x="2368" y="1024"/>
+			<Location x="2048" y="1088"/>
+			<Location x="2112" y="1088"/>
+			<Location x="2176" y="1088"/>
+			<Location x="2240" y="1088"/>
+			<Location x="2304" y="1088"/>
+			<Location x="2368" y="1088"/>
+			<Location x="2176" y="1216"/>
+			<Location x="2240" y="1216"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="woodfloor_tileset|2,2">
+		<SpriteSheet>woodfloor_tileset</SpriteSheet>
+		<SheetCoordinates col="2" row="2"/>
+		<Locations layer="1">
+			<Location x="2432" y="768"/>
+			<Location x="2432" y="832"/>
+			<Location x="2432" y="896"/>
+			<Location x="2432" y="960"/>
+			<Location x="2432" y="1024"/>
+			<Location x="2432" y="1088"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="woodfloor_tileset|0,3">
+		<SpriteSheet>woodfloor_tileset</SpriteSheet>
+		<SheetCoordinates col="0" row="3"/>
+		<Locations layer="1">
+			<Location x="1984" y="1152"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="woodfloor_tileset|1,3">
+		<SpriteSheet>woodfloor_tileset</SpriteSheet>
+		<SheetCoordinates col="1" row="3"/>
+		<Locations layer="1">
+			<Location x="2048" y="1152"/>
+			<Location x="2112" y="1152"/>
+			<Location x="2176" y="1152"/>
+			<Location x="2240" y="1152"/>
+			<Location x="2304" y="1152"/>
+		</Locations>
+	</Tile>
+	<Tile tileName="woodfloor_tileset|2,3">
+		<SpriteSheet>woodfloor_tileset</SpriteSheet>
+		<SheetCoordinates col="2" row="3"/>
+		<Locations layer="1">
+			<Location x="2368" y="1152"/>
+			<Location x="2432" y="1152"/>
+		</Locations>
+	</Tile>
+</GameMap>
